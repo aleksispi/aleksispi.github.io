@@ -1,31 +1,40 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# About
+I'm currently a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/en), where my main research interest is to develop ML methodologies for environmental applications in a broad sense (e.g. climate adaptation and humanitarian aid causes). I conducted my doctoral studies in computer vision at the Faculty of Engineering, Lund University, under the supervision of [Cristian Sminchisescu](https://www.maths.lth.se/sminchisescu/), and successfully defended my PhD thesis [*Reinforcement Learning for Active Visual Perception*](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) in June, 2021.
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+## Publications and preprints
+[*Fully Convolutional Networks for Dense Water Flow Intensity
+Prediction in Swedish Catchment Areas* (SAIS 2023)](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_6.pdf) | [arXiv](https://arxiv.org/abs/2304.01658) | [Code](https://github.com/aleksispi/fcn-water-flow) | [Video](https://youtu.be/dnE0AfiqoZo)
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+[*Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue* (ML-for-RS Workshop at ICLR 2023)](https://arxiv.org/abs/2209.03694) | [SAIS 2023 paper](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_7.pdf) | [Code](https://github.com/aleksispi/airloc) | [Video](https://youtu.be/n01OCLNKxFc)
 
-# Instructions
+[*Few-shot Bioacoustic Event Detection using a Prototypical Network Ensemble with Adaptive Embedding Functions* (DCASE Workshop 2022)](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Martinsson_13.pdf) | [Code](https://github.com/johnmartinsson/few-shot-learning-bioacoustics) | [Popular summary](https://www.ri.se/en/few-shot-bioacoustic-event-detection-using-a-prototypical-network-ensemble-with-adaptive-embedding)
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+[*Embodied Learning for Lifelong Visual Perception* (arXiv 2021)](https://arxiv.org/pdf/2112.14084)
 
-See more info at https://academicpages.github.io/
+[*Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing* (CoRL 2021)](https://openreview.net/pdf?id=HTfApPeT4DZ) | [Code](https://github.com/MariaPriisalu/spl) | [Video](https://youtu.be/IMLC6njod3E)
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+[*Reinforcement Learning for Active Visual Perception* (PhD thesis 2021)](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) | [Video](https://youtu.be/sWZ9eRacpAg)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+[*Embodied Visual Active Learning for Semantic Segmentation* (AAAI 2021)](https://ojs.aaai.org/index.php/AAAI/article/view/16338) | [arXiv](https://arxiv.org/abs/2012.09503) | [Video](https://youtu.be/SeXxcScPDfM)
 
-# Changelog -- bugfixes and enhancements
+[*Deep Reinforcement Learning for Active Human Pose Estimation* (AAAI 2020)](https://ojs.aaai.org/index.php/AAAI/article/view/6714) | [arXiv](https://arxiv.org/abs/2001.02024) | [Code](https://github.com/aleksispi/pose-drl) | [Video 1](https://youtu.be/CNsTbX_q4so) | [Video 2](https://youtu.be/9hB6aZCBMbs) | [Video 3](https://youtu.be/tIOmNUnemNw)
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+[*Semantic Synthesis of Pedestrian Locomotion* (ACCV 2020)](https://openaccess.thecvf.com/content/ACCV2020/html/Priisalu_Semantic_Synthesis_of_Pedestrian_Locomotion_ACCV_2020_paper.html) | [Code](https://github.com/MariaPriisalu/spl) | [Video](https://accv2020.github.io/miniconf/poster_246.html) | [Spotlight video](https://youtu.be/xRdbkPtF7SU)
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+[*Domes to Drones: Self-supervised Active Triangulation for 3d Human Pose Reconstruction* (NeurIPS 2019)](https://proceedings.neurips.cc/paper/2019/file/c3e4035af2a1cde9f21e1ae1951ac80b-Paper.pdf) | [Code](https://github.com/ErikGartner/actor) | [Video](https://youtu.be/-RQHKJjqbYU)
+
+[*Exact Clustering of Weighted Graphs via Semidefinite Programming* (JMLR 2019)](https://www.jmlr.org/papers/volume20/16-128/16-128.pdf) | [arXiv](https://arxiv.org/abs/1603.05296)
+
+[*Deep Reinforcement Learning of RegionpProposal Networks for Object Detection* (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1543.pdf) | [Code](https://github.com/aleksispi/drl-rpn-tf) | [Video](https://youtu.be/XrszcAD-pnM)
+
+[*Reinforcement Learning for Visual Object Detection* (CVPR 2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.html)
+
+[*Stray Light Compensation in Optical Systems* (master thesis 2015)](https://lup.lub.lu.se/student-papers/search/publication/5463896)
+
+## Media and public communication
+
+[AI for climate (Naturvetarna podcast, Fall 2022, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) | [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
+
+[AI and climate change (RISE Learning Machines, Jan 2022)](https://youtu.be/QXztQfKLiSc)
+
+[Commentary on AI risk (Forskning och framsteg, Spring 2023, in Swedish)](https://fof.se/artikel/2023/4/det-som-skrammer-mest-ar-att-ai-lar-sig-social-manipulation/#klarna:0ac96c73-97c6-4c3f-b9e9-92f28ce0d74b)
