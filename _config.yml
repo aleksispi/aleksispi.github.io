@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aleksis Pirinen"
-  avatar           : "aleksis-square.jpg"
+  avatar           : "aleksis-rect.jpg"
   bio              : "Senior ML researcher; PhD in computer vision"
   location         : "Lund, Sweden"
   employer         :
