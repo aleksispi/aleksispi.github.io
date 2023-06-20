@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen), where my main research interest is to develop ML methods for environmental applications in a broad sense (e.g. climate adaptation and humanitarian aid causes).
+I'm currently a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen) within the [deep learning research group](http://mogren.one/group/), where my main research interest is to develop ML methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes).
 
 Prior to joining [RISE](https://www.ri.se/en), I conducted my doctoral studies in computer vision at the [Faculty of Engineering, Lund University](https://www.lth.se/english/), under the supervision of [Cristian Sminchisescu](https://www.maths.lth.se/sminchisescu/). In my research, I applied deep reinforcement learning to computer vision tasks such as object detection and active vision, with the aim of making visual recognition systems more flexible and adaptive. My work also involved teaching assistance at both graduate and undergraduate courses at Lund University. For example, I took a significant part in the development and teaching of a new machine learning course -- among other things, I taught several lectures on reinforcement learning. I successfully defended my PhD thesis [*Reinforcement Learning for Active Visual Perception*](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) in June, 2021.
 
