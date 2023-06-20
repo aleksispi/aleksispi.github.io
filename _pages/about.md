@@ -12,7 +12,7 @@ I'm currently a senior machine learning researcher at [RISE Research Institutes 
 
 ## Publications and preprints
 [*Fully Convolutional Networks for Dense Water Flow Intensity
-Prediction in Swedish Catchment Areas* (SAIS 2023)](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_6.pdf) | [arXiv](https://arxiv.org/abs/2304.01658) | [Code](https://github.com/aleksispi/fcn-water-flow) | [Video](https://youtu.be/dnE0AfiqoZo)
+Prediction in Swedish Catchment Areas* (SAIS 2023)](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_6.pdf) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo)
 
 [*Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue* (ML-for-RS Workshop at ICLR 2023)](https://arxiv.org/abs/2209.03694) | [SAIS 2023 paper](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_7.pdf) | [Code](https://github.com/aleksispi/airloc) | [Video](https://youtu.be/n01OCLNKxFc)
 
