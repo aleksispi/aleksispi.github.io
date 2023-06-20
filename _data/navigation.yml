@@ -1,3 +1,4 @@
 # main links links
 main:
-
+  - title: "Personal page"
+    url: /personal/ 
