@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Tmp
+This page contains more personal content, reflections and ideas. Please see the [main page](https://aleksispi.github.io) for my professional bio.
+
+**This page is currently under construction.**
