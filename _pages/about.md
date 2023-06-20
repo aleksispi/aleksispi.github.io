@@ -64,13 +64,21 @@ Industry project with [Sightic Analytics](https://www.sightic.com/) (2022): ML f
 
 ## Past and ongoing supervision
 
-Summer 2023 (ongoing): Co-supervisor for PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University).
+**Summer 2023 (ongoing):** Co-supervisor for PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University).
 
-Summer 2023 (ongoing): Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Axel Eiman and Nils Eickhoff, Chalmers University of Technology. Thesis (preliminary title): _Deep learning for detecting coffee berry diseases_. The thesis topic is within the area of climate adaptation and is conducted with collaborators in Tanzania, who provide data and use-cases.
+**Summer 2023 (ongoing):** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Axel Eiman and Nils Eickhoff, Chalmers University of Technology. Thesis (preliminary title): _Deep learning for detecting coffee berry diseases_. The thesis topic is within the area of climate adaptation and is conducted with collaborators in Tanzania, who provide data and use-cases.
 
-Spring 2023 (ongoing): Main supervisor of the master thesis student Ennio Rampello, KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang). Thesis (preliminary title): _High-altitude navigation for the AiRLoc model: An RL model for drone navigation_. The thesis is related to the area of UAV-based disaster response and management.
+**Spring 2023 (ongoing):** Main supervisor of the master thesis student Ennio Rampello, KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang). Thesis (preliminary title): _High-altitude navigation for the AiRLoc model: An RL model for drone navigation_. The thesis is related to the area of UAV-based disaster response and management.
 
-Spring 2023 (ongoing): Main supervisor of the master thesis student Vishal Nedungadi, KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang). Thesis (preliminary title): _Active street to aerial view
+**Spring 2023 (ongoing):** Main supervisor of the master thesis student Vishal Nedungadi, KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang). Thesis (preliminary title): _Active street to aerial view
 geo-localization_. The thesis is related to the area of UAV-based disaster response and management.
 
-Spring 2022: Main supervisor of the master thesis students Anton Samuelsson and John Backsund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: [Aerial View Goal Localization with Reinforcement Learning](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9088977&fileOId=9089013). The thesis was subsequently condensed and accepted to a remote sensing workshop at ICLR 2023 (see _Publications and preprints_ above). The thesis is related to the area of UAV-based disaster response and management.
+**Spring 2022:** Main supervisor of the master thesis students Anton Samuelsson and John Backsund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: [Aerial View Goal Localization with Reinforcement Learning](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9088977&fileOId=9089013). The thesis was subsequently condensed and accepted to a remote sensing workshop at ICLR 2023 (see _Publications and preprints_ above). The thesis is related to the area of UAV-based disaster response and management.
+
+## Honors and awards
+
+**June 2018:** _Outstanding Reviewer for CVPR 2018_. Obtained and _outstanding reviewer award_ for my CVPR 2018 review work.
+
+**March 2016:** _Teaching Assistant of the Year_. Announced teaching assistant of the year 2016 for the chemistry students (K-sektionen) at the Faculty of Engineering, Lund University, for my contributions in the basic courses in calculus and linear algebra.
+
+**April 2014:** _SURF Scholarship at California Institute of Technology_. Awarded a SURF scholarship from Caltech to work with Assoc. Prof. Brendan Ames and Prof. Joel Tropp during the summer of 2014.
