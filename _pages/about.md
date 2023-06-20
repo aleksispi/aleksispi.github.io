@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen), where my main research interest is to develop ML methodologies for environmental applications in a broad sense (e.g. climate adaptation and humanitarian aid causes). I conducted my doctoral studies in computer vision at the Faculty of Engineering, Lund University, under the supervision of [Cristian Sminchisescu](https://www.maths.lth.se/sminchisescu/), and successfully defended my PhD thesis [*Reinforcement Learning for Active Visual Perception*](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) in June, 2021.
+I'm currently a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen), where my main research interest is to develop ML methods for environmental applications in a broad sense (e.g. climate adaptation and humanitarian aid causes). Prior to joining [RISE](https://www.ri.se/en), I conducted my doctoral studies in computer vision at the [Faculty of Engineering, Lund University](https://www.lth.se/english/), under the supervision of [Cristian Sminchisescu](https://www.maths.lth.se/sminchisescu/), and successfully defended my PhD thesis [*Reinforcement Learning for Active Visual Perception*](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) in June, 2021. I regularly review top-tier ML/CV conference and journal papers (CVPR 2017 - 2019; ICCV 2019; ECCV 2018; NeurIPS 2017; AAAI 2018, 2021; CoRL 2022 - 2023; IJCV 2019 - 2021). I've also served as a reviewer for the ISPRS Journal of Photogrammetry and Remote Sensing (2023).
 
 ## Publications and preprints
 [Fully Convolutional Networks for Dense Water Flow Intensity
@@ -50,9 +50,11 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 ## Other past and ongoing projects
 
-[ML for cloud optical thickness prediction (Ongoing, 2023)](https://www.ai.se/en/node/81535/national-space-data-lab-20) -- Poster will be presented at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023)
+[ML for cloud optical thickness prediction (Ongoing, 2023)](https://www.ai.se/en/node/81535/national-space-data-lab-20). Poster will be presented at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded vy [Vinnova](https://www.vinnova.se/en/).
 
-[Pre-study about using AI for wetland monitoring in Sweden (Fall, 2022)](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/ai-teknik-testas-for-att-identifiera-vatmarker/) -- [Code](https://github.com/aleksispi/ai-swetlands)
+[Pre-study about using ML for wetland monitoring in Sweden (Fall, 2022)](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/ai-teknik-testas-for-att-identifiera-vatmarker/) -- [Code](https://github.com/aleksispi/ai-swetlands)
+
+Industry project with [Sightic Analytics](https://www.sightic.com/) (2022): ML for detecting whether a human subject is under the influence of drugs. Funded by [Vinnova](https://www.vinnova.se/en/).
 
 ## Past and ongoing supervision
 
