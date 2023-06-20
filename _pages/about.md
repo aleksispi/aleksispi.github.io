@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/en), where my main research interest is to develop ML methodologies for environmental applications in a broad sense (e.g. climate adaptation and humanitarian aid causes). I conducted my doctoral studies in computer vision at the Faculty of Engineering, Lund University, under the supervision of [Cristian Sminchisescu](https://www.maths.lth.se/sminchisescu/), and successfully defended my PhD thesis [*Reinforcement Learning for Active Visual Perception*](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) in June, 2021.
+I'm currently a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen), where my main research interest is to develop ML methodologies for environmental applications in a broad sense (e.g. climate adaptation and humanitarian aid causes). I conducted my doctoral studies in computer vision at the Faculty of Engineering, Lund University, under the supervision of [Cristian Sminchisescu](https://www.maths.lth.se/sminchisescu/), and successfully defended my PhD thesis [*Reinforcement Learning for Active Visual Perception*](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) in June, 2021.
 
 ## Publications and preprints
 [*Fully Convolutional Networks for Dense Water Flow Intensity
@@ -47,3 +47,15 @@ Prediction in Swedish Catchment Areas* (SAIS 2023)](https://grahn.cse.bth.se/SAI
 [AI and climate change (RISE Learning Machines, Jan 2022)](https://youtu.be/QXztQfKLiSc)
 
 [Commentary on AI risk (Forskning och framsteg, Spring 2023, in Swedish)](https://fof.se/artikel/2023/4/det-som-skrammer-mest-ar-att-ai-lar-sig-social-manipulation/#klarna:0ac96c73-97c6-4c3f-b9e9-92f28ce0d74b)
+
+## Other past and ongoing projects
+
+[ML for cloud optical thickness prediction (Ongoing, 2023)](https://www.ai.se/en/node/81535/national-space-data-lab-20) -- Poster will be presented at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023)
+
+[Pre-study about using AI for wetland monitoring in Sweden (Fall, 2022)](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/ai-teknik-testas-for-att-identifiera-vatmarker/) -- [Code](https://github.com/aleksispi/ai-swetlands)
+
+## Past and ongoing supervision
+
+2023-: Co-supervisor for PhD candidate Maria Bånkestad (RISE, Uppsala University). Academic supervisor: Prof. Thomas Schön (Uppsala University)
+
+Spring 2022: Main supervisor of the master thesis students Anton Samuelsson and John Backsund, Lund University. Academic supervisor: Prof. Kalle Åström. Thesis: [Aerial View Goal Localization with Reinforcement Learning](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9088977&fileOId=9089013). The thesis was subsequently condensed and accepted to a remote sensing workshop at ICLR 2023 (see _Publications and preprints_ above). The thesis is related to the area of UAV-based disaster response and management.
