@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
 I'm currently a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/en), where my main research interest is to develop ML methodologies for environmental applications in a broad sense (e.g. climate adaptation and humanitarian aid causes). I conducted my doctoral studies in computer vision at the Faculty of Engineering, Lund University, under the supervision of [Cristian Sminchisescu](https://www.maths.lth.se/sminchisescu/), and successfully defended my PhD thesis [*Reinforcement Learning for Active Visual Perception*](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) in June, 2021.
 
 ## Publications and preprints
