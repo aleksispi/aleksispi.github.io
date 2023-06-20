@@ -50,7 +50,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 ## Other past and ongoing projects
 
-[ML for cloud optical thickness prediction (Ongoing, 2023)](https://www.ai.se/en/node/81535/national-space-data-lab-20). Poster will be presented at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded vy [Vinnova](https://www.vinnova.se/en/).
+[ML for cloud optical thickness prediction (Ongoing, 2023)](https://www.ai.se/en/node/81535/national-space-data-lab-20). Poster will be presented at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/).
 
 [Pre-study about using ML for wetland monitoring in Sweden (Fall, 2022)](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/ai-teknik-testas-for-att-identifiera-vatmarker/) -- [Code](https://github.com/aleksispi/ai-swetlands)
 
