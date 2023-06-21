@@ -48,11 +48,13 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 ## Media and public communication
 
-[AI for climate (Naturvetarna podcast, Fall 2022, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
+**April 2023:** [Commentary on AI risk (Forskning och framsteg, in Swedish)](https://fof.se/artikel/2023/4/det-som-skrammer-mest-ar-att-ai-lar-sig-social-manipulation/#klarna:0ac96c73-97c6-4c3f-b9e9-92f28ce0d74b)
 
-[AI and climate change (RISE Learning Machines, Jan 2022)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
+**September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
 
-[Commentary on AI risk (Forskning och framsteg, Spring 2023, in Swedish)](https://fof.se/artikel/2023/4/det-som-skrammer-mest-ar-att-ai-lar-sig-social-manipulation/#klarna:0ac96c73-97c6-4c3f-b9e9-92f28ce0d74b)
+**May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_, Kista.
+
+**January 2022:** [AI and climate change (RISE Learning Machines)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
 
 ## Other past and ongoing projects
 
