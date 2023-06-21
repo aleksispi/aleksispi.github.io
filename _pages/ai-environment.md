@@ -1,4 +1,3 @@
-![preds_1000_4](https://github.com/aleksispi/aleksispi.github.io/assets/32370520/f0409fc7-b5c4-4c90-a73c-27a0e6d7e28b)---
 layout: archive
 title: "AI for environment"
 permalink: /ai-environment/
