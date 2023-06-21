@@ -14,8 +14,6 @@ Prior to joining [RISE](https://www.ri.se/en), I conducted my doctoral studies i
 
 Prior to my doctoral studies, I received a bachelor and master degree within engineering mathematics (in Swedish: Civilingenjör i teknisk matematik) from the Faculty of Engineering, Lund University. During this time, I spent a summer (2014) as a research intern at [California Institute of Technology](https://www.caltech.edu/) (Pasadena, USA), where I improved an algorithm for clustering, a fundamental problem in machine learning and statistics. I also strengthened some theoretical recovery guarantees. This work resulted in a [journal publication in JMLR](https://www.jmlr.org/papers/v20/16-128.html). My supervisors were [Assoc. Prof. Brendan Ames](https://math.ua.edu/people/brendan-ames/) and [Prof. Joel Tropp](https://tropp.caltech.edu/).
 
-I regularly review top-tier ML/CV conference and journal papers (CVPR 2017 - 2019; ICCV 2019; ECCV 2018; NeurIPS 2017; AAAI 2018, 2021; CoRL 2022 - 2023; IJCV 2019 - 2021). I've also served as a reviewer for the ISPRS Journal of Photogrammetry and Remote Sensing (2023).
-
 I'm an advocate for facing our difficult future (and present, for many), collectively and individually, so that we can try to reduce harm and suffering. I intend to write more about this under my [personal page](https://aleksispi.github.io/personal/), but for anyone interested in learning more about what is difficult about our future, I warmly recommend the podcasts [_The Great Simplification_](https://www.thegreatsimplification.com/), [_Breaking Down: Collapse_](https://collapsepod.buzzsprout.com/) and [_Planet: Critical_](https://www.planetcritical.com/podcast). Two other short and self-contained podcasts that I also recommend are [_Power: Limits and Prospects for Human Survival_](https://power.postcarbon.org/podcast/) and [_Tipping Point: The True Story of "The Limits to Growth"_](https://tippingpointstory.podigee.io/).
 
 ## Publications and preprints
@@ -84,3 +82,6 @@ geo-localization_. The thesis is related to the area of UAV-based disaster respo
 **March 2016:** _Teaching Assistant of the Year_. Announced teaching assistant of the year 2016 for the chemistry students (K-sektionen) at the Faculty of Engineering, Lund University, for my contributions in the basic courses in calculus and linear algebra.
 
 **April 2014:** _SURF Scholarship at California Institute of Technology_. Awarded a SURF scholarship from Caltech to work with Assoc. Prof. Brendan Ames and Prof. Joel Tropp during the summer of 2014.
+
+## Review work
+I regularly review top-tier ML/CV conference and journal papers (CVPR 2017 - 2019; ICCV 2019; ECCV 2018; NeurIPS 2017; AAAI 2018, 2021; CoRL 2022 - 2023; IJCV 2019 - 2021). I've also served as a reviewer for the ISPRS Journal of Photogrammetry and Remote Sensing (2023).
