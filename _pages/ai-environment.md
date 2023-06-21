@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "AI for environment"
 permalink: /ai-environment/
