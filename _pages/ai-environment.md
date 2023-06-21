@@ -11,8 +11,6 @@ redirect_from:
 
 This page contains information about projects, publications and other things that relate specifically to my work on and passion for developing ML systems for various environmental applications. It is thus in a sense a subset of my full professional bio which can be found on the [main page](https://aleksispi.github.io).
 
-**This page is currently under construction.**
-
 ## Publications and preprints
 [Fully Convolutional Networks for Dense Water Flow Intensity
 Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_6.pdf) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo)
