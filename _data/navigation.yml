@@ -1,4 +1,6 @@
 # main links links
 main:
+  - title: "AI for environment"
+    url: /ai-environment/ 
   - title: "Personal page"
     url: /personal/ 
