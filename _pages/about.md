@@ -16,7 +16,7 @@ Prior to my doctoral studies, I received a bachelor and master degree within eng
 
 I regularly review top-tier ML/CV conference and journal papers (CVPR 2017 - 2019; ICCV 2019; ECCV 2018; NeurIPS 2017; AAAI 2018, 2021; CoRL 2022 - 2023; IJCV 2019 - 2021). I've also served as a reviewer for the ISPRS Journal of Photogrammetry and Remote Sensing (2023).
 
-I'm an advocate for facing our difficult future (and present, for many), collectively and individually, so that we can try to reduce harm and suffering. I intend to write more about this under my [personal page](https://aleksispi.github.io/personal/), but for anyone interested in learning more about what is difficult about our future, I warmly recommend the podcasts [_The Great Simplification_](https://www.thegreatsimplification.com/), [_Breaking Down: Collapse_](https://collapsepod.buzzsprout.com/) and [_Planet: Critical_](https://www.planetcritical.com/podcast) podcasts. Two other short and self-contained podcasts that I also recommend are [_Power: Limits and Prospects for Human Survival_](https://power.postcarbon.org/podcast/) and [_Tipping Point: The True Story of "The Limits to Growth"_](https://tippingpointstory.podigee.io/).
+I'm an advocate for facing our difficult future (and present, for many), collectively and individually, so that we can try to reduce harm and suffering. I intend to write more about this under my [personal page](https://aleksispi.github.io/personal/), but for anyone interested in learning more about what is difficult about our future, I warmly recommend the podcasts [_The Great Simplification_](https://www.thegreatsimplification.com/), [_Breaking Down: Collapse_](https://collapsepod.buzzsprout.com/) and [_Planet: Critical_](https://www.planetcritical.com/podcast). Two other short and self-contained podcasts that I also recommend are [_Power: Limits and Prospects for Human Survival_](https://power.postcarbon.org/podcast/) and [_Tipping Point: The True Story of "The Limits to Growth"_](https://tippingpointstory.podigee.io/).
 
 ## Publications and preprints
 [Fully Convolutional Networks for Dense Water Flow Intensity
@@ -52,7 +52,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 [AI for climate (Naturvetarna podcast, Fall 2022, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
 
-[AI and climate change (RISE Learning Machines, Jan 2022)](https://youtu.be/QXztQfKLiSc)
+[AI and climate change (RISE Learning Machines, Jan 2022)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
 
 [Commentary on AI risk (Forskning och framsteg, Spring 2023, in Swedish)](https://fof.se/artikel/2023/4/det-som-skrammer-mest-ar-att-ai-lar-sig-social-manipulation/#klarna:0ac96c73-97c6-4c3f-b9e9-92f28ce0d74b)
 
