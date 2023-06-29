@@ -56,6 +56,8 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **January 2022:** [AI and climate change (RISE Learning Machines)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
 
+**April 2021:** [Policy-based RL and applications within computer vision (RISE Learning Machines)](https://youtu.be/bF_TXCyM0pU)
+
 ## Other past and ongoing projects
 
 **2023 (ongoing):** [ML for cloud optical thickness prediction](https://www.ai.se/en/node/81535/national-space-data-lab-20) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Poster will be presented at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/).
