@@ -70,7 +70,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **Summer 2023 (ongoing):** Co-supervisor for PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University). Expected graduation: Fall 2024. Research topic: ML for the sciences (e.g. chemistry and physics). Up until the summer of 2023, [Erik Ylipää](https://github.com/eryl) was Maria's co-supervisor; I took over after Erik left RISE.
 
-**Aug-Sep 2023 (ongoing):** Main supervisor of the research intern Martin Trimmel (PhD). The internship is related to data-efficient machine learning for Earth observation setups.
+**Aug-Sep 2023 (ongoing):** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship is related to data-efficient machine learning for Earth observation setups.
 
 **Summer 2023 (ongoing):** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Axel Eiman and Nils Eickhoff, Chalmers University of Technology. Thesis (preliminary title): _Deep learning for detecting coffee berry diseases_. The thesis topic is within the area of climate adaptation and is conducted with collaborators in Tanzania, who provide data and use-cases.
 
