@@ -48,6 +48,8 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 ## Media and public communication
 
+**October 2023 (upcoming):** Keynote presentation for a group of industry leaders within the industry sector in Skåne. Preliminary title: _AI: What do we need and not need to know? How AI, now and in the future, impacts us individually, in business and society_
+
 **April 2023:** [Commentary on AI risk (Forskning och framsteg, in Swedish)](https://fof.se/artikel/2023/4/det-som-skrammer-mest-ar-att-ai-lar-sig-social-manipulation/#klarna:0ac96c73-97c6-4c3f-b9e9-92f28ce0d74b)
 
 **September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
@@ -61,6 +63,8 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 ## Other past and ongoing projects
 
 **2023 (ongoing):** [ML for cloud optical thickness prediction](https://www.ai.se/en/node/81535/national-space-data-lab-20) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Will be presented as a poster at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/).
+
+**2023 (ongoing):** Industry project about using [computer vision for real time measurement of slag volume in a pellets plant](https://www.ri.se/en/what-we-do/projects/real-time-measurement-of-slag-volume-in-a-pellets-plant), together with [LKAB](https://lkab.com/en/). Funded by [Vinnova](https://www.vinnova.se/en/).
 
 **Fall 2022:** [Pre-study about using ML for wetland monitoring in Sweden](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/ai-teknik-testas-for-att-identifiera-vatmarker/) together with and funded by the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/). Code is available [here](https://github.com/aleksispi/ai-swetlands).
 
