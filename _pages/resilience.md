@@ -21,6 +21,10 @@ In [Episode 3: _Principles_](https://shows.acast.com/building-up-resilience/epis
 
 **Principle 4: Emotional and mental resilience.** When thinking about resilience and preparedness, many (most?) people first think about physical resilience (such as ensuring access to food, water, shelter, and so on). However, a robust emotional and mental resilience is crucial also for long-term physical resilience. One can think of it as the oxygen that keeps everything else going. Note that being mentally resilient does _not_ mean that one cannot simultaneously suffer from things such as mental health problems or anxiety. Rather, it's a mindset that revolves around various ways to cope with what may come, both from internal and external stresses.
 
+**Principle 5: Quality trumps quantity.** A well thought-out, tailored 'baggage of resilience' is much better than a large but un-organized baggage. Focus on what you need for your circumstances and goals. 
+
+**Principle 6: Diversity and redundancy.** Don't put all your eggs into one basket. TODO: Write more.
+
 (The rest of the principles will be added.)
 
 **This page is currently under construction.**
