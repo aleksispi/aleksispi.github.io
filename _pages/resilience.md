@@ -13,7 +13,7 @@ On this page I'm providing my own short summaries of some of the episodes of the
 
 In [Episode 3: _Principles_](https://shows.acast.com/building-up-resilience/episodes/episode-3-principles), K&K lay out the following principles for their resilience framework:
 
-**Principle 1: Non-aggression.** Harm and violence shall not be enacted on others merely to fulfill the needs oneself or one's community (e.g. getting food or water). Self-defence is however allowed.
+**Principle 1: Non-aggression.** Harm and violence shall not be enacted on others merely to fulfill the needs of oneself or of one's family or community (e.g. inflicting harm on others to get food or water). Self-defence is however allowed. _My own comment:_ I interpret this principle as being about non-aggression against _other humans_; I would assume the principle still allows for killing e.g. wild animals in order to eat them, in case one would starve otherwise.
 
 **Principle 2: Cooperation.** One cannot become truly resilient by only focusing on oneself; one has to also include a cooperation / community aspect to one's preparedness. Individual resilience is also important, but one should strive to build this "outwards" towards larger networks as well.
 
