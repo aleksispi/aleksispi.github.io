@@ -48,7 +48,9 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 ## Media and public communication
 
-**October 2023 (upcoming):** Keynote presentation for a group of industry leaders within the industry sector in Skåne. Preliminary title: _AI: What do we need and not need to know? How AI, now and in the future, impacts us individually, in business and society_
+**October 2023 (upcoming):** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector.
+
+**October 2023 (upcoming):** Presentation for a group of industry leaders within the industry sector in Skåne. Preliminary title: _AI: What do we need and not need to know? How AI, now and in the future, impacts us individually, in business and society_
 
 <!---**September 2023:** [Commentary on AI for tackling climate change (Miljö och utveckling, in Swedish)](xxx)-->
 
@@ -64,7 +66,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 ## Other past and ongoing projects
 
-**2023 (ongoing):** [ML for cloud optical thickness prediction](https://www.ai.se/en/node/81535/national-space-data-lab-20) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Will be presented as a poster at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/).
+**2023 (ongoing):** [ML for cloud optical thickness prediction](https://www.ai.se/en/node/81535/national-space-data-lab-20) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Will be presented as a poster at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/). One of the project deliverables is [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students.
 
 **2023 (ongoing):** Industry project about using [computer vision for real time measurement of slag volume in a pellets plant](https://www.ri.se/en/what-we-do/projects/real-time-measurement-of-slag-volume-in-a-pellets-plant), together with [LKAB](https://lkab.com/en/). Funded by [Vinnova](https://www.vinnova.se/en/).
 
