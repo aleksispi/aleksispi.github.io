@@ -41,7 +41,7 @@ Having laid out the principles above, in [Episode 4: _The Framework_](https://sh
 
 **(5) Create a plan of action.**
 
-**(6) Gain knowledge, skills and asses.**
+**(6) Gain knowledge, skills and assets.**
 
 **(7) Build community.**
 
