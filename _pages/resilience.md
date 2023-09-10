@@ -23,12 +23,26 @@ In [Episode 3: _Principles_](https://shows.acast.com/building-up-resilience/epis
 
 **Principle 5: Quality trumps quantity.** A well thought-out, tailored 'resilience knapsack' is much better than a large but un-organized knapsack. Focus on what you need for your circumstances and goals. 
 
-**Principle 6: Diversity and redundancy.** Don't put all your eggs into one basket. When storing food, for example, don't store _all_ your food in a single type of container (e.g. glass, since then an Earth quake would destroy your whole food supply, as opposed to if some of the food was stored in plastic containers).
+**Principle 6: Diversity and redundancy.** Don't put all your eggs into one basket. When storing food, for example, don't store _all_ your food in a single type of container (e.g. glass, since then an Earth quake would destroy your whole food supply, as opposed to if some of the food was stored in plastic containers). 
 
 **Principle 7: Specialization vs generalization.** Our complex civilization has enabled an enormous amount of specialization among skills, types of work, and so on. It goes the other way around as well; this civilization is _dependent_ on this specialization among individuals, companies, nations etcetera. This all works as long as society remains somewhat stable, since commodoties, labour etcetera can be efficiently 'transfered' among various actors. The downside is that, as individuals, our specializations also make us vulnerable to crises, especially such crises which require us to be able to do more things ourselves (as opposed to outsourcing it to various specialists). The principle of specialization vs generalization recognizes the value of specialization (especially in combination with _Principle 2: Cooperation_, where a community can have individuals specializing in different things to create a good synergy), but emphasizes the importance of also trying to acquire a diverse set of skills, to become a bit of a jack-of-all-trades, in order to be more ready for a more turbulent and uncertain future. Note that this principle is somewhat similar to the previous _Principle 6: Diversity and redundancy_.  _My own comment:_ I also think this principle has an interesting synergy with _Principle 5: Quality trumps quantity_. More specifically, I think that specializing in just a few _relevant_ skills can be the best way to go at times, rather than knowing a bit of everything.
 
 **Principle 8: Adaptability.** One must be ready to change ones plans, no matter how well-crafted those planed seemed originally. This principle is related to some of the previous ones, e.g. _Principle 7: Specialization vs generalization_; being more of a generalist than a specialist makes it easier to be adaptable to whatever circumstances one my face. Note, however, that this principle does _not_ say one should not come up with plans, just that we must be able to adapt those plans depending on what comes our way.
 
-(The rest of the principles will be added.)
+Having laid out the principles above, in [Episode 4: _The Framework_](https://shows.acast.com/building-up-resilience/episodes/episode-4-the-framework), the overall resilience framework is introduced (**I plan to write more about these in the near future**; for now I just list them below):
+
+**(1) Establish a desired outcome.** This is discussed in detail in [_Episode 5_](https://shows.acast.com/building-up-resilience/episodes/episode-5-establish-your-desired-outcome).
+
+**(2) Consider the pillars.**
+
+**(3) Consider the variables.**
+
+**(4) Thread modeling.**
+
+**(5) Create a plan of action.**
+
+**(6) Gain knowledge, skills and asses.**
+
+**(7) Build community.**
 
 **This page is currently under construction.**
