@@ -43,6 +43,6 @@ Having laid out the principles above, in [Episode 4: _The Framework_](https://sh
 
 **(6) Gain knowledge, skills and assets.** This is the step that takes the most time, executing the plan of action and adapting it as needed. All the previous steps important so that time is spent well at this step!
 
-**(7) Build community.** According to Kory the most important step. Finding a way to make this about more than just oneself. It's an inescapable necessity to be able to rely, trust and give to others. Not a skill that everybody has, and a skill that all can improve.
+**(7) Build community.** According to K&K the most important step. Finding a way to make this about more than just oneself. It's an inescapable necessity to be able to rely, trust and give to others. Not a skill that everybody has, and a skill that all can improve.
 
 **This page is currently under construction.**
