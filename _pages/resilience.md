@@ -39,10 +39,10 @@ Having laid out the principles above, in [Episode 4: _The Framework_](https://sh
 
 **(4) Thread modeling.** Very related to the previous step about the variables, but here with an emphasis on the risk landscape. "_How will climate change affect my area?_", "_How is the political landscape?"_, "_How dependent is my region on energy / materials from other regions in the world?_, etcetera.
 
-**(5) Create a plan of action.**
+**(5) Create a plan of action.** Taken into account all the previous things, at this step one creates a plan of action based on all of that. Help us understand and prioritize on what steps to take, what skills to learn, etcetera.
 
-**(6) Gain knowledge, skills and assets.**
+**(6) Gain knowledge, skills and assets.** This is the step that takes the most time, executing the plan of action and adapting it as needed. All the previous steps important so that time is spent well at this step!
 
-**(7) Build community.**
+**(7) Build community.** According to Kory the most important step. Finding a way to make this about more than just oneself. It's an inescapable necessity to be able to rely, trust and give to others. Not a skill that everybody has, and a skill that all can improve.
 
 **This page is currently under construction.**
