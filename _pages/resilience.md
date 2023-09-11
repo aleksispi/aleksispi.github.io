@@ -35,9 +35,9 @@ Having laid out the principles above, in [Episode 4: _The Framework_](https://sh
 
 **(2) Consider the pillars.** Becoming resilient is like building a house. The fundaments, or pillars, is essential for everything else. Otherwise it's like laying bricks on a house without any structural frame to put them against. The 13 pillars are: **(i)** food, **(ii)** water, **(iii)** shelter, **(iv)** physical health, **(v)** mental health, **(vi)** security, **(vii)** relationships, **(viii)** finances, **(ix)** hygiene and sanitization, **(x)** community, **(xi)** energy, **(xii)** communication, and **(xiii)** specialization. Note that the first step of establishing a desired outcome lays the blueprint for how to look at the "load bearing walls" that are the 13 pillars (e.g. how to prioritize among them).
 
-**(3) Consider the variables.**
+**(3) Consider the variables.** This step also influences how one emphasizes the various pillars in the previous step. Questions such as _"How much time do I have to work on my resilience?"_, _"How much finances do I have for it?_", _"What is my location (e.g. urban vs rural area) and local circumstances?_ will help guide this.
 
-**(4) Thread modeling.**
+**(4) Thread modeling.** Very related to the previous step about the variables, but here with an emphasis on the risk landscape. "_How will climate change affect my area?_", "_How is the political landscape?"_, "_How dependent is my region on energy / materials from other regions in the world?_, etcetera.
 
 **(5) Create a plan of action.**
 
