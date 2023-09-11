@@ -29,9 +29,9 @@ In [Episode 3: _Principles_](https://shows.acast.com/building-up-resilience/epis
 
 **Principle 8: Adaptability.** One must be ready to change ones plans, no matter how well-crafted those planed seemed originally. This principle is related to some of the previous ones, e.g. _Principle 7: Specialization vs generalization_; being more of a generalist than a specialist makes it easier to be adaptable to whatever circumstances one my face. Note, however, that this principle does _not_ say one should not come up with plans, just that we must be able to adapt those plans depending on what comes our way.
 
-Having laid out the principles above, in [Episode 4: _The Framework_](https://shows.acast.com/building-up-resilience/episodes/episode-4-the-framework), the overall resilience framework is introduced (**I plan to write more about these in the near future**; for now I just list them below):
+Having laid out the principles above, in [Episode 4: _The Framework_](https://shows.acast.com/building-up-resilience/episodes/episode-4-the-framework), the overall resilience framework is introduced. The idea of the proposed framework is to be broad and general enough so that anyone can leverage it, independent of their previous knowledge, experience, circumstances and goals. **I plan to write more about these in the near future**; for now I just list them below:
 
-**(1) Establish a desired outcome.** This is discussed in detail in [_Episode 5_](https://shows.acast.com/building-up-resilience/episodes/episode-5-establish-your-desired-outcome).
+**(1) Establish a desired outcome.** It's important to lay out one's goals and hopes for what one wants to achieve when following the steps in this resilience framework. Not everyone has the goal of surviving as long as possible, no matter what may come (see previous comments about a common mentality in prepper podcasts). Some people may for example wish to focus more on enjoying life as much as possible while they still can, and not think as much about future difficulties. This topic of establishing ones desired outcome is discussed in detail in [_Episode 5_](https://shows.acast.com/building-up-resilience/episodes/episode-5-establish-your-desired-outcome). In that episode, K&K each summarize what conclusions they have respectively reached regarding their desired outcomes.
 
 **(2) Consider the pillars.**
 
