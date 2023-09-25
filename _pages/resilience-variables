@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Resilience: Variables"
+permalink: /resilience-variables/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+This is a more in-depth overview of [_Episode 7: Consider Your Variables_](https://shows.acast.com/building-up-resilience/episodes/episode-7-consider-your-variables)
+of the podast [_Building Up: Resilience_](https://shows.acast.com/building-up-resilience) by Kory and Kellan (K&K). Please refer to [this overview page](https://aleksispi.github.io/resilience)
+for a summary of the overall resilience framework proposed and discussed within this podcast.
+
+**This page is currently under construction.**
