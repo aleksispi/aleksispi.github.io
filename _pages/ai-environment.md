@@ -21,6 +21,12 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 ## Media and public communication
 
+**December 2023 (upcoming):** Presentation for a class of master students at Lund University on the theme "AI for the environment".
+
+**December 2023 (upcoming):** Presentation for Digitaliseringskonsulterna (Digitalization Consultants) on the theme "AI for the environment".
+
+**October 2023 (upcoming):** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector.
+
 **September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
 
 **May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_, Kista.
