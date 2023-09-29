@@ -38,7 +38,7 @@ Having laid out the principles above, in [Episode 4: _The Framework_](https://sh
 **(3) Consider your variables.** This step influences how one emphasizes the various pillars in the previous step, and is used to tackle the questions _"How should I prepare?"_ and
 _"What should I prepare for?"_. Questions such as _"How much time do I have to work on my resilience?"_, _"How much finances do I have for it?_", _"What is my location (e.g. urban vs rural area) and local circumstances?"_ will help guide this. See more in [_Episode 7_](https://shows.acast.com/building-up-resilience/episodes/episode-7-consider-your-variables).
 
-**(4) Threat modeling.** Very related to the previous step about the variables, but here with an emphasis on the risk landscape. "_How will climate change affect my area?_", "_How is the political landscape?"_, "_How dependent is my region on energy / materials from other regions in the world?_, etcetera.
+**(4) Threat modeling.** Very related to the previous step about the variables, but here with an emphasis on the risk landscape. "_How will climate change affect my area?_", "_How is the political landscape?"_, "_How dependent is my region on energy / materials from other regions in the world?_, etcetera. See more in [_Episode 8_](https://shows.acast.com/building-up-resilience/episodes/episode-8-threat-modeling).
 
 **(5) Create a plan of action.** Taking into account all the previous things, at this step one creates a plan of action. This helps us understand and prioritize what steps to take, what skills to learn, etcetera.
 
