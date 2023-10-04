@@ -47,6 +47,8 @@ that many years.
 - **What is my health status?**
 - **What is my family size?**
 - **What is my minority status?** Minorities often become scapegoats in times of crises / scarcity.
+- **What is my end goal?** Ties right back to the first step _Establish your desired outcome_.
+- **What are my current interests and skillsets?**
 
 It is also mentioned that it is recommended to make a profile of oneself (about 21 minutes in), even writing it down, so that one can assess one's variables properly.
 
