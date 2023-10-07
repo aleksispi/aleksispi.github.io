@@ -51,7 +51,18 @@ For each identified possible threat, it is recommended to assess its **impact** 
 It's mentioned that it can be overwhelming to try to figure out how to prioritize threats, because it's often hard to know the likelihood and/or impact, and it may feel like there are too many things to consider, so it's unclear where to even start. A few things are mentioned in the episode as a response to this:
 
 - One way to alleviate this to some extent is to consider available tools and resources for figuring this out, e.g. risk landscape maps regarding various natural disasters are often available for different geographical locations.
-- Remember back to the principles (see [_Episode 3: Principles](https://shows.acast.com/building-up-resilience/episodes/episode-3-principles) for a reminder), where _Principle 3: Effort_ is about resilience building being like moving a long a "resilience spectrum". Everyone is already doing some form of threat modeling in their lives, so everyone is already "on this path" to at least some extent (e.g. bringing an umbrella if it seems rain is coming soon).  
+- Another thing is to try to go back to the principles (see [_Episode 3: Principles](https://shows.acast.com/building-up-resilience/episodes/episode-3-principles) for a reminder), where _Principle 3: Effort_ reminds us that resilience building is like moving a long a "resilience spectrum". Everyone is already doing some form of threat modeling in their lives, so everyone is already "on this path" to at least some extent (e.g. bringing an umbrella if it seems rain is coming soon).
+- Also, if it feels overwhelming to meticulously go over all threats and rank them, most people can probably already provide a top-5 list of threats, even without a comprehensive analysis. That could be a great starting point, and then to later work on from there (again, see _Principle 3: Effort_).
+- Related to the previous item: Note that there is often a lot of overlap in terms of what it means to be resilient against a certain type of threat. So even if you "only" get prepared with respect your identified top-3 risks, it is likely that you become prepared for many others as a "free lunch" as well.
+- Finally, note that depending on your desired outcome (see the first step, _Establish your desired outcome_), you may or may not be interested in doing a fully systemtic analysis of the threat landscape.
+
+So far in the episode (and the text above), the two key factors to consider in regards to threats have been likelihood and impact. But there are more (likelihood and impact are shown again for completeness below):
+
+- Impact
+- Likelihood
+- Mitigation costs (reduce priority of a threat if the monetary cost for preparing for it is too high)
+- Possibility to prepare for the threat (as in, prioritize the things that are in one's control - note that this is similar to but not identical to "mitigation cost" above, because a high mitigation cost may still mean it is possible to prepare, even though it is very expensive, while preparing for a world-ending meteor strike simply is not)
+- Opportunity cost (a bit similar to "mitigation cost" but more in terms of invested time - preparing for threat X means less time can be spend on threat Y)
 
 **This page is currently under construction.**
 
