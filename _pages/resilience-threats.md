@@ -66,5 +66,3 @@ So far in the episode (and the text above), the two key factors to consider in r
 
 The final thing mentioned in the episode is the concept of a **_SWOT analysis_**, which considers the factors **strengths**, **weaknesses**, **opportunities** and **threats**. Such an analysis can be done e.g. one oneself (i.e. list various things in the four categories), to help guide how one prioritizes various threats.
 
-**This page is currently under construction.**
-
