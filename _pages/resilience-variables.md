@@ -50,6 +50,6 @@ that many years.
 - **What is my end goal?** Ties right back to the first step _Establish your desired outcome_.
 - **What are my current interests and skillsets?**
 
-It is also mentioned that it is recommended to make a profile of oneself (about 21 minutes in), even writing it down, so that one can assess one's variables properly.
+It is also mentioned that it is recommended to make a profile of oneself, even writing it down, so that one can assess one's variables properly.
 
 **This page is currently under construction.**
