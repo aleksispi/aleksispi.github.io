@@ -62,7 +62,7 @@ So far in the episode (and the text above), the two key factors to consider in r
 - Likelihood
 - Mitigation costs (reduce priority of a threat if the monetary cost for preparing for it is too high)
 - Possibility to prepare for the threat (as in, prioritize the things that are in one's control - note that this is similar to but not identical to "mitigation cost" above, because a high mitigation cost may still mean it is possible to prepare, even though it is very expensive, while preparing for a world-ending meteor strike simply is not)
-- Opportunity cost (a bit similar to "mitigation cost" but more in terms of invested time - preparing for threat X means less time can be spend on threat Y)
+- Opportunity cost (a bit similar to "mitigation cost" but more in terms of invested time - preparing for threat X means less time can be spend on threat Y - and it can also be that threat X and threat Y require "contradictory" measures and are thus not compatible)
 
 **This page is currently under construction.**
 
