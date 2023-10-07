@@ -30,17 +30,17 @@ Kellan then chipped in an emphasized the importance of the previous steps in the
 
 Some of the aspects / things one may have to include into one's threat modeling:
 
-- Climate change
-- Utility failure
-- Systemic issues
-- Localized violence
-- War
-- Terrorism
-- Structural issues
-- Industrial accidents
-- Government failure
+- Climate change / natural disasters (e.g. heat waves, flooding)
+- Utility failure (e.g. power outages, gas shortages, plumbing issues, municipal water failures, internet outage, 
+- Systemic issues (e.g. supply chain shortages, or a pandemic)
+- Localized violence (e.g. civil unrest, mass shootings, riots, rates of local crime)
+- War (e.g. civil wars, international wars, nuclear war)
+- Terrorism (e.g. cyber attacks, bombings)
+- Structural issues (e.g. building collapse, or building fire)
+- Industrial accidents (e.g. gas leakages, hazardous waste leakages,)
+- Government failure (e.g. collapse of government or power vacuums, loss of law and order, 
 - Individual issues (e.g. job loss)
-- Economic problems
+- Economic problems (e.g. recession, depression, inflation)
 
 For each identified possible threat, it is recommended to assess its **impact** and **likelihood**, where the first priority is those identified as both high impact _and_ high likelihood.
 
