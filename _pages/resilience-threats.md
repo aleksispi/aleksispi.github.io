@@ -46,6 +46,9 @@ For each identified possible threat, it is recommended to assess its **impact** 
 
 - Example #1: Meteor strikes the Earth. High impact, low likelihood. Probably not a high priority.
 - Example #2: Seasonal flue. Low impact, high likelihood. Also probably not a high priority.
+- Example #3: Epidemic. The likelihood and impact depend on your variables (as do all threats, to varying degrees), e.g. how prevalent infectious diseases are (affects likelihood), or your pre-existing health conditions (affects impact).
+
+It's mentioned that it can be overwhelming to try to figure out how to prioritize threats, because it's often hard to know the likelihood and/or impact. One way to alleviate this to some extent is to consider available tools and resources for figuring this out, e.g. risk landscape maps regarding various natural disasters are often available for different geographical locations.
 
 **This page is currently under construction.**
 
