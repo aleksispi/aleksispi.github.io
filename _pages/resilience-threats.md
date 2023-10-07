@@ -26,7 +26,26 @@ The purpose of a threat model is to examine your preparedness by identifying **a
 - “What could go wrong?”
 - “What am I missing, overlooking, or not seeing?”.
 
-Kellan then chipped in an emphasized the importance of the previous steps in the resilience framework, e.g. that each individual's variables (see previous step) will very much influence this threat modeling step.
+Kellan then chipped in an emphasized the importance of the previous steps in the resilience framework, e.g. that each individual's variables (see previous step) will very much influence this threat modeling step. 
+
+Some of the aspects / things one may have to include into one's threat modeling:
+
+- Climate change
+- Utility failure
+- Systemic issues
+- Localized violence
+- War
+- Terrorism
+- Structural issues
+- Industrial accidents
+- Government failure
+- Individual issues (e.g. job loss)
+- Economic problems
+
+For each identified possible threat, it is recommended to assess its **impact** and **likelihood**, where the first priority is those identified as both high impact _and_ high likelihood.
+
+- Example #1: Meteor strikes the Earth. High impact, low likelihood. Probably not a high priority.
+- Example #2: Seasonal flue. Low impact, high likelihood. Also probably not a high priority.
 
 **This page is currently under construction.**
 
