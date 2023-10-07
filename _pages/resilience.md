@@ -40,7 +40,7 @@ _"What should I prepare for?"_. Questions such as _"How much time do I have to w
 
 **(4) Threat modeling.** Very related to the previous step about the variables, but here with an emphasis on the risk landscape. "_How will climate change affect my area?_", "_How is the political landscape?"_, "_How dependent is my region on energy / materials from other regions in the world?_, etcetera. See more in [_Episode 8_](https://shows.acast.com/building-up-resilience/episodes/episode-8-threat-modeling).
 
-**(5) Create a plan of action.** Taking into account all the previous things, at this step one creates a plan of action. This helps us understand and prioritize what steps to take, what skills to learn, etcetera.
+**(5) Create a plan of action.** Taking into account all the previous things, at this step one creates a plan of action. This helps us understand and prioritize what steps to take, what skills to learn, etcetera. See more in [_Episode 9_](https://shows.acast.com/building-up-resilience/episodes/episode-9-plan-of-action).
 
 **(6) Gain knowledge, skills and assets.** This is the step that takes the most time, executing the plan of action and adapting it as needed. All the previous steps are important so that time is spent well at this step!
 
