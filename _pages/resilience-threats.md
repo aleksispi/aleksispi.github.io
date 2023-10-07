@@ -58,11 +58,13 @@ It's mentioned that it can be overwhelming to try to figure out how to prioritiz
 
 So far in the episode (and the text above), the two key factors to consider in regards to threats have been likelihood and impact. But there are more (likelihood and impact are shown again for completeness below):
 
-- Impact
-- Likelihood
-- Mitigation costs (reduce priority of a threat if the monetary cost for preparing for it is too high)
-- Opportunity cost (a bit similar to "mitigation cost" but more in terms of invested time - preparing for threat X means less time can be spend on threat Y - and it can also be that threat X and threat Y require "contradictory" measures and are thus not compatible). _Addition by me:_ The opposite of opportunity cost is also something to keep in mind, i.e. _synergy_ between the preparedness for different threats (thus put higher priority on those which provide synergy to others).
-- _Addition by me:_ Possibility to prepare for the threat (as in, prioritize the things that are in one's control - note that this is similar to but not identical to "mitigation cost", because a high mitigation cost may still mean it is possible to prepare, even though it is very expensive, while preparing for a world-ending meteor strike simply is not)
+- **Impact**
+- **Likelihood**
+- **Mitigation costs** (reduce priority of a threat if the monetary cost for preparing for it is too high)
+- **Opportunity cost** (a bit similar to "mitigation cost" but more in terms of invested time - preparing for threat X means less time can be spend on threat Y - and it can also be that threat X and threat Y require "contradictory" measures and are thus not compatible). _Addition by me:_ The opposite of opportunity cost is also something to keep in mind, i.e. _synergy_ between the preparedness for different threats (thus put higher priority on those which provide synergy to others).
+- _Addition by me:_ **Possibility to prepare for the threat** (as in, prioritize the things that are in one's control - note that this is similar to but not identical to "mitigation cost", because a high mitigation cost may still mean it is possible to prepare, even though it is very expensive, while preparing for a world-ending meteor strike simply is not)
+
+The final thing mentioned in the episode is the concept of a **_SWOT analysis_**, which considers the factors **strengths**, **weaknesses**, **opportunities** and **threats**. Such an analysis can be done e.g. one oneself (i.e. list various things in the four categories), to help guide how one prioritizes various threats.
 
 **This page is currently under construction.**
 
