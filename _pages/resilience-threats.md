@@ -16,7 +16,7 @@ for a summary of the overall resilience framework proposed and discussed within 
 Just like the step previous step _Consider your variables_, this step (_Threat modeling_) influences how one emphasizes the various pillars in the _Consider the pillars_ step, and is used to tackle the questions. This step is very related to the previous step about the variables, but here with an emphasis on the risk landscape. "_How will climate change affect my area?_", "_How is the political landscape?"_, "_How dependent is my region on energy / materials from other regions in the world?_, etcetera.
 
 Just like for the _Consider your variables_ step, for this step it is also recommended to setup a spreadsheet or similar to go over various threats in a systematic way. A website called
-[_The Prepared_](https://theprepared.com/) is mentioned by Kory early on in the episode, and some of the things from a [blog post on threat modeling](https://theprepared.com/forum/thread/an-introduction-to-threat-modeling/) from that page are mentioned in this episode:
+[_The Prepared_](https://theprepared.com/) is mentioned early on in the episode, and some of the things from a [blog post on threat modeling](https://theprepared.com/forum/thread/an-introduction-to-threat-modeling/) from that page are mentioned in this episode.
 
 The purpose of a threat model is to examine your preparedness by identifying **assets**, **threats**, **defenses**, and **vulnerabilities**. In short, the process answers the questions:
 
@@ -26,27 +26,27 @@ The purpose of a threat model is to examine your preparedness by identifying **a
 - “What could go wrong?”
 - “What am I missing, overlooking, or not seeing?”.
 
-Kellan then chipped in an emphasized the importance of the previous steps in the resilience framework, e.g. that each individual's variables (see previous step) will very much influence this threat modeling step. 
+Note that having gone through the previous steps in the resilience framework is important for this threat modelng step. For example, each individual's variables (see previous step) will very much influence this threat modeling step. 
 
 Some of the aspects / things one may have to include into one's threat modeling:
 
-- Climate change / natural disasters (e.g. heat waves, flooding)
-- Utility failure (e.g. power outages, gas shortages, plumbing issues, municipal water failures, internet outage, 
-- Systemic issues (e.g. supply chain shortages, or a pandemic)
-- Localized violence (e.g. civil unrest, mass shootings, riots, rates of local crime)
-- War (e.g. civil wars, international wars, nuclear war)
-- Terrorism (e.g. cyber attacks, bombings)
-- Structural issues (e.g. building collapse, or building fire)
-- Industrial accidents (e.g. gas leakages, hazardous waste leakages,)
-- Government failure (e.g. collapse of government or power vacuums, loss of law and order, 
-- Individual issues (e.g. job loss)
-- Economic problems (e.g. recession, depression, inflation)
+- **Climate change / natural disasters** (e.g. heat waves, flooding)
+- **Utility failures** (e.g. power outages, gas shortages, plumbing issues, municipal water failures, internet outage, 
+- **Systemic issues** (e.g. supply chain shortages, or a pandemic)
+- **Localized violence** (e.g. civil unrest, mass shootings, riots, rates of local crime)
+- **Wars** (e.g. civil wars, international wars, nuclear war)
+- **Terrorism** (e.g. cyber attacks, bombings)
+- **Structural issues** (e.g. building collapse, or building fire)
+- **Industrial accidents** (e.g. gas leakages, hazardous waste leakages,)
+- **Government failure** (e.g. collapse of government or power vacuums, loss of law and order, 
+- **Individual issues** (e.g. job loss)
+- **Economic problems** (e.g. recession, depression, inflation)
 
 For each identified possible threat, it is recommended to assess its **impact** and **likelihood**, where the first priority is those identified as both high impact _and_ high likelihood.
 
-- Example #1: Meteor strikes the Earth. High impact, low likelihood. Probably not a high priority.
-- Example #2: Seasonal flue. Low impact, high likelihood. Also probably not a high priority.
-- Example #3: Epidemic. The likelihood and impact depend on your variables (as do all threats, to varying degrees), e.g. how prevalent infectious diseases are (affects likelihood), or your pre-existing health conditions (affects impact).
+- **Example #1: Meteor strikes the Earth.** High impact, low likelihood. Probably not a high priority.
+- **Example #2: Seasonal flue.** Low impact, high likelihood. Also probably not a high priority.
+- **Example #3: Epidemic.** The likelihood and impact depend on your variables (as do all threats, to varying degrees), e.g. how prevalent infectious diseases are (affects likelihood), or your pre-existing health conditions (affects impact).
 
 It's mentioned that it can be overwhelming to try to figure out how to prioritize threats, because it's often hard to know the likelihood and/or impact, and it may feel like there are too many things to consider, so it's unclear where to even start. A few things are mentioned in the episode as a response to this:
 
