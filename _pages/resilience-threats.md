@@ -48,7 +48,10 @@ For each identified possible threat, it is recommended to assess its **impact** 
 - Example #2: Seasonal flue. Low impact, high likelihood. Also probably not a high priority.
 - Example #3: Epidemic. The likelihood and impact depend on your variables (as do all threats, to varying degrees), e.g. how prevalent infectious diseases are (affects likelihood), or your pre-existing health conditions (affects impact).
 
-It's mentioned that it can be overwhelming to try to figure out how to prioritize threats, because it's often hard to know the likelihood and/or impact. One way to alleviate this to some extent is to consider available tools and resources for figuring this out, e.g. risk landscape maps regarding various natural disasters are often available for different geographical locations.
+It's mentioned that it can be overwhelming to try to figure out how to prioritize threats, because it's often hard to know the likelihood and/or impact, and it may feel like there are too many things to consider, so it's unclear where to even start. A few things are mentioned in the episode as a response to this:
+
+- One way to alleviate this to some extent is to consider available tools and resources for figuring this out, e.g. risk landscape maps regarding various natural disasters are often available for different geographical locations.
+- Remember back to the principles (see [_Episode 3: Principles](https://shows.acast.com/building-up-resilience/episodes/episode-3-principles) for a reminder), where _Principle 3: Effort_ is about resilience building being like moving a long a "resilience spectrum". Everyone is already doing some form of threat modeling in their lives, so everyone is already "on this path" to at least some extent (e.g. bringing an umbrella if it seems rain is coming soon).  
 
 **This page is currently under construction.**
 
