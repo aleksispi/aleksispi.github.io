@@ -50,6 +50,8 @@ For each identified possible threat, it is recommended to assess its with respec
 - **Opportunity cost** (a bit similar to mitigation cost, but more in terms of invested time; preparing for threat X means less time can be spend on threat Y; it can also be that threat X and threat Y require non-compatible measures). _Addition by me:_ The opposite of opportunity cost is also something to keep in mind, i.e. _synergy_ between the preparedness for different threats (thus put higher priority on those which provide synergy with others).
 - _Addition by me:_ **Possibility to prepare for the threat** (as in, prioritize the things that are in one's control; note that this is similar to but not identical to mitigation cost, because a high mitigation cost may still mean it is possible to prepare, even though it is very expensive, while preparing for a world-ending meteor strike simply is not)
 
+Below are a few example threats and a potential assessment of the criteria above.
+
 - **Example #1: Meteor strikes the Earth.** High impact, low likelihood, not possible to prepare for.
 - **Example #2: Seasonal flue.** Low impact, high likelihood, low mitigation cost, low opportuniy cost.
 - **Example #3: Epidemic.** The impact, likelihood, mitigation and opporunity cost depend on your variables (as do most threats, to varying degrees), e.g. how prevalent infectious diseases are (affects likelihood), or your pre-existing health conditions (affects impact).
