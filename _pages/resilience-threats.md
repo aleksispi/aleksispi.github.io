@@ -42,11 +42,17 @@ Some of the aspects / things one may have to include into one's threat modeling:
 - **Individual issues** (e.g. job loss)
 - **Economic problems** (e.g. recession, depression, inflation)
 
-For each identified possible threat, it is recommended to assess its **impact** and **likelihood**, where the first priority is those identified as both high impact _and_ high likelihood.
+For each identified possible threat, it is recommended to assess its with respect to the following criteria:
 
-- **Example #1: Meteor strikes the Earth.** High impact, low likelihood. Probably not a high priority.
-- **Example #2: Seasonal flue.** Low impact, high likelihood. Also probably not a high priority.
-- **Example #3: Epidemic.** The likelihood and impact depend on your variables (as do all threats, to varying degrees), e.g. how prevalent infectious diseases are (affects likelihood), or your pre-existing health conditions (affects impact).
+- **Impact** (prioritize higher over lower impact threats)
+- **Likelihood** (prioritize the more likely threats over the less likely ones)
+- **Mitigation costs** (reduce priority of a threat if the monetary cost for preparing for it is too high)
+- **Opportunity cost** (a bit similar to mitigation cost, but more in terms of invested time; preparing for threat X means less time can be spend on threat Y; it can also be that threat X and threat Y require non-compatible measures). _Addition by me:_ The opposite of opportunity cost is also something to keep in mind, i.e. _synergy_ between the preparedness for different threats (thus put higher priority on those which provide synergy with others).
+- _Addition by me:_ **Possibility to prepare for the threat** (as in, prioritize the things that are in one's control; note that this is similar to but not identical to mitigation cost, because a high mitigation cost may still mean it is possible to prepare, even though it is very expensive, while preparing for a world-ending meteor strike simply is not)
+
+- **Example #1: Meteor strikes the Earth.** High impact, low likelihood, not possible to prepare for.
+- **Example #2: Seasonal flue.** Low impact, high likelihood, low mitigation cost, low opportuniy cost.
+- **Example #3: Epidemic.** The impact, likelihood, mitigation and opporunity cost depend on your variables (as do most threats, to varying degrees), e.g. how prevalent infectious diseases are (affects likelihood), or your pre-existing health conditions (affects impact).
 
 It's mentioned that it can be overwhelming to try to figure out how to prioritize threats, because it's often hard to know the likelihood and/or impact, and it may feel like there are too many things to consider, so it's unclear where to even start. A few things are mentioned in the episode as a response to this:
 
@@ -56,13 +62,5 @@ It's mentioned that it can be overwhelming to try to figure out how to prioritiz
 - Related to the previous item: Note that there is often a lot of overlap in terms of what it means to be resilient against a certain type of threat. So even if you "only" get prepared with respect your identified top-3 risks, it is likely that you become prepared for many others as a "free lunch" as well.
 - Finally, note that depending on your desired outcome (see the first step, _Establish your desired outcome_), you may or may not be interested in doing a fully systemtic analysis of the threat landscape.
 
-So far in the episode (and the text above), the two key factors to consider in regards to threats have been likelihood and impact. But there are more (likelihood and impact are shown again for completeness below):
-
-- **Impact**
-- **Likelihood**
-- **Mitigation costs** (reduce priority of a threat if the monetary cost for preparing for it is too high)
-- **Opportunity cost** (a bit similar to "mitigation cost" but more in terms of invested time - preparing for threat X means less time can be spend on threat Y - and it can also be that threat X and threat Y require "contradictory" measures and are thus not compatible). _Addition by me:_ The opposite of opportunity cost is also something to keep in mind, i.e. _synergy_ between the preparedness for different threats (thus put higher priority on those which provide synergy to others).
-- _Addition by me:_ **Possibility to prepare for the threat** (as in, prioritize the things that are in one's control - note that this is similar to but not identical to "mitigation cost", because a high mitigation cost may still mean it is possible to prepare, even though it is very expensive, while preparing for a world-ending meteor strike simply is not)
-
-The final thing mentioned in the episode is the concept of a **_SWOT analysis_**, which considers the factors **strengths**, **weaknesses**, **opportunities** and **threats**. Such an analysis can be done e.g. one oneself (i.e. list various things in the four categories), to help guide how one prioritizes various threats.
+The final thing mentioned in the episode is the concept of a [**_SWOT analysis_**](https://en.wikipedia.org/wiki/SWOT_analysis), which considers the factors **strengths**, **weaknesses**, **opportunities** and **threats**. Such an analysis can be done e.g. one oneself (i.e. list various things in the four categories), to help guide how one prioritizes various threats.
 
