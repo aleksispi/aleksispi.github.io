@@ -26,7 +26,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 [Embodied Learning for Lifelong Visual Perception (arXiv 2021)](https://arxiv.org/abs/2112.14084)
 
-[Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing (CoRL 2021)](https://openreview.net/pdf?id=HTfApPeT4DZ) -- [Code](https://github.com/MariaPriisalu/spl) -- [Video](https://youtu.be/IMLC6njod3E)
+[Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing (CoRL 2021)](https://proceedings.mlr.press/v164/priisalu22a.html) -- [Code](https://github.com/MariaPriisalu/spl) -- [Video](https://youtu.be/IMLC6njod3E)
 
 [Reinforcement Learning for Active Visual Perception (PhD thesis 2021)](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) -- [Video](https://youtu.be/sWZ9eRacpAg)
 
