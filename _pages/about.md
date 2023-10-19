@@ -40,7 +40,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 [Exact Clustering of Weighted Graphs via Semidefinite Programming (JMLR 2019)](https://www.jmlr.org/papers/volume20/16-128/16-128.pdf) -- [arXiv](https://arxiv.org/abs/1603.05296)
 
-[Deep Reinforcement Learning of RegionpProposal Networks for Object Detection (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1543.pdf) -- [Code](https://github.com/aleksispi/drl-rpn-tf) -- [Video](https://youtu.be/XrszcAD-pnM)
+[Deep Reinforcement Learning of Region Proposal Networks for Object Detection (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1543.pdf) -- [Code](https://github.com/aleksispi/drl-rpn-tf) -- [Video](https://youtu.be/XrszcAD-pnM)
 
 [Reinforcement Learning for Visual Object Detection (CVPR 2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.html)
 
