@@ -51,5 +51,3 @@ that many years.
 - **What are my current interests and skillsets?**
 
 It is also mentioned that it is recommended to make a profile of oneself, even writing it down, so that one can assess one's variables properly.
-
-**This page is currently under construction.**
