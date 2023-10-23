@@ -17,8 +17,7 @@ rural area) and local circumstances?”_ will help guide this.
 Within the episode, the following are said to be some of the main variables to consider regarding the question _“How should I prepare?”_
 
 - **How much time do I have?**
-- **How much money do I have?** Split this into two parts: (1) Disposable income, and (2) Wealth (e.g. how much property do I own?). For example, one may have a low disposable income but still be in a 
-good position if one own's property, versus somebody who has a large income but has to pay a lot in rent.
+- **How much money do I have?** Split this into two parts: (1) Disposable income, and (2) Wealth (e.g. how much property do I own?). For example, one may have a low disposable income but still be in a good position if one owns property, versus somebody who has a large income but has to pay a lot in rent.
 - **What is available at my location?** Refers e.g. to how close one's geographical location is to key resources etcetera. For example, if one has a river nearby, the how-to-prepare aspect
 when it comes to water availability differs from the case when there are no nearby water sources.
 - **What does my community / community type look like?** As in, am I in an urban / suburban / rural area?
