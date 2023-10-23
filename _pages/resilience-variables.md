@@ -9,12 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-This is a more in-depth overview of [_Episode 7: Consider Your Variables_](https://shows.acast.com/building-up-resilience/episodes/episode-7-consider-your-variables)
-of the podast [_Building Up: Resilience_](https://shows.acast.com/building-up-resilience) by Kory and Kellan (K&K). Please refer to [this overview page](https://aleksispi.github.io/resilience)
-for a summary of the overall resilience framework proposed and discussed within this podcast.
+This is a more in-depth overview of the third step of a resilience framework proposed and described in the podast [_Building Up: Resilience_](https://shows.acast.com/building-up-resilience) by Kory and Kellan (K&K). This step is described in [_Episode 7: Consider Your Variables_](https://shows.acast.com/building-up-resilience/episodes/episode-7-consider-your-variables). Please refer to [this overview page](https://aleksispi.github.io/resilience) for a summary of the overall resilience framework, and on [this page](https://aleksispi.github.io/resilience-variables/) you can see my more in-depth overview of the next (fourth) step of the framework.
 
-The step _Consider your variables_ influences how one emphasizes the various pillars in the previous _Consider the pillars_ step, and is used to tackle the questions _“How should I prepare?”_ and
-_“What should I prepare for?”_. Questions such as _“How much time do I have to work on my resilience?”_, _“How much finances do I have for it?”_, _“What is my location (e.g. urban vs
+The step _Consider your variables_ influences how one emphasizes the various pillars in the previous _Consider the pillars_ step, and is used to tackle the questions _“How should I prepare?”_ and _“What should I prepare for?”_. Questions such as _“How much time do I have to work on my resilience?”_, _“How much finances do I have for it?”_, _“What is my location (e.g. urban vs
 rural area) and local circumstances?”_ will help guide this.
 
 Within the episode, the following are said to be some of the main variables to consider regarding the question _“How should I prepare?”_
