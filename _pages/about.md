@@ -52,9 +52,9 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **December 2023 (upcoming):** Presentation for Digitaliseringskonsulterna (Digitalization Consultants) on the theme "AI for the environment".
 
-**October 2023 (upcoming):** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector.
+**October 2023 (upcoming):** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
 
-**October 2023 (upcoming):** Presentation for a group of industry leaders within the industry sector in Skåne. Preliminary title: _AI: What do we need and not need to know? How AI, now and in the future, impacts us individually, in business and society_
+**October 2023:** Presentation for a group of industry leaders within the industry sector in Skåne. Title: _AI in practice: How to get the most out of your AI project_.
 
 <!---**September 2023:** [Commentary on AI for tackling climate change (Miljö och utveckling, in Swedish)](xxx)-->
 
