@@ -52,7 +52,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **December 2023 (upcoming):** Presentation for Digitaliseringskonsulterna (Digitalization Consultants) on the theme "AI for the environment".
 
-**October 2023 (upcoming):** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
+**October 2023:** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
 
 **October 2023:** Presentation for a group of industry leaders within the industry sector in Skåne. Title: _AI in practice: How to get the most out of your AI project_.
 
@@ -80,6 +80,8 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 **2022:** Industry project with [Sightic Analytics](https://www.sightic.com/): ML for detecting whether a human subject is under the influence of drugs. Funded by [Vinnova](https://www.vinnova.se/en/).
 
 ## Past and ongoing supervision
+
+**Spring 2024 (upcoming):** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Nils Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis (preliminary title): _Data-efficient machine learning for Earth observation_.
 
 **Summer 2023 (ongoing):** Co-supervisor for PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University). Expected graduation: Fall 2024. Research topic: ML for the sciences (e.g. chemistry and physics). Up until the summer of 2023, [Erik Ylipää](https://github.com/eryl) was Maria's co-supervisor; I took over after Erik left RISE. During October 2023 - June 2024, Maria and I will be working on 
 ML-based acceleration of CFD-solvers (funded by Vinnova).
