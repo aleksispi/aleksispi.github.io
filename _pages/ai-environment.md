@@ -25,7 +25,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **December 2023 (upcoming):** Presentation for Digitaliseringskonsulterna (Digitalization Consultants) on the theme "AI for the environment".
 
-**October 2023 (upcoming):** **October 2023 (upcoming):** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
+**October 2023:** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
 
 **September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
 
@@ -42,6 +42,8 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 **Fall 2022:** [Pre-study about using ML for wetland monitoring in Sweden](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/ai-teknik-testas-for-att-identifiera-vatmarker/) together with and funded by the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/). Code is available [here](https://github.com/aleksispi/ai-swetlands).
 
 ## Past and ongoing supervision
+
+**Spring 2024 (upcoming):** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Nils Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis (preliminary title): _Data-efficient machine learning for Earth observation_.
 
 **Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.
 
