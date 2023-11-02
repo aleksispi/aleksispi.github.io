@@ -70,6 +70,8 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 ## Other past and ongoing projects
 
+<!--**Fall 2023 (ongoing):** -->
+
 **Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.
 
 **2023 (ongoing):** [ML for cloud optical thickness prediction](https://www.ai.se/en/node/81535/national-space-data-lab-20) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Was presented as a poster at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). Paper submitted to an ML venue, currently under review. The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students.
