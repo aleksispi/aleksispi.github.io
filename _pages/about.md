@@ -56,7 +56,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **October 2023:** Presentation for a group of industry leaders within the industry sector in Skåne. Title: _AI in practice: How to get the most out of your AI project_.
 
-<!---**September 2023:** [Commentary on AI for tackling climate change (Miljö och utveckling, in Swedish)](xxx)-->
+**September 2023:** [Commentary on AI for tackling climate change (Miljö och utveckling, in Swedish)](https://miljo-utveckling.se/ai-potentiell-hjalte-i-klimatkrisen/)
 
 **April 2023:** [Commentary on AI risk (Forskning och framsteg, in Swedish)](https://fof.se/artikel/2023/4/det-som-skrammer-mest-ar-att-ai-lar-sig-social-manipulation/#klarna:0ac96c73-97c6-4c3f-b9e9-92f28ce0d74b)
 
