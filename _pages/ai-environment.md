@@ -27,6 +27,8 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **October 2023:** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
 
+**September 2023:** [Commentary on AI for tackling climate change (Miljö och utveckling, in Swedish)](https://miljo-utveckling.se/ai-potentiell-hjalte-i-klimatkrisen/)
+
 **September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
 
 **May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_, Kista.
