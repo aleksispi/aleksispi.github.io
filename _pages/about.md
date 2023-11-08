@@ -90,7 +90,7 @@ ML-based acceleration of CFD-solvers (funded by Vinnova).
 
 **Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.
 
-**Summer-Fall 2023:** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Axel Eiman and Nils Eickhoff, Chalmers University of Technology. Thesis (preliminary title): _Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease_. The thesis topic is within the area of climate adaptation and is conducted with collaborators in Tanzania, who provide data and use-cases.
+**Summer-Fall 2023:** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Axel Eiman and Nils Eickhoff, Chalmers University of Technology. Thesis (preliminary title): _Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease_. The thesis topic is within the area of climate adaptation and was conducted with collaborators in Tanzania, who provide data and use-cases.
 
 **Spring 2023:** Main supervisor of the master thesis student Ennio Rampello, KTH Royal Institute of Technology. Academic supervisors: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) and [Dr. Puzhao Zhang](https://www.kth.se/profile/puzhao). Thesis: _High-altitude navigation to improve the performance of AiRLoc: An RL model for drone navigation_. The thesis is related to the area of UAV-based disaster response and management.
 
