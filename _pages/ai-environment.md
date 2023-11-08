@@ -31,7 +31,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
 
-**May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_, Kista.
+**May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_.
 
 **January 2022:** [AI and climate change (RISE Learning Machines)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
 
@@ -39,7 +39,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.
 
-**2023 (ongoing):** [ML for cloud optical thickness prediction](https://www.ai.se/en/node/81535/national-space-data-lab-20) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Was presented as a poster at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). Paper submitted to an ML venue, currently under review. The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students.
+**2023 (ongoing):** [ML for cloud optical thickness prediction](https://www.ai.se/en/node/81535/national-space-data-lab-20) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Was presented as a poster at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students.
 
 **Fall 2022:** [Pre-study about using ML for wetland monitoring in Sweden](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/ai-teknik-testas-for-att-identifiera-vatmarker/) together with and funded by the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/). Code is available [here](https://github.com/aleksispi/ai-swetlands).
 
@@ -49,7 +49,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.
 
-**Summer-Fall 2023 (ongoing):** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Axel Eiman and Nils Eickhoff, Chalmers University of Technology. Thesis (preliminary title): _Deep learning for detecting coffee berry diseases_. The thesis topic is within the area of climate adaptation and is conducted with collaborators in Tanzania, who provide data and use-cases.
+**Summer-Fall 2023:** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Axel Eiman and Nils Eickhoff, Chalmers University of Technology. Thesis (preliminary title): _Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease_. The thesis topic is within the area of climate adaptation and was conducted with collaborators in Tanzania, who provide data and use-cases.
 
 **Spring 2023:** Main supervisor of the master thesis student Ennio Rampello, KTH Royal Institute of Technology. Academic supervisors: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) and [Dr. Puzhao Zhang](https://www.kth.se/profile/puzhao). Thesis: _High-altitude navigation to improve the performance of AiRLoc: An RL model for drone navigation_. The thesis is related to the area of UAV-based disaster response and management.
 
