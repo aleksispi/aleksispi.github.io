@@ -60,7 +60,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS
 
 **April 2023:** [Commentary on AI risk (Forskning och framsteg, in Swedish)](https://fof.se/artikel/2023/4/det-som-skrammer-mest-ar-att-ai-lar-sig-social-manipulation/#klarna:0ac96c73-97c6-4c3f-b9e9-92f28ce0d74b)
 
-**September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation (video)](https://youtu.be/p1AT31S37b4)
+**September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation](https://youtu.be/p1AT31S37b4)
 
 **May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_.
 
