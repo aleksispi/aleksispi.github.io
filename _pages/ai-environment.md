@@ -13,9 +13,9 @@ This page contains information about projects, publications and other things tha
 
 ## Publications and preprints
 [Fully Convolutional Networks for Dense Water Flow Intensity
-Prediction in Swedish Catchment Areas (SAIS 2023)](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_6.pdf) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo)
+Prediction in Swedish Catchment Areas (SAIS 2023)](https://ecp.ep.liu.se/index.php/sais/article/view/714) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo)
 
-[Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue (ML-for-RS Workshop at ICLR 2023)](https://arxiv.org/abs/2209.03694) -- [SAIS 2023 paper](https://grahn.cse.bth.se/SAIS-2023/full_papers/paper_7.pdf) -- [Code](https://github.com/aleksispi/airloc) -- [Video](https://youtu.be/n01OCLNKxFc)
+[Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue (ML-for-RS Workshop at ICLR 2023)](https://arxiv.org/abs/2209.03694) -- [SAIS 2023 paper](https://ecp.ep.liu.se/index.php/sais/article/view/715) -- [Code](https://github.com/aleksispi/airloc) -- [Video](https://youtu.be/n01OCLNKxFc)
 
 [Few-shot Bioacoustic Event Detection using a Prototypical Network Ensemble with Adaptive Embedding Functions (DCASE Workshop 2022)](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Martinsson_13.pdf) -- [Code](https://github.com/johnmartinsson/few-shot-learning-bioacoustics) -- [Popular summary](https://www.ri.se/en/few-shot-bioacoustic-event-detection-using-a-prototypical-network-ensemble-with-adaptive-embedding)
 
