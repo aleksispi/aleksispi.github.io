@@ -37,7 +37,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://ecp.ep.liu.se/index.p
 
 ## Other past and ongoing projects
 
-**Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.
+<!--**Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.-->
 
 **2023 (ongoing):** [ML for cloud optical thickness prediction](https://www.ai.se/en/node/81535/national-space-data-lab-20) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Was presented as a poster at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students.
 
@@ -46,6 +46,8 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://ecp.ep.liu.se/index.p
 ## Past and ongoing supervision
 
 **Spring 2024 (upcoming):** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis (preliminary title): _Data-efficient machine learning for Earth observation_.
+
+**Spring 2024 (upcoming):** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Emma Amnemyr and Daniel Björklund, Lund University. Thesis (preliminary title): _Machine learning for tracking coffee berry disease_.
 
 **Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.
 
