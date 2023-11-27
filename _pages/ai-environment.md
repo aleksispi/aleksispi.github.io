@@ -12,8 +12,9 @@ redirect_from:
 This page contains information about projects, publications and other things that relate specifically to my work on and passion for developing ML systems for various environmental applications. It is thus in a sense a subset of my full professional bio which can be found on the [main page](https://aleksispi.github.io).
 
 ## Publications and preprints
-[Fully Convolutional Networks for Dense Water Flow Intensity
-Prediction in Swedish Catchment Areas (SAIS 2023)](https://ecp.ep.liu.se/index.php/sais/article/view/714) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo)
+[Creating and Benchmarking a Synthetic Dataset for Cloud Optical Thickness Estimation (EUMETSAT 2023)](https://arxiv.org/abs/2311.14024) -- [Code & Data](https://github.com/aleksispi/ml-cloud-opt-thick)
+
+[Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas (SAIS 2023)](https://ecp.ep.liu.se/index.php/sais/article/view/714) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo)
 
 [Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue (ML-for-RS Workshop at ICLR 2023)](https://arxiv.org/abs/2209.03694) -- [SAIS 2023 paper](https://ecp.ep.liu.se/index.php/sais/article/view/715) -- [Code](https://github.com/aleksispi/airloc) -- [Video](https://youtu.be/n01OCLNKxFc)
 
@@ -39,7 +40,7 @@ Prediction in Swedish Catchment Areas (SAIS 2023)](https://ecp.ep.liu.se/index.p
 
 <!--**Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.-->
 
-**2023 (ongoing):** [ML for cloud optical thickness prediction](https://www.ai.se/en/node/81535/national-space-data-lab-20) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Was presented as a poster at [EUMETSTAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students.
+**2023 (ongoing):** [ML for cloud optical thickness prediction](https://arxiv.org/abs/2311.14024) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). Was presented as a poster at [EUMETSAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). The final cloud prediction models will be integrated with the [Digital Earth Sweden platform](https://digitalearth.se/). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students. [Code & data available!](https://github.com/aleksispi/ml-cloud-opt-thick)
 
 **Fall 2022:** [Pre-study about using ML for wetland monitoring in Sweden](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/ai-teknik-testas-for-att-identifiera-vatmarker/) together with and funded by the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/). Code is available [here](https://github.com/aleksispi/ai-swetlands).
 
