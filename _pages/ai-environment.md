@@ -14,7 +14,7 @@ This page contains information about projects, publications and other things tha
 ## Publications and preprints
 [Creating and Benchmarking a Synthetic Dataset for Cloud Optical Thickness Estimation (EUMETSAT 2023)](https://arxiv.org/abs/2311.14024) -- [Code & Data](https://github.com/aleksispi/ml-cloud-opt-thick)
 
-[Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas (SAIS 2023)](https://ecp.ep.liu.se/index.php/sais/article/view/714) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo)
+[Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas (SAIS 2023)](https://ecp.ep.liu.se/index.php/sais/article/view/714) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo) -- [Popular summary](https://www.ri.se/en/what-we-do/projects/predicting-water-flow-intensity-with-machine-learning)
 
 [Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue (ML-for-RS Workshop at ICLR 2023)](https://arxiv.org/abs/2209.03694) -- [SAIS 2023 paper](https://ecp.ep.liu.se/index.php/sais/article/view/715) -- [Code](https://github.com/aleksispi/airloc) -- [Video](https://youtu.be/n01OCLNKxFc)
 
@@ -52,7 +52,7 @@ This page contains information about projects, publications and other things tha
 
 **Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.
 
-**Summer-Fall 2023:** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Axel Eiman and Nils Eickhoff, Chalmers University of Technology. Thesis: _Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease_. The thesis topic is within the area of climate adaptation and was conducted with collaborators in Tanzania ([Mpendakazi Agribusiness](https://www.mpendakazi.co.tz/)), who provide data and use-cases.
+**Summer-Fall 2023:** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Axel Eiman and Nils Eickhoff, Chalmers University of Technology. Thesis: _Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease_. The thesis topic is within the area of climate adaptation and was conducted with collaborators in Tanzania ([Mpendakazi Agribusiness](https://www.mpendakazi.co.tz/)), who provide data and use-cases. A popular summary can be found [here](https://www.ri.se/en/what-we-do/projects/predicting-water-flow-intensity-with-machine-learning).
 
 **Spring 2023:** Main supervisor of the master thesis student Ennio Rampello, KTH Royal Institute of Technology. Academic supervisors: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) and [Dr. Puzhao Zhang](https://www.kth.se/profile/puzhao). Thesis: _High-altitude navigation to improve the performance of AiRLoc: An RL model for drone navigation_. The thesis is related to the area of UAV-based disaster response and management.
 
