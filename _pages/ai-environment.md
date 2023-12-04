@@ -26,7 +26,7 @@ This page contains information about projects, publications and other things tha
 
 **December 2023:** Presentation for [Digitaliseringskonsulterna](https://digitaliseringskonsulterna.se/) on the theme "AI for the environment".
 
-**October 2023:** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
+**October 2023:** Presentation for [Lantbrukarnas Riksförbund](https://www.lrf.se/) (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
 
 **September 2023:** [Commentary on AI for tackling climate change (Miljö och utveckling, in Swedish)](https://miljo-utveckling.se/ai-potentiell-hjalte-i-klimatkrisen/)
 
