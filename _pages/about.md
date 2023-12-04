@@ -51,7 +51,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **December 2023 (upcoming):** Presentation for a class of master students at Lund University on the theme "AI for the environment".
 
-**December 2023 (upcoming):** Presentation for Digitaliseringskonsulterna (Digitalization Consultants) on the theme "AI for the environment".
+**December 2023:** Presentation for Digitaliseringskonsulterna (Digitalization Consultants) on the theme "AI for the environment".
 
 **October 2023:** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
 
