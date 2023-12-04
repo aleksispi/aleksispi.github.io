@@ -53,7 +53,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **December 2023:** Presentation for [Digitaliseringskonsulterna](https://digitaliseringskonsulterna.se/) on the theme "AI for the environment".
 
-**October 2023:** Presentation for Lantbrukarnas Riksförbund (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
+**October 2023:** Presentation for [Lantbrukarnas Riksförbund](https://www.lrf.se/) (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
 
 **October 2023:** Presentation for a group of industry leaders within the industry sector in Skåne. Title: _AI in practice: How to get the most out of your AI project_.
 
