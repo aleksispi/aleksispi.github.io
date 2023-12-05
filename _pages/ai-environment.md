@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "AI for environment"
+title: "AI for the environment"
 permalink: /ai-environment/
 author_profile: true
 redirect_from:
