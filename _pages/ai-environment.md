@@ -22,7 +22,7 @@ This page contains information about projects, publications and other things tha
 
 ## Media and public communication
 
-**December 2023 (upcoming):** Presentation for a class of master students at Lund University on the theme "AI for the environment".
+**December 2023:** Presentation for a class of master students at Lund University on the theme "AI for the environment".
 
 **December 2023:** Presentation for [Digitaliseringskonsulterna](https://digitaliseringskonsulterna.se/) on the theme "AI for the environment".
 
