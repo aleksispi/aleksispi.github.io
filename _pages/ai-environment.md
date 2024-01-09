@@ -46,9 +46,9 @@ This page contains information about projects, publications and other things tha
 
 ## Past and ongoing supervision
 
-**Spring 2024 (upcoming):** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis (preliminary title): _Data-efficient machine learning for Earth observation_.
+**Spring 2024 (ongoing):** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis (preliminary title): _Data-efficient machine learning for Earth observation_.
 
-**Spring 2024 (upcoming):** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Emma Amnemyr and Daniel Björklund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis (preliminary title): _Active Learning for Improving Machine Learning-based Detection of Coffee Berry Disease_.  The thesis topic is within the area of climate adaptation and will be conducted with collaborators in Tanzania ([Mpendakazi Agribusiness](https://www.mpendakazi.co.tz/)), who provide data and use-cases.
+**Spring 2024 (ongoing):** Co-main supervisor (jointly with [Dr. Olof Mogren](mogren.one)) of the master thesis students Emma Amnemyr and Daniel Björklund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis (preliminary title): _Active Learning for Improving Machine Learning-based Detection of Coffee Berry Disease_.  The thesis topic is within the area of climate adaptation and will be conducted with collaborators in Tanzania ([Mpendakazi Agribusiness](https://www.mpendakazi.co.tz/)), who provide data and use-cases.
 
 <!--**Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.-->
 
