@@ -49,9 +49,9 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 ## Media and public communication
 
-**December 2023:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_.
+**January 2024:** Commentary on AI for tackling climate change ([Naturvetarna](https://www.naturvetarna.se/), in Swedish).
 
-**December 2023:** Presentation for [Digitaliseringskonsulterna](https://digitaliseringskonsulterna.se/) on the theme _AI for the environment_.
+**December 2023:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_. Similar presentation also for [Digitaliseringskonsulterna](https://digitaliseringskonsulterna.se/).
 
 **October 2023:** Presentation for [Lantbrukarnas Riksförbund](https://www.lrf.se/) (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
 
