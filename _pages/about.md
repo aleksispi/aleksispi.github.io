@@ -111,4 +111,4 @@ geo-localization_. The thesis is related to the area of UAV-based disaster respo
 **April 2014:** _SURF Scholarship at California Institute of Technology_. Awarded a SURF scholarship from Caltech to work with Assoc. Prof. Brendan Ames and Prof. Joel Tropp during the summer of 2014.
 
 ## Review work
-I regularly review top-tier ML/CV conference and journal papers (CVPR 2017 - 2019; ICCV 2019; ECCV 2018; NeurIPS 2017; AAAI 2018, 2021; CoRL 2022 - 2023; IJCV 2019 - 2021). I've also served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023) and _Remote Sensing_ (2023).
+I regularly review top-tier ML/CV conference and journal papers (CVPR 2017 - 2019; ICCV 2019; ECCV 2018; NeurIPS 2017; AAAI 2018, 2021; CoRL 2022 - 2023; IJCV 2019 - 2021). I've also served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), and the _International Degrowth Conference_ (2024).
