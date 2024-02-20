@@ -15,4 +15,6 @@ When not doing research, I enjoy spending time with my family (wife, 5-year-old,
 
 In the picture below, some of the interests mentioned above can be seen and/or derived. The tomatoes were grown in our small garden, and it seems our dog Yoshi is trying to sniff the box containing the tomatoes. Yoshi weighs a bit over 10 kgs, and thus (small as he may be), [he represents more than 4x the land-based wildlife mammal weight per human](https://www.resilience.org/stories/2023-08-21/ecological-cliff-edge/). _In other words, if we took all land-based wildlife mammals out there in the world, and shared them equally among us 8 billion humans, it would mean we get 2.5 kgs (or 1/4 of our dog Yoshi) each._
 
+This is a sentence I came up with some while ago, which I think resonates quite well with the above: **The elephant in the room is that there are too many elephants in the room, one of which is that there are no elephants in the room.**
+
 ![yoshi-tomato](https://github.com/aleksispi/ai-swetlands/assets/32370520/c00022a6-0c37-404f-8323-90bed66c45f8)
