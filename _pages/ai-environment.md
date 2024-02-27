@@ -64,4 +64,4 @@ geo-localization_](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-Q
 **Spring 2022:** Main supervisor of the master thesis students Anton Samuelsson and John Backsund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: [_Aerial View Goal Localization with Reinforcement Learning_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9088977&fileOId=9089013). The thesis was subsequently condensed and accepted to a remote sensing workshop at ICLR 2023 (see _Publications and preprints_ above). The thesis is related to the area of UAV-based disaster response and management.
 
 ## Review work
- I have served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), and the _International Degrowth Conference_ (2024).
+ I have served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (2024), and the _International Degrowth Conference_ (2024).
