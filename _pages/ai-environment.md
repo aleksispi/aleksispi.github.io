@@ -12,6 +12,8 @@ redirect_from:
 This page contains information about projects, publications and other things that relate specifically to my research on ML systems for various environmental applications (both regarding mitigation of further environmental harm, as well as adaptation with respect to existing or locked in harm). It is thus in a sense a subset of my full professional bio which can be found on the [main page](https://aleksispi.github.io).
 
 ## Publications and preprints
+High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth -- Position paper to appear at the [10th International Degrowth Conference](https://esee-degrowth2024.uvigo.gal/en/)
+
 [NBS Initiative Position Paper: Embracing Nature-Based Solutions for Sustainable Development (2024)](https://drive.google.com/file/d/1VMrz_W7Iplr471iffJvTYixo82ZxfazV/view?usp=drive_link) -- To be presented at [ECTP conference 2024](https://www.ectp.org/ectp-conferences/ectp-conference-2024) 
 
 [Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI (Remote Sensing 2024)](https://www.mdpi.com/2072-4292/16/4/694) -- [arXiv](https://arxiv.org/abs/2311.14024) -- [Code & Data](https://github.com/aleksispi/ml-cloud-opt-thick)
