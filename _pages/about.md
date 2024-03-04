@@ -17,39 +17,41 @@ Prior to my doctoral studies, I received a bachelor and master degree within eng
 I'm an advocate for facing our difficult future (and present, for many), collectively and individually, so that we can try to reduce harm and suffering. I may write more about this under my [personal page](https://aleksispi.github.io/personal/) at some point, but for anyone interested in learning more about what is difficult about our future, I warmly recommend the podcasts [_The Great Simplification_](https://www.thegreatsimplification.com/), [_Breaking Down: Collapse_](https://collapsepod.buzzsprout.com/) (and the follow-up podcast [_Building Up: Resilience_](https://shows.acast.com/building-up-resilience)), [_Planet: Critical_](https://www.planetcritical.com/podcast), and [_Entangled World_](https://player.fm/series/entangled-world). Two other short and self-contained podcasts that I also recommend are [_Power: Limits and Prospects for Human Survival_](https://power.postcarbon.org/podcast/) and [_Tipping Point: The True Story of "The Limits to Growth"_](https://tippingpointstory.podigee.io/). I also try to summarize some reasons why in [this video](https://youtu.be/QXztQfKLiSc?si=zwTjXQ6Fw1t77f6s&t=1614).
 
 ## Publications and preprints
-High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth (2024) -- Position paper to appear at the [10th International Degrowth Conference](https://esee-degrowth2024.uvigo.gal/en/)
+_Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning_ (2024) -- To appear at the 2nd ML-for-RS Workshop at ICLR 2024
 
-[NBS Initiative Position Paper: Embracing Nature-Based Solutions for Sustainable Development (2024)](https://drive.google.com/file/d/1VMrz_W7Iplr471iffJvTYixo82ZxfazV/view?usp=drive_link) -- To be presented at [ECTP conference 2024](https://www.ectp.org/ectp-conferences/ectp-conference-2024) 
+_High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth_ (2024) -- Position paper to appear at the [10th International Degrowth Conference](https://esee-degrowth2024.uvigo.gal/en/)
 
-[Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI (Remote Sensing 2024)](https://www.mdpi.com/2072-4292/16/4/694) -- [arXiv](https://arxiv.org/abs/2311.14024) -- [Code & Data](https://github.com/aleksispi/ml-cloud-opt-thick)
+[_NBS Initiative Position Paper: Embracing Nature-Based Solutions for Sustainable Development_ (2024)](https://drive.google.com/file/d/1VMrz_W7Iplr471iffJvTYixo82ZxfazV/view?usp=drive_link) -- To be presented at [ECTP conference 2024](https://www.ectp.org/ectp-conferences/ectp-conference-2024) 
 
-[Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas (SAIS 2023)](https://ecp.ep.liu.se/index.php/sais/article/view/714) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo) -- [Popular summary](https://www.ri.se/en/what-we-do/projects/predicting-water-flow-intensity-with-machine-learning)
+[_Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI_ (Remote Sensing 2024)](https://www.mdpi.com/2072-4292/16/4/694) -- [arXiv](https://arxiv.org/abs/2311.14024) -- [Code & Data](https://github.com/aleksispi/ml-cloud-opt-thick) -- Also to appear as oral presentation at the 2nd ML-for-RS Workshop at ICLR 2024
 
-[Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue (ML-for-RS Workshop at ICLR 2023)](https://arxiv.org/abs/2209.03694) -- [SAIS 2023 paper](https://ecp.ep.liu.se/index.php/sais/article/view/715) -- [Code](https://github.com/aleksispi/airloc) -- [Video](https://youtu.be/n01OCLNKxFc)
+[_Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas_ (SAIS 2023)](https://ecp.ep.liu.se/index.php/sais/article/view/714) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo) -- [Popular summary](https://www.ri.se/en/what-we-do/projects/predicting-water-flow-intensity-with-machine-learning)
 
-[Few-shot Bioacoustic Event Detection using a Prototypical Network Ensemble with Adaptive Embedding Functions (DCASE Workshop 2022)](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Martinsson_13.pdf) -- [Code](https://github.com/johnmartinsson/few-shot-learning-bioacoustics) -- [Popular summary](https://www.ri.se/en/few-shot-bioacoustic-event-detection-using-a-prototypical-network-ensemble-with-adaptive-embedding)
+[_Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue_ (1st ML-for-RS Workshop at ICLR 2023)](https://arxiv.org/abs/2209.03694) -- [SAIS 2023 paper](https://ecp.ep.liu.se/index.php/sais/article/view/715) -- [Code](https://github.com/aleksispi/airloc) -- [Video](https://youtu.be/n01OCLNKxFc)
 
-[Embodied Learning for Lifelong Visual Perception (arXiv 2021)](https://arxiv.org/abs/2112.14084)
+[_Few-shot Bioacoustic Event Detection using a Prototypical Network Ensemble with Adaptive Embedding Functions_ (DCASE Workshop 2022)](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Martinsson_13.pdf) -- [Code](https://github.com/johnmartinsson/few-shot-learning-bioacoustics) -- [Popular summary](https://www.ri.se/en/few-shot-bioacoustic-event-detection-using-a-prototypical-network-ensemble-with-adaptive-embedding)
 
-[Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing (CoRL 2021)](https://proceedings.mlr.press/v164/priisalu22a.html) -- [Code](https://github.com/MariaPriisalu/spl) -- [Video](https://youtu.be/IMLC6njod3E)
+[_Embodied Learning for Lifelong Visual Perception_ (arXiv 2021)](https://arxiv.org/abs/2112.14084)
 
-[Reinforcement Learning for Active Visual Perception (PhD thesis 2021)](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) -- [Video](https://youtu.be/sWZ9eRacpAg)
+[_Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing_ (CoRL 2021)](https://proceedings.mlr.press/v164/priisalu22a.html) -- [Code](https://github.com/MariaPriisalu/spl) -- [Video](https://youtu.be/IMLC6njod3E)
 
-[Embodied Visual Active Learning for Semantic Segmentation (AAAI 2021)](https://ojs.aaai.org/index.php/AAAI/article/view/16338) -- [arXiv](https://arxiv.org/abs/2012.09503) -- [Video](https://youtu.be/SeXxcScPDfM)
+[_Reinforcement Learning for Active Visual Perception_ (PhD thesis 2021)](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) -- [Video](https://youtu.be/sWZ9eRacpAg)
 
-[Deep Reinforcement Learning for Active Human Pose Estimation (AAAI 2020)](https://ojs.aaai.org/index.php/AAAI/article/view/6714) -- [arXiv](https://arxiv.org/abs/2001.02024) -- [Code](https://github.com/aleksispi/pose-drl) -- [Video 1](https://youtu.be/CNsTbX_q4so) -- [Video 2](https://youtu.be/9hB6aZCBMbs) -- [Video 3](https://youtu.be/tIOmNUnemNw)
+[_Embodied Visual Active Learning for Semantic Segmentation_ (AAAI 2021)](https://ojs.aaai.org/index.php/AAAI/article/view/16338) -- [arXiv](https://arxiv.org/abs/2012.09503) -- [Video](https://youtu.be/SeXxcScPDfM)
 
-[Semantic Synthesis of Pedestrian Locomotion (ACCV 2020)](https://openaccess.thecvf.com/content/ACCV2020/html/Priisalu_Semantic_Synthesis_of_Pedestrian_Locomotion_ACCV_2020_paper.html) -- [Code](https://github.com/MariaPriisalu/spl) -- [Video](https://accv2020.github.io/miniconf/poster_246.html) -- [Spotlight video](https://youtu.be/xRdbkPtF7SU)
+[_Deep Reinforcement Learning for Active Human Pose Estimation_ (AAAI 2020)](https://ojs.aaai.org/index.php/AAAI/article/view/6714) -- [arXiv](https://arxiv.org/abs/2001.02024) -- [Code](https://github.com/aleksispi/pose-drl) -- [Video 1](https://youtu.be/CNsTbX_q4so) -- [Video 2](https://youtu.be/9hB6aZCBMbs) -- [Video 3](https://youtu.be/tIOmNUnemNw)
 
-[Domes to Drones: Self-supervised Active Triangulation for 3d Human Pose Reconstruction (NeurIPS 2019)](https://proceedings.neurips.cc/paper/2019/file/c3e4035af2a1cde9f21e1ae1951ac80b-Paper.pdf) -- [Code](https://github.com/ErikGartner/actor) -- [Video](https://youtu.be/-RQHKJjqbYU)
+[_Semantic Synthesis of Pedestrian Locomotion_ (ACCV 2020)](https://openaccess.thecvf.com/content/ACCV2020/html/Priisalu_Semantic_Synthesis_of_Pedestrian_Locomotion_ACCV_2020_paper.html) -- [Code](https://github.com/MariaPriisalu/spl) -- [Video](https://accv2020.github.io/miniconf/poster_246.html) -- [Spotlight video](https://youtu.be/xRdbkPtF7SU)
 
-[Exact Clustering of Weighted Graphs via Semidefinite Programming (JMLR 2019)](https://www.jmlr.org/papers/volume20/16-128/16-128.pdf) -- [arXiv](https://arxiv.org/abs/1603.05296)
+[_Domes to Drones: Self-supervised Active Triangulation for 3d Human Pose Reconstruction_ (NeurIPS 2019)](https://proceedings.neurips.cc/paper/2019/file/c3e4035af2a1cde9f21e1ae1951ac80b-Paper.pdf) -- [Code](https://github.com/ErikGartner/actor) -- [Video](https://youtu.be/-RQHKJjqbYU)
 
-[Deep Reinforcement Learning of Region Proposal Networks for Object Detection (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1543.pdf) -- [Code](https://github.com/aleksispi/drl-rpn-tf) -- [Video](https://youtu.be/XrszcAD-pnM)
+[_Exact Clustering of Weighted Graphs via Semidefinite Programming_ (JMLR 2019)](https://www.jmlr.org/papers/volume20/16-128/16-128.pdf) -- [arXiv](https://arxiv.org/abs/1603.05296)
 
-[Reinforcement Learning for Visual Object Detection (CVPR 2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.html)
+[_Deep Reinforcement Learning of Region Proposal Networks for Object Detection_ (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1543.pdf) -- [Code](https://github.com/aleksispi/drl-rpn-tf) -- [Video](https://youtu.be/XrszcAD-pnM)
 
-[Stray Light Compensation in Optical Systems (master thesis 2015)](https://lup.lub.lu.se/student-papers/search/publication/5463896)
+[_Reinforcement Learning for Visual Object Detection_ (CVPR 2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.html)
+
+[_Stray Light Compensation in Optical Systems_ (master thesis 2015)](https://lup.lub.lu.se/student-papers/search/publication/5463896)
 
 ## Media and public communication
 
