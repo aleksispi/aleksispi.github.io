@@ -12,11 +12,13 @@ redirect_from:
 This page contains information about projects, publications and other things that relate specifically to my research on ML systems for various environmental applications (both regarding mitigation of further environmental harm, as well as adaptation with respect to existing or locked in harm). It is thus in a sense a subset of my full professional bio which can be found on the [main page](https://aleksispi.github.io).
 
 ## Publications and preprints
+_Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning_ (2024) -- To appear at the 2nd ML-for-RS Workshop at ICLR 2024
+
 _High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth_ (2024) -- Position paper to appear at the [10th International Degrowth Conference](https://esee-degrowth2024.uvigo.gal/en/)
 
 [_NBS Initiative Position Paper: Embracing Nature-Based Solutions for Sustainable Development_ (2024)](https://drive.google.com/file/d/1VMrz_W7Iplr471iffJvTYixo82ZxfazV/view?usp=drive_link) -- To be presented at [ECTP conference 2024](https://www.ectp.org/ectp-conferences/ectp-conference-2024) 
 
-[_Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI_ (Remote Sensing 2024)](https://www.mdpi.com/2072-4292/16/4/694) -- [arXiv](https://arxiv.org/abs/2311.14024) -- [Code & Data](https://github.com/aleksispi/ml-cloud-opt-thick)
+[_Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI_ (Remote Sensing 2024)](https://www.mdpi.com/2072-4292/16/4/694) -- [arXiv](https://arxiv.org/abs/2311.14024) -- [Code & Data](https://github.com/aleksispi/ml-cloud-opt-thick) -- Also to appear as oral presentation at the 2nd ML-for-RS Workshop at ICLR 2024
 
 [_Fully Convolutional Networks for Dense Water Flow Intensity Prediction in Swedish Catchment Areas_ (SAIS 2023)](https://ecp.ep.liu.se/index.php/sais/article/view/714) -- [arXiv](https://arxiv.org/abs/2304.01658) -- [Code](https://github.com/aleksispi/fcn-water-flow) -- [Video](https://youtu.be/dnE0AfiqoZo) -- [Popular summary](https://www.ri.se/en/what-we-do/projects/predicting-water-flow-intensity-with-machine-learning)
 
