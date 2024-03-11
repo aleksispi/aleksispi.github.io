@@ -116,7 +116,7 @@ geo-localization_](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-Q
 
 ## Honors and awards
 
-**June 2018:** _Outstanding Reviewer for CVPR 2018_. Obtained and _outstanding reviewer award_ for my CVPR 2018 review work.
+**June 2018:** _Outstanding Reviewer for CVPR 2018_. Obtained an _outstanding reviewer award_ for my CVPR 2018 review work.
 
 **March 2016:** _Teaching Assistant of the Year_. Announced teaching assistant of the year 2016 for the chemistry students (K-sektionen) at the Faculty of Engineering, Lund University, for my contributions in the basic courses in calculus and linear algebra.
 
