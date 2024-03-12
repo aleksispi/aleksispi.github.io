@@ -93,7 +93,7 @@ _High-tech for low-tech: Some thoughts on AI-based mitigation of ecological brea
 **2022:** Industry project with [Sightic Analytics](https://www.sightic.com/): ML for detecting whether a human subject is under the influence of drugs. Funded by [Vinnova](https://www.vinnova.se/en/).
 
 ## Past and ongoing supervision
-Below is a description of past and ongoing doctoral student supervision. Please see [this page](aleksispi.github.io/master-theses) for past and ongoing master thesis supervision.
+Below is a description of past and ongoing doctoral student supervision. Please see [this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis supervision.
 
 <!--**Spring 2024 (ongoing):** Co-supervisor of the master thesis students Oscar Marklund and Richard Lindholm, Lund University. Academic supervisor: [Prof. Maria Sandsten](https://www.maths.lu.se/english/research/staff/mariasandsten/). Other supervisors at RISE: [Dr. Olof Mogren](mogren.one) and [John Martinsson](https://johnmartinsson.github.io/). Thesis (preliminary title): _Active Learning for Bioacoustic Sound Event Detection_. The thesis is within the area of biodiversity monitoring.-->
 **Summer 2023 (ongoing):** Co-supervisor for **PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en)** (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University). Expected graduation: Fall 2024. Research topic: ML for the sciences (e.g. chemistry and physics). Up until the summer of 2023, [Erik Ylipää](https://github.com/eryl) was Maria's co-supervisor; I took over after Erik left RISE. During October 2023 - June 2024, Maria and I will be working on 
