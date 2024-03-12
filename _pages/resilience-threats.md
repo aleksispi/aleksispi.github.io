@@ -3,8 +3,6 @@ layout: archive
 title: "Resilience: Threat modeling"
 permalink: /resilience-threats/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
