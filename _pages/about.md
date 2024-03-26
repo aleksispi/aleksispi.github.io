@@ -19,8 +19,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 ## Publications and preprints
 [_Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning_ (2024)](https://arxiv.org/abs/2403.04385) -- Accepted for the [2nd ML-for-RS Workshop at ICLR 2024](https://ml-for-rs.github.io/iclr2024/)
 
-_High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth_ (2024) -- Position paper accepted for the [10th International Degrowth Conference](https://esee-degrowth2024.uvigo.gal/en/)
-
+<!--_High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth_ (2024) -- Position paper accepted for the [10th International Degrowth Conference](https://esee-degrowth2024.uvigo.gal/en/)-->
 [_NBS Initiative Position Paper: Embracing Nature-Based Solutions for Sustainable Development_ (2024)](https://drive.google.com/file/d/1VMrz_W7Iplr471iffJvTYixo82ZxfazV/view?usp=sharing) -- Presented at the [ECTP conference 2024](https://www.ectp.org/ectp-conferences/ectp-conference-2024) 
 
 [_Creating and Leveraging a Synthetic Dataset of Cloud Optical Thickness Measures for Cloud Detection in MSI_ (Remote Sensing 2024)](https://www.mdpi.com/2072-4292/16/4/694) -- [arXiv](https://arxiv.org/abs/2311.14024) -- [Code & Data](https://github.com/aleksispi/ml-cloud-opt-thick) -- Also to appear as oral presentation at the [2nd ML-for-RS Workshop at ICLR 2024](https://ml-for-rs.github.io/iclr2024/)
