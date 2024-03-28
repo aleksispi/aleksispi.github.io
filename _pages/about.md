@@ -101,7 +101,7 @@ Below is a description of past and ongoing doctoral student supervision. Please 
 
 ## Honors and awards
 
-**March 2024:** [_Top 30 reviewer_](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/news#appreciation-for-the-reviewers-for-the-calendar-year-2023) of the ISPRS Journal of Photogrammetry and Remote Sensing journal for 2023.
+**March 2024:** [_Top 30 reviewer_](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/news#appreciation-for-the-reviewers-for-the-calendar-year-2023) of the ISPRS Journal of Photogrammetry and Remote Sensing for 2023.
 
 **June 2018:** _Outstanding Reviewer for CVPR 2018_. Obtained an _outstanding reviewer award_ for my CVPR 2018 review work.
 
