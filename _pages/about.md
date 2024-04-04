@@ -103,7 +103,7 @@ Below is a description of past and ongoing doctoral student supervision. Please 
 
 **March 2024:** [_Top 30 reviewer_](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/news#appreciation-for-the-reviewers-for-the-calendar-year-2023) of the ISPRS Journal of Photogrammetry and Remote Sensing for 2023.
 
-**June 2018:** _Outstanding Reviewer for CVPR 2018_. Obtained an _outstanding reviewer award_ for my CVPR 2018 review work.
+**June 2018:** _Outstanding Reviewer for CVPR 2018_. Obtained an [_outstanding reviewer award_](https://cvpr2018.thecvf.com/program/reviewer_acknowledgements) for my CVPR 2018 review work.
 
 **March 2016:** _Teaching Assistant of the Year_. Announced teaching assistant of the year 2016 for the chemistry students (K-sektionen) at the Faculty of Engineering, Lund University, for my contributions in the basic courses in calculus and linear algebra.
 
