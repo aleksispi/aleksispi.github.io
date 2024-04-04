@@ -105,7 +105,7 @@ Below is a description of past and ongoing doctoral student supervision. Please 
 
 **June 2018:** _Outstanding Reviewer for CVPR 2018_. Obtained an [_outstanding reviewer award_](https://cvpr2018.thecvf.com/program/reviewer_acknowledgements) for my CVPR 2018 review work.
 
-**March 2016:** _Teaching Assistant of the Year_. Announced teaching assistant of the year 2016 for the chemistry students (K-sektionen) at the Faculty of Engineering, Lund University, for my contributions in the basic courses in calculus and linear algebra.
+**March 2016:** _Teaching Assistant of the Year_. Announced [teaching assistant of the year 2016](https://www.dropbox.com/scl/fi/dbo5gfkszv4mntvz68zut/20240404_185750.jpg?rlkey=izejybrty430c3vclvcu62yf2&dl=0) for the chemistry students (K-sektionen) at the Faculty of Engineering, Lund University, for my contributions in the basic courses in calculus and linear algebra.
 
 **April 2014:** _SURF Scholarship at California Institute of Technology_. Awarded a SURF scholarship from Caltech to work with Assoc. Prof. Brendan Ames and Prof. Joel Tropp during the summer of 2014.
 
