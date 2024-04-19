@@ -41,9 +41,11 @@ This page contains information about projects, publications and other things tha
 
 **January 2022:** [AI and climate change (RISE Learning Machines)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
 
-## Other past and ongoing projects
+## Past and ongoing projects
 
 <!--**Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.-->
+
+**Spring 2024 - Spring 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_ together with PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (among others). Funded by the Swedish Energy Agency.
 
 **2023:** [ML for cloud optical thickness estimation](https://www.mdpi.com/2072-4292/16/4/694) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). The work was published in the journal _Remote Sensing_ (2024), got accepted as an oral at the [2nd ML-for-RS Workshop at ICLR 2024](https://ml-for-rs.github.io/iclr2024/), and was presented as a poster at [EUMETSAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students. [Code & data available!](https://github.com/aleksispi/ml-cloud-opt-thick)
 
