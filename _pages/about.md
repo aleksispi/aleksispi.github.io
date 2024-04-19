@@ -74,11 +74,13 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **April 2021:** [Policy-based RL and applications within computer vision (RISE Learning Machines)](https://youtu.be/bF_TXCyM0pU)
 
-## Other past and ongoing projects
+## Past and ongoing projects
 
 <!--**Fall 2023 (ongoing):** -->
 
 <!--**Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.-->
+
+**Spring 2024 - Spring 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_ together with PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (among others). Funded by the Swedish Energy Agency.
 
 **Fall 2023 - Summer 2024 (ongoing):** [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/) together with PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (among others). Funded by Vinnova.
 
