@@ -21,7 +21,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 [_Flexible SE(2) graph neural networks with applications to PDE surrogates_ (arXiv 2024)](https://arxiv.org/abs/2405.20287) -- [Code & visualizations](https://github.com/mariabankestad/SE2-GNN)
 
-[_Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning_ (2024)](https://arxiv.org/abs/2403.04385) -- Accepted for the [2nd ML-for-RS Workshop at ICLR 2024](https://ml-for-rs.github.io/iclr2024/)
+[_Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning_ (2nd ML-for-RS Workshop at ICLR 2024)](https://arxiv.org/abs/2403.04385)
 
 <!--_High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth_ (2024) -- Position paper accepted for the [10th International Degrowth Conference](https://esee-degrowth2024.uvigo.gal/en/)-->
 [_NBS Initiative Position Paper: Embracing Nature-Based Solutions for Sustainable Development_ (2024)](https://bed.ectp.org/fileadmin/user_upload/documents/BED/ECTP_BED_Committee_NBS_Initiative_Position_paper.pdf) -- Presented at the [ECTP conference 2024](https://www.ectp.org/ectp-conferences/ectp-conference-2024) 
