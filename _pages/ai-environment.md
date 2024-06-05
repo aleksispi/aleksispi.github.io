@@ -12,6 +12,8 @@ redirect_from:
 This page contains information about projects, publications and other things that relate specifically to my research on ML systems for various environmental applications (both regarding mitigation of further environmental harm, as well as adaptation with respect to existing or locked in harm). It is thus in a sense a subset of my full professional bio which can be found on the [main page](https://aleksispi.github.io).
 
 ## Publications and preprints
+[_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (arXiv 2024)](https://arxiv.org/abs/2406.01917v1) -- [Code (available very soon)](https://github.com/mvrl/GOMAA-Geo)
+
 [_Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning_ (2nd ML-for-RS Workshop at ICLR 2024)](https://arxiv.org/abs/2403.04385)
 
 <!--_High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth_ (2024) -- Position paper accepted for the [10th International Degrowth Conference](https://esee-degrowth2024.uvigo.gal/en/)-->
