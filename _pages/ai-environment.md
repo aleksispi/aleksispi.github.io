@@ -29,6 +29,8 @@ This page contains information about projects, publications and other things tha
 
 ## Media and public communication
 
+**August 2024 (upcoming):** Participation in panel discussion, titled _Science communication and AI – threats, challenges and opportunities_, at the [_World Water Week_](https://www.worldwaterweek.org/) in Stockholm.
+
 **January 2024:** Commentary on AI for tackling climate change ([Naturvetarna](https://www.naturvetarna.se/), in Swedish).
 
 **December 2023:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_. Similar presentation also for [Digitaliseringskonsulterna](https://digitaliseringskonsulterna.se/).
