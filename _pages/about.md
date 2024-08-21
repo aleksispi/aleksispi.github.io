@@ -60,6 +60,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **August 2024 (upcoming):** Participation in panel discussion, titled _Science communication and AI – threats, challenges and opportunities_, at the [_World Water Week_](https://www.worldwaterweek.org/) in Stockholm.
 
+**August 2024:** Invited presentation for [Sally Dobberman](https://sally.doberman.co/) on the topic _AI considerations under post-growth scenarios_.
+
 **January 2024:** Commentary on AI for tackling climate change ([Naturvetarna](https://www.naturvetarna.se/), in Swedish).
 
 **December 2023:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_. Similar presentation also for [Digitaliseringskonsulterna](https://digitaliseringskonsulterna.se/).
