@@ -59,9 +59,9 @@ This page contains information about projects, publications and other things tha
 
 ## Past and ongoing supervision
 
-**Spring 2024:** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis: _The Power of Privilege: Enhancing Land Cover Classification with Privileged Information_.
+**Spring 2024:** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis: [_The Power of Privilege: Enhancing Land Cover Classification with Privileged Information_](https://drive.google.com/file/d/1otw6jk_ajaa8kPTnGqJmCxS500INqOw6/view?usp=sharing).
 
-**Spring 2024:** Co-main supervisor (jointly with [Dr. Olof Mogren](https://mogren.one/)) of the master thesis students Emma Amnemyr and Daniel Björklund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: _Active Learning Techniques for Annotation Efficiency in Detecting Coffee Berry Disease_.
+**Spring 2024:** Co-main supervisor (jointly with [Dr. Olof Mogren](https://mogren.one/)) of the master thesis students Emma Amnemyr and Daniel Björklund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: [_Active Learning Techniques for Annotation Efficiency in Detecting Coffee Berry Disease_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9164704&fileOId=9164725).
 
 <!--**Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.-->
 
