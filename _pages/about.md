@@ -121,4 +121,4 @@ Below is a description of **past and ongoing doctoral student supervision.** Ple
 **April 2014:** _SURF Scholarship at California Institute of Technology_. Awarded a SURF scholarship from Caltech to work with Assoc. Prof. Brendan Ames and Prof. Joel Tropp during the summer of 2014.
 
 ## Review work
-I regularly review top-tier ML/CV conference and journal papers (CVPR 2017 - 2019; ICCV 2019; ECCV 2018; NeurIPS 2017, 2024; AAAI 2018, 2021; BMVC 2022; CoRL 2022 - 2024; IJCV 2019 - 2021). I've also served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (2x 2024), and the _International Degrowth Conference_ (2024).
+I regularly review top-tier ML/CV conference and journal papers (CVPR 2017 - 2019; ICCV 2019; ECCV 2018; NeurIPS 2017, 2024; ICLR 2025; AAAI 2018, 2021; BMVC 2022; CoRL 2022 - 2024; IJCV 2019 - 2021). I've also served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (2x 2024), and the _International Degrowth Conference_ (2024).
