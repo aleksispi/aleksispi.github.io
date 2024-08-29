@@ -29,7 +29,7 @@ This page contains information about projects, publications and other things tha
 
 ## Media and public communication
 
-**August 2024 (upcoming):** Participation in panel discussion, titled _Science communication and AI – threats, challenges and opportunities_, at the [_World Water Week_](https://www.worldwaterweek.org/) in Stockholm.
+**August 2024:** Participatied in a panel discussion titled _Science communication and AI – threats, challenges and opportunities_, at the [_World Water Week_](https://www.worldwaterweek.org/) in Stockholm.
 
 **August 2024:** Invited presentation for [Sally Dobberman](https://sally.doberman.co/) on the topic _AI considerations under post-growth scenarios_.
 
