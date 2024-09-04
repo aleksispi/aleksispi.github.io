@@ -9,7 +9,7 @@ author_profile: true
 
 This page contains information about my past and ongoing master thesis supervision. My full professional bio can be found on the [main page](https://aleksispi.github.io).
 
-**Spring 2024:** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis: [_The Power of Privilege: Enhancing Land Cover Classification with Privileged Information_](https://drive.google.com/file/d/1otw6jk_ajaa8kPTnGqJmCxS500INqOw6/view?usp=sharing).
+**Spring 2024:** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis: [_The Power of Privilege: Enhancing Land Cover Classification with Privileged Information_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9166511&fileOId=9166513).
 
 **Spring 2024:** Co-main supervisor (jointly with [Dr. Olof Mogren](https://mogren.one/)) of the master thesis students Emma Amnemyr and Daniel Björklund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: [_Active Learning Techniques for Annotation Efficiency in Detecting Coffee Berry Disease_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9164704&fileOId=9164725).
 
