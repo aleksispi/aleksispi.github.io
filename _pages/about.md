@@ -92,7 +92,9 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 <!--**Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.-->
 
-**Spring 2024 - Spring 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_ together with PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (among others). Funded by the Swedish Energy Agency.
+**Aug 2024 - Aug 2027 (ongoing):** [_AI-TOMO: Accelerated materials characterisation by AI and X-ray tomography_](https://www.vinnova.se/en/p/ai-tomo-accelerated-materials-characterisation-by-ai-and-x-ray-tomography/). Funded by Vinnova.
+
+**May 2024 - May 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_ together with PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (among others). Funded by the Swedish Energy Agency.
 
 **2024 (ongoing):** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/). Funded by the Swedish National Space Agency.
 
