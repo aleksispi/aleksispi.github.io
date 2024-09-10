@@ -58,6 +58,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 ## Media and public communication
 
+**November 2024 (upcoming):** Will participate in a panel discussion titled _Is technology our only salvation from climate collapse?_ at [Internetdagarna 2024](https://internetdagarna.se/).
+
 **October 2024 (upcoming):** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_.
 
 **August 2024:** Participated in a panel discussion titled _Science communication and AI – threats, challenges and opportunities_, at the [_World Water Week_](https://www.worldwaterweek.org/) in Stockholm.
