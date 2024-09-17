@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "High-tech for low-tech"
-permalink: /resilience-threats/
+permalink: /ht4lt/
 author_profile: true
 ---
 
