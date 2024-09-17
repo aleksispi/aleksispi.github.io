@@ -80,3 +80,5 @@ geo-localization_](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-Q
 
 ## Review work
  I have served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (2x 2024), and the _International Degrowth Conference_ (2024).
+
+**Grant proposals.** In addition to reviewing papers, I've also reviewed grant proposals for [_Climate Change AI_](https://www.climatechange.ai/calls/innovation_grants_2024) (2024).
