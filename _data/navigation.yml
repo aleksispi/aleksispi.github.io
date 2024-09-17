@@ -4,5 +4,7 @@ main:
     url: /ai-environment/ 
   - title: "Personal page"
     url: /personal/ 
+  - title: "Notes"
+    url: /notes/ 
   - title: "Resilience"
     url: /resilience/
