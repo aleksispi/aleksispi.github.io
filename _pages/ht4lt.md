@@ -12,14 +12,7 @@ Below is an abstract that myself, [Helene Degerman](https://www.ri.se/sv/person/
 
 **High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth**
 
-The 2020s are shaping up to become a decade of two major and simultaneous forms of acceleration, one of which is likely to severely hamper the other.
-On the one hand we have technological acceleration, driven to a large extent by massive innovation and investments within artificial intelligence (AI), coupled with a
-largely unquestioned belief in the continuation of a growth-based socio-economical global system. On the other hand, more than half a century after the warnings put
-forward in [_The Limits to Growth_](https://www.clubofrome.org/publication/the-limits-to-growth/), we are experiencing an ecological acceleration towards a future with a
-significantly lower carrying capacity for humans and other species. This, in turn, will result in a post-growth global system, be it through societal collapse(s) or more
-gradual decline(s), which in the best case involves globally orchestrated political efforts. Thus, while the dominant socio-cultural expectation is one where ecological
-breakdown to an increasing extent will be tackled by energy- and material-intensive high-tech, our biophysical reality suggests a future with less high-tech and instead
-more low-tech solutions, which are more resilient and long-lasting.
+The 2020s are shaping up to become a decade of two major and simultaneous forms of acceleration, [one of which](https://www.postcarbon.org/publications/welcome-to-the-great-unraveling/) is likely to severely hamper the other. On the one hand we have technological acceleration, driven to a large extent by massive innovation and investments within artificial intelligence (AI), coupled with a largely unquestioned belief in the continuation of a growth-based socio-economical global system. On the other hand, more than half a century after the warnings put forward in [_The Limits to Growth_](https://www.clubofrome.org/publication/the-limits-to-growth/), we are experiencing an ecological acceleration towards a future with a significantly lower carrying capacity for humans and other species. This, in turn, will result in a post-growth global system, be it through societal collapse(s) or more gradual decline(s), which in the best case involves globally orchestrated political efforts. Thus, while the dominant socio-cultural expectation is one where ecological breakdown to an increasing extent will be tackled by energy- and material-intensive high-tech, our biophysical reality suggests a future with less high-tech and instead more low-tech solutions, which are more resilient and long-lasting.
 
 The above begs the question: What are some useful practices regarding high-tech (here with a focus on AI) when it is still available for many, and when assuming a future
 of drastically reduced availability of said high-tech? Among many possible directions, we call for a _high-tech for low-tech_ research agenda, by which
