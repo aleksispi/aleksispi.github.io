@@ -22,7 +22,7 @@ breakdown to an increasing extent will be tackled by energy- and material-intens
 more low-tech solutions, which are more resilient and long-lasting.
 
 The above begs the question: What are some useful practices regarding high-tech (here with a focus on AI) when it is still available for many, and when assuming a future
-of drastically reduced availability of said high-tech? Among many possible directions, we call in this paper for a _high-tech for low-tech_ research agenda, by which
+of drastically reduced availability of said high-tech? Among many possible directions, we call for a _high-tech for low-tech_ research agenda, by which
 we mean the development of AI methods for improving the use and deployment of low(er)-tech systems and solutions. By low-tech we refer broadly to technologies that require
 relatively less energy, materials, human specialization and/or complex infrastructure to maintain. An illuminating example of high-tech for low-tech is the use of AI for
 optimizing the deployment of nature-based solutions, such as green infrastructure in cities, where AI can be used to optimally balance various criteria and assist in decision
