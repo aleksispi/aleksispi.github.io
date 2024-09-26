@@ -16,7 +16,7 @@ The 2020s are shaping up to become a decade of two major and simultaneous forms 
 
 The above begs the question: What are some useful practices regarding high-tech (here with a focus on AI) when it is still available for many, and when assuming a future
 of drastically reduced availability of said high-tech? Among many possible directions, we call for a _high-tech for low-tech_ research agenda, by which
-we mean the development of AI methods for improving the use and deployment of low(er)-tech systems and solutions. By low-tech we refer broadly to technologies that require
+we mean the development of AI methods for improving the use and deployment of low(er)-tech systems and solutions. By [low-tech](https://solar.lowtechmagazine.com/) we refer broadly to technologies that require
 relatively less energy, materials, human specialization and/or complex infrastructure to maintain. An illuminating example of high-tech for low-tech is the use of AI for
 optimizing the deployment of nature-based solutions, such as green infrastructure in cities, where AI can be used to optimally balance various criteria and assist in decision
 making processes. Hence, when still in an era of readily available high-tech systems (for many parts of the world), we argue that these should be used to make the most effective
