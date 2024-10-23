@@ -33,7 +33,7 @@ This page contains information about projects, publications and other things tha
 
 **November 2024 (upcoming):** Will participate in a panel discussion titled _Is technology our only salvation from climate collapse?_ at [Internetdagarna 2024](https://internetdagarna.se/).
 
-**October 2024 (upcoming):** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_.
+**October 2024:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_.
 
 **August 2024:** Participated in a panel discussion titled [_Science communication and AI – threats, challenges and opportunities_](https://youtu.be/uRVoaiXaeH0?si=Wh9AHkf39RbXKXR_&t=51), at the [_World Water Week_](https://www.worldwaterweek.org/) in Stockholm.
 
@@ -55,7 +55,7 @@ This page contains information about projects, publications and other things tha
 
 ## Past and ongoing projects
 
-<!--**Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.-->
+**Dec 2024 - Dec 2026 (starting soon):** _Grey to green: Using AI to detect and prioritize conversion of impervious surfaces to multifunctional nature-based solutions_ (advisor). Funded by FORMAS.
 
 **May 2024 - May 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_ together with PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (among others). Funded by the Swedish Energy Agency.
 
