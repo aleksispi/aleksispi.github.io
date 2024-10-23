@@ -62,7 +62,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **November 2024 (upcoming):** Will participate in a panel discussion titled _Is technology our only salvation from climate collapse?_ at [Internetdagarna 2024](https://internetdagarna.se/).
 
-**October 2024 (upcoming):** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_.
+**October 2024:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_.
 
 **October 2024:** Invited presentation for [IQ Samhällsbyggnad](https://www.iqs.se/in-english/) about AI and its many applications within the built environment sector.
 
