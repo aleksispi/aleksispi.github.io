@@ -92,9 +92,9 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 ## Past and ongoing projects
 
-<!--**Fall 2023 (ongoing):** -->
+**Jan 2025 - Jan 2027 (starting soon):** _PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_ (work package leader). Funded by FORMAS.
 
-<!--**Fall 2023 (ongoing):** Involved in two AI-for-environment [EUHubs4Data](https://euhubs4data.eu/) projects, one related to point cloud classification of trees in urban areas, and one related to land-use classification.-->
+**Dec 2024 - Dec 2026 (starting soon):** _Grey to green: Using AI to detect and prioritize conversion of impervious surfaces to multifunctional nature-based solutions_ (advisor). Funded by FORMAS.
 
 **Aug 2024 - Aug 2027 (ongoing):** [_AI-TOMO: Accelerated materials characterisation by AI and X-ray tomography_](https://www.vinnova.se/en/p/ai-tomo-accelerated-materials-characterisation-by-ai-and-x-ray-tomography/). Funded by Vinnova.
 
