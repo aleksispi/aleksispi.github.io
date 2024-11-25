@@ -60,7 +60,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 ## Media and public communication
 
-**November 2024 (upcoming):** Will give a presentation and participate in a panel discussion on the theme [_Is technology our only salvation from climate collapse?_](https://internetdagarna.se/program-2024/ar-tekniken-var-enda-raddning-fran-en-klimatkollaps/) at [Internetdagarna 2024](https://internetdagarna.se/).
+**November 2024:** Gave a presentation and participated in a panel discussion on the theme [_Is technology our only salvation from climate collapse?_](https://internetdagarna.se/program-2024/ar-tekniken-var-enda-raddning-fran-en-klimatkollaps/) at [Internetdagarna 2024](https://internetdagarna.se/).
 
 **October 2024:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_.
 
