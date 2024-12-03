@@ -14,7 +14,7 @@ This page contains information about projects, publications and other things tha
 ## Publications and preprints
 <!--[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (arXiv)](TODO) -- [Code](TODO)-->
 
-[_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**, to appear)](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo)
+[_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**)](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo)
 
 [_Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning_ (**2nd ML-for-RS Workshop at ICLR 2024**)](https://arxiv.org/abs/2403.04385)
 
