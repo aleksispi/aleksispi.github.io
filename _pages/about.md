@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**TLDR: Senior ML researcher [RISE](https://www.ri.se/en) | Co-founder of [Climate Change AI Nordics](https://ccainordics.com/) | Core team member of [GEO](https://earthobservations.org/) AI4EO working group | Affiliated with [CLIMES](https://www.climes.se/)**
+**TLDR: Senior ML researcher at [RISE](https://www.ri.se/en) | Co-founder of [Climate Change AI Nordics](https://ccainordics.com/) | Core team member of [GEO](https://earthobservations.org/) AI4EO working group | Affiliated with [CLIMES](https://www.climes.se/)**
 
 I'm a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen) within the [_deep learning research group_](https://dl-group.se/), where my main research interest is to develop [ML methods for a broad range of environmental applications](https://aleksispi.github.io/ai-environment/) (e.g. climate adaptation and humanitarian aid causes). I co-host [RISE Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars/learning-machines-seminars-upcoming-seminars), where [Olof Mogren](https://mogren.one) is the main host. I'm also affiliated with the [Swedish Centre for Impacts of Climate Extremes (climes)](https://www.climes.se/), am a co-founder of the research network [_Climate Change AI Nordics_](https://ccain.cc/), and am a core team member of the [GEO](https://earthobservations.org/) AI4EO working group.
 
