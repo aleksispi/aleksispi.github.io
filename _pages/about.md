@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**TLDR: Senior ML researcher at [RISE](https://www.ri.se/en) -- Co-founder of [Climate Change AI Nordics](https://ccainordics.com/) -- Core team member of the [GEO](https://earthobservations.org/) AI4EO working group -- Affiliated with [CLIMES](https://www.climes.se/)**
+**Short version:** _Senior ML researcher at [RISE](https://www.ri.se/en) -- Co-founder of [Climate Change AI Nordics](https://ccainordics.com/) -- Core team member of the [GEO](https://earthobservations.org/) AI4EO working group -- Affiliated with [CLIMES](https://www.climes.se/)_
 
 I'm a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen) within the [_deep learning research group_](https://dl-group.se/), where my main research interest is to develop [ML methods for a broad range of environmental applications](https://aleksispi.github.io/ai-environment/) (e.g. climate adaptation and humanitarian aid causes). I co-host [RISE Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars/learning-machines-seminars-upcoming-seminars), where [Olof Mogren](https://mogren.one) is the main host. I'm also affiliated with the [Swedish Centre for Impacts of Climate Extremes (climes)](https://www.climes.se/), am a co-founder of the research network [_Climate Change AI Nordics_](https://ccain.cc/), and am a core team member of the [GEO](https://earthobservations.org/) AI4EO working group.
 
@@ -61,6 +61,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 [_Stray Light Compensation in Optical Systems_ (master thesis 2015)](https://lup.lub.lu.se/student-papers/search/publication/5463896)
 
 ## Media and public communication
+
+**December 2024:** Half-day introduction to AI for a group of industry and academic actors in the [Soft Microscopy network](https://softmicroscopy.se/).
 
 **November 2024:** Gave a presentation and participated in a panel discussion on the theme [_Is technology our only salvation from climate collapse?_](https://internetdagarna.se/program-2024/ar-tekniken-var-enda-raddning-fran-en-klimatkollaps/) at [Internetdagarna 2024](https://internetdagarna.se/).
 
@@ -136,6 +138,6 @@ Below is a description of **past and ongoing doctoral student supervision.** Ple
 
 **Machine learning & computer vision.** I regularly review top-tier ML/CV conference and journal papers (NeurIPS 2017, 2024; ICLR 2025; CVPR 2017 - 2019; ICCV 2019; ECCV 2018; AAAI 2018, 2021; BMVC 2022; CoRL 2022 - 2024; IJCV 2019 - 2021).
 
-**Remote sensing, environment & AI.** I've also served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (2x 2024), and the _International Degrowth Conference_ (2024).
+**Remote sensing, environment & AI.** I've also served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (3x 2024), and the _International Degrowth Conference_ (2024).
 
 **Grant proposals.** In addition to reviewing papers, I've also reviewed grant proposals for [_Climate Change AI_](https://www.climatechange.ai/calls/innovation_grants_2024) (2024).
