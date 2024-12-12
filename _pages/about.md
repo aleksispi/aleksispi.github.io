@@ -103,9 +103,9 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **May 2024 - May 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_ together with PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (among others). Funded by the Swedish Energy Agency.
 
-**2024 (ongoing):** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/). Funded by the Swedish National Space Agency.
+**2024 - 2025 (ongoing):** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/). Funded by the Swedish National Space Agency.
 
-**2023 - 2024 (ongoing):** Involved in [Agrifood TEF](https://www.agrifoodtef.eu/) (see also [RISE:s page](https://www.ri.se/en/what-we-do/projects/test-your-innovations-in-ai-and-robotics-for-agriculture) for the project), where I'm exploring datasets and machine learning models for weed and crop detection.
+**2023 - 2025 (ongoing):** Involved in [Agrifood TEF](https://www.agrifoodtef.eu/) (see also [RISE:s page](https://www.ri.se/en/what-we-do/projects/test-your-innovations-in-ai-and-robotics-for-agriculture) for the project), where I'm exploring datasets and machine learning models for weed and crop detection.
 
 **Fall 2023 - Summer 2024:** [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/) together with PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (among others). Funded by Vinnova. Code and a preprint of our work is [available here](https://github.com/mariabankestad/SE2-GNN).
 
