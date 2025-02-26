@@ -21,7 +21,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 ## Publications and preprints
 <!--[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (arXiv)](TODO) -- [Code](TODO)-->
 
-[_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**)](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo)
+[_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) -- [arXiv](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo)
 
 [_Flexible SE(2) graph neural networks with applications to PDE surrogates_ (arXiv 2024)](https://arxiv.org/abs/2405.20287) -- [Code & visualizations](https://github.com/mariabankestad/SE2-GNN)
 
