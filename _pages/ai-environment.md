@@ -33,6 +33,10 @@ This page contains information about projects, publications and other things tha
 
 ## Media and public communication
 
+**March 2025:** Invited presentation on the topic _AI for the Environment_ to the consultancy company [_Evidente_](https://www.evidente.se/).
+
+**March 2025:** Invited presentation about [_Climate AI Nordics_](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/).
+
 **November 2024:** Gave a presentation and participated in a panel discussion on the theme [_Is technology our only salvation from climate collapse?_](https://internetdagarna.se/program-2024/ar-tekniken-var-enda-raddning-fran-en-klimatkollaps/) at [Internetdagarna 2024](https://internetdagarna.se/).
 
 **October 2024:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_.
