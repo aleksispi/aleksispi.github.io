@@ -62,6 +62,10 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 ## Media and public communication
 
+**March 2024:** Invited presentation on the topic _AI for the Environment_ to the consultancy company [_Evidente_](https://www.evidente.se/).
+
+**March 2024:** Invited presentation about [_Climate AI Nordics_](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/).
+
 **December 2024:** Half-day introduction to AI for a group of industry and academic actors in the [Soft Microscopy network](https://softmicroscopy.se/).
 
 **November 2024:** Gave a presentation and participated in a panel discussion on the theme [_Is technology our only salvation from climate collapse?_](https://internetdagarna.se/program-2024/ar-tekniken-var-enda-raddning-fran-en-klimatkollaps/) at [Internetdagarna 2024](https://internetdagarna.se/).
