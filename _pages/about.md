@@ -60,6 +60,37 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 [_Stray Light Compensation in Optical Systems_ (master thesis 2015)](https://lup.lub.lu.se/student-papers/search/publication/5463896)
 
+## Past and ongoing projects
+
+**Apr 2025 - Apr 2027:** _AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_ (main applicant & principal investigator). Funded by the Swedish National Space Agency.
+
+**Jan 2025 - Jan 2027:** [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds) (co-applicant & work package leader). Funded by FORMAS.
+
+<!--**Dec 2024 - Dec 2026 (starting soon):** _Grey to green: Using AI to detect and prioritize conversion of impervious surfaces to multifunctional nature-based solutions_ (advisor). Funded by FORMAS.-->
+**Aug 2024 - Aug 2027 (ongoing):** [_AI-TOMO: Accelerated materials characterisation by AI and X-ray tomography_](https://www.vinnova.se/en/p/ai-tomo-accelerated-materials-characterisation-by-ai-and-x-ray-tomography/) (participating researcher). Funded by Vinnova.
+
+**May 2024 - May 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_ (co-applicant & participating researcher). Funded by the Swedish Energy Agency.
+
+**2024 - 2025 (ongoing):** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/) (lead researcher). Funded by the Swedish National Space Agency.
+
+**2023 - 2025 (ongoing):** Involved in [Agrifood TEF](https://www.agrifoodtef.eu/) (see also [RISE:s page](https://www.ri.se/en/what-we-do/projects/test-your-innovations-in-ai-and-robotics-for-agriculture) for the project), where I'm exploring datasets and machine learning models for weed and crop detection.
+
+**Fall 2023 - Summer 2024:** [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/) (main applicant & principal investigator). Funded by Vinnova. Code and a preprint of our work is [available here](https://github.com/mariabankestad/SE2-GNN).
+
+**2023:** [ML for cloud optical thickness estimation](https://www.mdpi.com/2072-4292/16/4/694) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). The work was published in the journal _Remote Sensing_ (2024), got accepted as an oral at the [2nd ML-for-RS Workshop at ICLR 2024](https://ml-for-rs.github.io/iclr2024/), and was presented as a poster at [EUMETSAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students. [Code & data are available!](https://github.com/aleksispi/ml-cloud-opt-thick) Fun fact: **_ML models developed in this project [have been orbiting in space](https://www.ai.se/en/news/ai-sweden-launches-models-space)_**, via a collaboration with [Unibap](https://unibap.com/) and [D-orbit](https://www.dorbit.space/).
+<!--**2023 (ongoing):** Industry project about using [computer vision for real time measurement of slag volume in a pellets plant](https://www.ri.se/en/what-we-do/projects/real-time-measurement-of-slag-volume-in-a-pellets-plant), together with [LKAB](https://lkab.com/en/). Funded by [Vinnova](https://www.vinnova.se/en/).-->
+
+**Fall 2022:** [Pre-study about using ML for wetland monitoring in Sweden](https://miljo-utveckling.se/sa-kan-ai-teknik-hjalpa-sverige-att-bevara-vatmarker/) together with and funded by the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/). Code is available [here](https://github.com/aleksispi/ai-swetlands).
+
+**2022:** Industry project with [Sightic Analytics](https://www.sightic.com/): ML for detecting whether a human subject is under the influence of drugs. Funded by [Vinnova](https://www.vinnova.se/en/).
+
+## Past and ongoing supervision
+Below is a description of **past and ongoing doctoral student supervision.** Please see **[this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis supervision.**
+
+<!--**Spring 2024 (ongoing):** Co-supervisor of the master thesis students Oscar Marklund and Richard Lindholm, Lund University. Academic supervisor: [Prof. Maria Sandsten](https://www.maths.lu.se/english/research/staff/mariasandsten/). Other supervisors at RISE: [Dr. Olof Mogren](mogren.one) and [John Martinsson](https://johnmartinsson.github.io/). Thesis (preliminary title): _Active Learning for Bioacoustic Sound Event Detection_. The thesis is within the area of biodiversity monitoring.-->
+**May 2023 - Feb 2025:** Co-supervisor for **PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en)** (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University). Maria successfully defended her thesis in Feb 2025: [_Structured models for scientific machine learning: from graphs to kernels_](https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Structured+models+for+scientific+machine+learning%3A+from+graphs+to+kernels&language=en&pid=diva2%3A1924341&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=3615). Until summer 2023, [Erik Ylipää](https://github.com/eryl) was Maria's co-supervisor; I took over after Erik left RISE.
+<!--**Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.-->
+
 ## Media and public communication
 
 **March 2025:** Invited presentation on the topic _AI for the Environment_ to the consultancy company [_Evidente_](https://www.evidente.se/).
@@ -99,37 +130,6 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 **January 2022:** [AI and climate change (RISE Learning Machines)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
 
 **April 2021:** [Policy-based RL and applications within computer vision (RISE Learning Machines)](https://youtu.be/bF_TXCyM0pU)
-
-## Past and ongoing projects
-
-**Apr 2025 - Apr 2027:** _AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_ (main applicant & principal investigator). Funded by the Swedish National Space Agency.
-
-**Jan 2025 - Jan 2027:** [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds) (co-applicant & work package leader). Funded by FORMAS.
-
-<!--**Dec 2024 - Dec 2026 (starting soon):** _Grey to green: Using AI to detect and prioritize conversion of impervious surfaces to multifunctional nature-based solutions_ (advisor). Funded by FORMAS.-->
-**Aug 2024 - Aug 2027 (ongoing):** [_AI-TOMO: Accelerated materials characterisation by AI and X-ray tomography_](https://www.vinnova.se/en/p/ai-tomo-accelerated-materials-characterisation-by-ai-and-x-ray-tomography/) (participating researcher). Funded by Vinnova.
-
-**May 2024 - May 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_ (co-applicant & participating researcher). Funded by the Swedish Energy Agency.
-
-**2024 - 2025 (ongoing):** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/) (lead researcher). Funded by the Swedish National Space Agency.
-
-**2023 - 2025 (ongoing):** Involved in [Agrifood TEF](https://www.agrifoodtef.eu/) (see also [RISE:s page](https://www.ri.se/en/what-we-do/projects/test-your-innovations-in-ai-and-robotics-for-agriculture) for the project), where I'm exploring datasets and machine learning models for weed and crop detection.
-
-**Fall 2023 - Summer 2024:** [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/) (main applicant & principal investigator) together with PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (among others). Funded by Vinnova. Code and a preprint of our work is [available here](https://github.com/mariabankestad/SE2-GNN).
-
-**2023:** [ML for cloud optical thickness estimation](https://www.mdpi.com/2072-4292/16/4/694) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). The work was published in the journal _Remote Sensing_ (2024), got accepted as an oral at the [2nd ML-for-RS Workshop at ICLR 2024](https://ml-for-rs.github.io/iclr2024/), and was presented as a poster at [EUMETSAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students. [Code & data are available!](https://github.com/aleksispi/ml-cloud-opt-thick) Fun fact: **_ML models developed in this project [have been orbiting in space](https://www.ai.se/en/news/ai-sweden-launches-models-space)_**, via a collaboration with [Unibap](https://unibap.com/) and [D-orbit](https://www.dorbit.space/).
-<!--**2023 (ongoing):** Industry project about using [computer vision for real time measurement of slag volume in a pellets plant](https://www.ri.se/en/what-we-do/projects/real-time-measurement-of-slag-volume-in-a-pellets-plant), together with [LKAB](https://lkab.com/en/). Funded by [Vinnova](https://www.vinnova.se/en/).-->
-
-**Fall 2022:** [Pre-study about using ML for wetland monitoring in Sweden](https://miljo-utveckling.se/sa-kan-ai-teknik-hjalpa-sverige-att-bevara-vatmarker/) together with and funded by the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/). Code is available [here](https://github.com/aleksispi/ai-swetlands).
-
-**2022:** Industry project with [Sightic Analytics](https://www.sightic.com/): ML for detecting whether a human subject is under the influence of drugs. Funded by [Vinnova](https://www.vinnova.se/en/).
-
-## Past and ongoing supervision
-Below is a description of **past and ongoing doctoral student supervision.** Please see **[this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis supervision.**
-
-<!--**Spring 2024 (ongoing):** Co-supervisor of the master thesis students Oscar Marklund and Richard Lindholm, Lund University. Academic supervisor: [Prof. Maria Sandsten](https://www.maths.lu.se/english/research/staff/mariasandsten/). Other supervisors at RISE: [Dr. Olof Mogren](mogren.one) and [John Martinsson](https://johnmartinsson.github.io/). Thesis (preliminary title): _Active Learning for Bioacoustic Sound Event Detection_. The thesis is within the area of biodiversity monitoring.-->
-**May 2023 - Feb 2025:** Co-supervisor for **PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en)** (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University). Maria successfully defended her thesis in Feb 2025: [_Structured models for scientific machine learning: from graphs to kernels_](https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Structured+models+for+scientific+machine+learning%3A+from+graphs+to+kernels&language=en&pid=diva2%3A1924341&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=3615). Until summer 2023, [Erik Ylipää](https://github.com/eryl) was Maria's co-supervisor; I took over after Erik left RISE.
-<!--**Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.-->
 
 ## Honors and awards
 
