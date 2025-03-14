@@ -31,6 +31,34 @@ This page contains information about projects, publications and other things tha
 
 [_Few-shot Bioacoustic Event Detection using a Prototypical Network Ensemble with Adaptive Embedding Functions_ (**DCASE Workshop 2022**)](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Martinsson_13.pdf) -- [Code](https://github.com/johnmartinsson/few-shot-learning-bioacoustics) -- [Popular summary](https://www.ri.se/en/few-shot-bioacoustic-event-detection-using-a-prototypical-network-ensemble-with-adaptive-embedding)
 
+## Selection of past and ongoing projects
+
+**Apr 2025 - Apr 2027:** _AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_ (main applicant & principal investigator). Funded by the Swedish National Space Agency.
+
+<!--**Dec 2024 - Dec 2026 (starting soon):** _Grey to green: Using AI to detect and prioritize conversion of impervious surfaces to multifunctional nature-based solutions_ (advisor). Funded by FORMAS.-->
+**May 2024 - May 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_. Funded by the Swedish Energy Agency.
+
+**2023:** [ML for cloud optical thickness estimation](https://www.mdpi.com/2072-4292/16/4/694) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). The work was published in the journal _Remote Sensing_ (2024), got accepted as an oral at the [2nd ML-for-RS Workshop at ICLR 2024](https://ml-for-rs.github.io/iclr2024/), and was presented as a poster at [EUMETSAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students. [Code & data are available!](https://github.com/aleksispi/ml-cloud-opt-thick) Fun fact: **_ML models developed in this project [have been orbiting in space](https://www.ai.se/en/news/ai-sweden-launches-models-space)_**, via a collaboration with [Unibap](https://unibap.com/) and [D-orbit](https://www.dorbit.space/).
+
+**Fall 2022:** [Pre-study about using ML for wetland monitoring in Sweden](https://miljo-utveckling.se/sa-kan-ai-teknik-hjalpa-sverige-att-bevara-vatmarker/) together with and funded by the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/). Code is available [here](https://github.com/aleksispi/ai-swetlands).
+
+## Past and ongoing supervision
+
+**Spring 2024:** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis: [_The Power of Privilege: Enhancing Land Cover Classification with Privileged Information_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9166511&fileOId=9166513).
+
+**Spring 2024:** Co-main supervisor (jointly with [Dr. Olof Mogren](https://mogren.one/)) of the master thesis students Emma Amnemyr and Daniel Björklund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: [_Active Learning Techniques for Annotation Efficiency in Detecting Coffee Berry Disease_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9164704&fileOId=9164725).
+
+<!--**Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.-->
+
+**Summer-Fall 2023:** Co-main supervisor (jointly with [Dr. Olof Mogren](https://mogren.one/)) of the master thesis students Axel Eiman and [Nils Eickhoff](https://nilseickhoff.com/), Chalmers University of Technology. Thesis: [_Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease_](https://drive.google.com/file/d/1KHbFBNb-sbOtXQdq2O7nk3l4NOOsPF49/view?usp=sharing). The thesis topic is within the area of climate adaptation and was conducted with collaborators in Tanzania ([Mpendakazi Agribusiness](https://www.mpendakazi.co.tz/)), who provided data and use-cases. A popular summary can be found [here](https://www.ri.se/en/what-we-do/projects/how-machine-learning-can-help-coffee-farmers-fight-disease).
+
+**Spring 2023:** Main supervisor of the master thesis student Ennio Rampello, KTH Royal Institute of Technology. Academic supervisors: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) and [Dr. Puzhao Zhang](https://www.kth.se/profile/puzhao). Thesis: [_High-altitude navigation to improve the performance of AiRLoc: An RL model for drone navigation_](https://drive.google.com/file/d/1wg4znYHNi6AtMfpbGtPquu6ZcZEdMQjy/view?usp=sharing). The thesis is related to the area of UAV-based disaster response and management.
+
+**Spring 2023:** Main supervisor of the master thesis student [Vishal Nedungadi](https://vishalned.github.io/), KTH Royal Institute of Technology. Academic supervisors: [Prof. Yifang Ban](https://www.kth.se/profile/yifang)  and [Ritu Yadav (PhD candidate)](https://www.kth.se/profile/rituy). Thesis: [_Active street to aerial view
+geo-localization_](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-QNTbi/view?usp=sharing). The thesis is related to the area of UAV-based disaster response and management.
+
+**Spring 2022:** Main supervisor of the master thesis students Anton Samuelsson and John Backsund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: [_Aerial View Goal Localization with Reinforcement Learning_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9088977&fileOId=9089013). The thesis was subsequently condensed and accepted to a remote sensing workshop at ICLR 2023 (see _Publications and preprints_ above). The thesis is related to the area of UAV-based disaster response and management.
+
 ## Media and public communication
 
 **March 2025:** Invited presentation on the topic _AI for the Environment_ to the consultancy company [_Evidente_](https://www.evidente.se/).
@@ -60,32 +88,6 @@ This page contains information about projects, publications and other things tha
 **May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_.
 
 **January 2022:** [AI and climate change (RISE Learning Machines)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
-
-## Past and ongoing projects
-
-<!--**Dec 2024 - Dec 2026 (starting soon):** _Grey to green: Using AI to detect and prioritize conversion of impervious surfaces to multifunctional nature-based solutions_ (advisor). Funded by FORMAS.-->
-**May 2024 - May 2026 (ongoing):** _AI-based Power Production Models for Increased Wind Farm Efficiency_. Funded by the Swedish Energy Agency.
-
-**2023:** [ML for cloud optical thickness estimation](https://www.mdpi.com/2072-4292/16/4/694) together with the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en/about-smhi/who-we-are/who-we-are-1.83748), [AI Sweden](https://www.ai.se/en), [Luleå University of Technology](https://www.ltu.se/?l=en) and the [Swedish Forestry Agency](https://www.skogsstyrelsen.se/). The work was published in the journal _Remote Sensing_ (2024), got accepted as an oral at the [2nd ML-for-RS Workshop at ICLR 2024](https://ml-for-rs.github.io/iclr2024/), and was presented as a poster at [EUMETSAT 2023](https://www.eumetsat.int/eumetsat-meteorological-satellite-conference-2023). Funded by [Vinnova](https://www.vinnova.se/en/p/swedish-space-data-lab-2.0/). One of the project deliverables was [a developer event (Hackathon)](https://www.ai.se/en/events/walking-thin-clouds-challenge) for university students. [Code & data are available!](https://github.com/aleksispi/ml-cloud-opt-thick) Fun fact: **_ML models developed in this project [have been orbiting in space](https://www.ai.se/en/news/ai-sweden-launches-models-space)_**, via a collaboration with [Unibap](https://unibap.com/) and [D-orbit](https://www.dorbit.space/).
-
-**Fall 2022:** [Pre-study about using ML for wetland monitoring in Sweden](https://miljo-utveckling.se/sa-kan-ai-teknik-hjalpa-sverige-att-bevara-vatmarker/) together with and funded by the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/). Code is available [here](https://github.com/aleksispi/ai-swetlands).
-
-## Past and ongoing supervision
-
-**Spring 2024:** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis: [_The Power of Privilege: Enhancing Land Cover Classification with Privileged Information_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9166511&fileOId=9166513).
-
-**Spring 2024:** Co-main supervisor (jointly with [Dr. Olof Mogren](https://mogren.one/)) of the master thesis students Emma Amnemyr and Daniel Björklund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: [_Active Learning Techniques for Annotation Efficiency in Detecting Coffee Berry Disease_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9164704&fileOId=9164725).
-
-<!--**Aug-Sep 2023:** Main supervisor of the research intern [Dr. Martin Trimmel](https://scholar.google.com/citations?user=qLHPersAAAAJ&hl=en). The internship was related to compute-efficient machine learning for Earth observation.-->
-
-**Summer-Fall 2023:** Co-main supervisor (jointly with [Dr. Olof Mogren](https://mogren.one/)) of the master thesis students Axel Eiman and [Nils Eickhoff](https://nilseickhoff.com/), Chalmers University of Technology. Thesis: [_Weakly semi-supervised object detection for annotation efficiency: Leveraging a mix of strong bounding box labels and weak point labels for detecting coffee berry disease_](https://drive.google.com/file/d/1KHbFBNb-sbOtXQdq2O7nk3l4NOOsPF49/view?usp=sharing). The thesis topic is within the area of climate adaptation and was conducted with collaborators in Tanzania ([Mpendakazi Agribusiness](https://www.mpendakazi.co.tz/)), who provided data and use-cases. A popular summary can be found [here](https://www.ri.se/en/what-we-do/projects/how-machine-learning-can-help-coffee-farmers-fight-disease).
-
-**Spring 2023:** Main supervisor of the master thesis student Ennio Rampello, KTH Royal Institute of Technology. Academic supervisors: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) and [Dr. Puzhao Zhang](https://www.kth.se/profile/puzhao). Thesis: [_High-altitude navigation to improve the performance of AiRLoc: An RL model for drone navigation_](https://drive.google.com/file/d/1wg4znYHNi6AtMfpbGtPquu6ZcZEdMQjy/view?usp=sharing). The thesis is related to the area of UAV-based disaster response and management.
-
-**Spring 2023:** Main supervisor of the master thesis student [Vishal Nedungadi](https://vishalned.github.io/), KTH Royal Institute of Technology. Academic supervisors: [Prof. Yifang Ban](https://www.kth.se/profile/yifang)  and [Ritu Yadav (PhD candidate)](https://www.kth.se/profile/rituy). Thesis: [_Active street to aerial view
-geo-localization_](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-QNTbi/view?usp=sharing). The thesis is related to the area of UAV-based disaster response and management.
-
-**Spring 2022:** Main supervisor of the master thesis students Anton Samuelsson and John Backsund, Lund University. Academic supervisor: [Prof. Kalle Åström](https://www.maths.lu.se/staff/kalleastrom/). Thesis: [_Aerial View Goal Localization with Reinforcement Learning_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9088977&fileOId=9089013). The thesis was subsequently condensed and accepted to a remote sensing workshop at ICLR 2023 (see _Publications and preprints_ above). The thesis is related to the area of UAV-based disaster response and management.
 
 ## Review work
 I have served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (3x 2024), _International Degrowth Conference_ (2024), and _Tackling Climate Change with Machine Learning_ (ICLR workshop, 2025).
