@@ -64,7 +64,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Apr 2025 - Apr 2027:** _AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_ (main applicant & principal investigator). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
 
-**TODO:** _Earth Observation Data for Urban Land Use and Agri-Environmental Statistics_ (participating researcher). Funded by [Eurostat](https://ec.europa.eu/eurostat).
+**Mar 2025 - Mar 2027:** _Earth Observation Data for Urban Land Use and Agri-Environmental Statistics_ (participating researcher). Funded by [Eurostat](https://ec.europa.eu/eurostat).
 
 **Jan 2025 - Jan 2027:** [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds) (co-applicant & work package leader). Funded by [FORMAS](https://formas.se/en).
 
