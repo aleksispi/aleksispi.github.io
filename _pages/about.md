@@ -62,7 +62,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 ## Selection of past and ongoing projects
 
-**Apr 2025 - Apr 2027:** _AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_ (main applicant & principal investigator). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
+**Apr 2025 - Apr 2027:** [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/) (main applicant & principal investigator). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
 
 **Mar 2025 - Mar 2027:** _Earth Observation Data for Urban Land Use and Agri-Environmental Statistics_ (participating researcher). Funded by [Eurostat](https://ec.europa.eu/eurostat).
 
