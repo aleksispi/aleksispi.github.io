@@ -64,7 +64,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Apr 2025 - Apr 2027:** [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/) (main applicant & principal investigator). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
 
-**Mar 2025 - Mar 2027:** _Earth Observation Data for Urban Land Use and Agri-Environmental Statistics_ (participating researcher). Funded by [Eurostat](https://ec.europa.eu/eurostat).
+**Apr 2025 - Apr 2027:** _Earth Observation Data for Urban Land Use and Agri-Environmental Statistics_ (participating researcher). Funded by [Eurostat](https://ec.europa.eu/eurostat).
 
 **Jan 2025 - Jan 2027:** [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds) (co-applicant & work package leader). Funded by [FORMAS](https://formas.se/en).
 
@@ -73,7 +73,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **May 2024 - May 2026 (ongoing):** [_AI-based Power Production Models for Increased Wind Farm Efficiency_](https://www.vr.se/english/swecris.html?project%3DP2023-01341_Energi#/) (co-applicant & participating researcher). Funded by the [Swedish Energy Agency](https://www.energimyndigheten.se/en/).
 
-**2024 - 2025 (ongoing):** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/) (lead researcher). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
+**Jan 2024 - Apr 2025:** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/) (lead researcher). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
 
 **2023 - 2025 (ongoing):** Involved in [Agrifood TEF](https://www.agrifoodtef.eu/) (see also [RISE:s page](https://www.ri.se/en/what-we-do/projects/test-your-innovations-in-ai-and-robotics-for-agriculture) for the project), where I'm exploring datasets and machine learning models for weed and crop detection.
 
