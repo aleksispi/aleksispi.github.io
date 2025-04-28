@@ -62,7 +62,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 ## Selection of past and ongoing projects
 
-**Aug 2025 - Aug 2029 (upcoming):** _ML-Earth: Robust and data-efficient machine learning for Earth observation_ (principal investigator, main supervisor & main applicant). Upcoming doctoral project funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+**Aug 2025 - Aug 2029 (upcoming):** [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/en/press-release/they-receive-grants-for-ssfs-research-doctoral-student/) (principal investigator, main supervisor & main applicant). Upcoming doctoral project funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
 **Apr 2025 - Apr 2027:** [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/) (main applicant & principal investigator). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
 
