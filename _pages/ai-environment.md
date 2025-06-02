@@ -98,6 +98,6 @@ geo-localization_](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-Q
 **January 2022:** [AI and climate change (RISE Learning Machines)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
 
 ## Review work
-I have served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (3x 2024), _International Degrowth Conference_ (2024), and _Tackling Climate Change with Machine Learning_ (ICLR workshop, 2025).
+I have served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (3x 2024), _International Degrowth Conference_ (2024), _Tackling Climate Change with Machine Learning_ (ICLR workshop, 2025), [_TerraBytes_](https://terrabytes-workshop.github.io/) (ICML workshop, 2025).
 
 **Grant proposals.** In addition to reviewing papers, I've also reviewed grant proposals for [_Climate Change AI_](https://www.climatechange.ai/calls/innovation_grants_2024) (2024).
