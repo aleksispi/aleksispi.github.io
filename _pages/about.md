@@ -154,4 +154,4 @@ Below is a description of **past and ongoing doctoral student supervision.** Ple
 
 **Remote sensing, environment & AI.** I've also served as a reviewer for the _ISPRS Journal of Photogrammetry and Remote Sensing_ (2023), _Remote Sensing_ (2023), _IEEE Transactions on Geoscience and Remote Sensing_ (3x 2024), _International Degrowth Conference_ (2024), _Tackling Climate Change with Machine Learning_ (ICLR workshop, 2025).
 
-**Grant proposals.** In addition to reviewing papers, I've also reviewed grant proposals for [_Climate Change AI_](https://www.climatechange.ai/calls/innovation_grants_2024) (2024).
+**Grant proposals.** In addition to reviewing papers, I've also reviewed grant proposals and tutorials for [_Climate Change AI_](https://www.climatechange.ai/calls/innovation_grants_2024) (2024, 2025).
