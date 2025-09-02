@@ -88,7 +88,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 **2022:** Industry project with [Sightic Analytics](https://www.sightic.com/): ML for detecting whether a human subject is under the influence of drugs. Funded by [Vinnova](https://www.vinnova.se/en/).
 
 ## Past and ongoing supervision
-Below is a description of **past and ongoing doctoral student supervision.** Please see **[this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis supervision.**
+Below is a description of **past and ongoing doctoral student supervision.** Please see **[this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis and internship supervision.**
 
 **Oct 2025 - Oct 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
