@@ -33,7 +33,7 @@ This page contains information about projects, publications and other things tha
 
 ## Selection of past and ongoing projects
 
-**Sep 2025 - Sep 2029 (upcoming):** [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/en/press-release/they-receive-grants-for-ssfs-research-doctoral-student/) (principal investigator, main supervisor & main applicant). Upcoming doctoral project funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+**Oct 2025 - Oct 2029 (upcoming):** [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/en/press-release/they-receive-grants-for-ssfs-research-doctoral-student/) (principal investigator, main supervisor & main applicant). Upcoming doctoral project funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
 **Apr 2025 - Apr 2027:** [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/) (main applicant & principal investigator). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
 
@@ -50,7 +50,7 @@ This page contains information about projects, publications and other things tha
 
 ## Past and ongoing supervision
 
-**Sep 2025 - Sep 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+**Oct 2025 - Oct 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
 **Spring 2024:** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis: [_The Power of Privilege: Enhancing Land Cover Classification with Privileged Information_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9166511&fileOId=9166513).
 
