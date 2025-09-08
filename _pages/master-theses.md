@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Master thesis supervision"
+title: "Master thesis and intern supervision"
 permalink: /master-theses/
 author_profile: true
 ---
@@ -9,9 +9,9 @@ author_profile: true
 
 This page contains information about my past and ongoing master thesis supervision, and also intern supervision. My full professional bio can be found on the [main page](https://aleksispi.github.io).
 
-**Fall 2025 (3 months):** Internship main supervisor for Rojina Shakya.
+**Fall 2025 (3 months):** Internship main supervisor for Rojina Shakya within the project [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/).
 
-**Fall 2025 (2 months):** Internship co-supervisor for Lovisa Hambäck.
+**Fall 2025 (2 months):** Internship co-supervisor for Lovisa Hambäck within the project [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds).
 
 **Spring 2024:** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis: [_The Power of Privilege: Enhancing Land Cover Classification with Privileged Information_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9166511&fileOId=9166513).
 
