@@ -70,13 +70,13 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 **Jan 2025 - Jan 2027:** [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds) (co-applicant & work package leader). Funded by [FORMAS](https://formas.se/en).
 
 <!--**Dec 2024 - Dec 2026 (starting soon):** _Grey to green: Using AI to detect and prioritize conversion of impervious surfaces to multifunctional nature-based solutions_ (advisor). Funded by FORMAS.-->
-**Aug 2024 - Aug 2027 (ongoing):** [_AI-TOMO: Accelerated materials characterisation by AI and X-ray tomography_](https://www.vinnova.se/en/p/ai-tomo-accelerated-materials-characterisation-by-ai-and-x-ray-tomography/) (participating researcher). Funded by [Vinnova](https://www.vinnova.se/en/).
+<!--**Aug 2024 - Aug 2027 (ongoing):** [_AI-TOMO: Accelerated materials characterisation by AI and X-ray tomography_](https://www.vinnova.se/en/p/ai-tomo-accelerated-materials-characterisation-by-ai-and-x-ray-tomography/) (participating researcher). Funded by [Vinnova](https://www.vinnova.se/en/).-->
 
 **May 2024 - May 2026 (ongoing):** [_AI-based Power Production Models for Increased Wind Farm Efficiency_](https://www.vr.se/english/swecris.html?project%3DP2023-01341_Energi#/) (co-applicant & participating researcher). Funded by the [Swedish Energy Agency](https://www.energimyndigheten.se/en/).
 
 **Jan 2024 - Apr 2025:** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/) (lead researcher). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
 
-**2023 - 2025 (ongoing):** Involved in [Agrifood TEF](https://www.agrifoodtef.eu/) (see also [RISE:s page](https://www.ri.se/en/what-we-do/projects/test-your-innovations-in-ai-and-robotics-for-agriculture) for the project), where I'm exploring datasets and machine learning models for weed and crop detection.
+<!--**2023 - 2025 (ongoing):** Involved in [Agrifood TEF](https://www.agrifoodtef.eu/) (see also [RISE:s page](https://www.ri.se/en/what-we-do/projects/test-your-innovations-in-ai-and-robotics-for-agriculture) for the project), where I'm exploring datasets and machine learning models for weed and crop detection.-->
 
 **Fall 2023 - Summer 2024:** [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/) (main applicant & principal investigator). Funded by [Vinnova](https://www.vinnova.se/en/). Code and a preprint of our work is [available here](https://github.com/mariabankestad/SE2-GNN).
 
