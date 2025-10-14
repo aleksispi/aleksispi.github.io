@@ -69,7 +69,7 @@ geo-localization_](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-Q
 
 ## Media and public communication
 
-**October 20225 (upcoming):** Invited presentation on the topic _AI for the Environment_ at the DigiHalland 2025 event (Region Halland).
+**October 2025:** Invited presentation on the topic _AI for the Environment_ at the DigiHalland 2025 event (Region Halland).
 
 **March 2025:** Invited presentation on the topic _AI for the Environment_ to the consultancy company [_Evidente_](https://www.evidente.se/).
 
