@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Short version:** _Senior ML researcher at [RISE](https://www.ri.se/en) -- Co-founder of [Climate AI Nordics](https://climateainordics.com/) <img src="/images/cain-logo.png" alt="cain-logo" width="20px" style="vertical-align:middle;" /> -- Core team member of the [GEO](https://earthobservations.org/) AI4EO working group -- Affiliated with [CLIMES](https://www.climes.se/)_
+**Short version:** _Senior ML researcher at [RISE](https://www.ri.se/en) -- Co-founder of [Climate AI Nordics](https://climateainordics.com/) <img src="/images/cain-logo.png" alt="cain-logo" width="20px" style="vertical-align:middle;" /> -- Core team member of the [GEO](https://earthobservations.org/) AI4EO working group -- Affiliated with [CLIMES](https://www.climes.se/) -- Part of the [Computing within Limits](https://computingwithinlimits.org/2025/) community_
 
 I'm a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen) within the [_deep learning research group_](https://dl-group.se/), where my main research interest is to develop [ML methods for a broad range of environmental applications](https://aleksispi.github.io/ai-environment/) (e.g. climate adaptation and humanitarian aid causes). I'm a co-founder of the research network [_Climate AI Nordics_](https://climateainordics.com/), am affiliated with the [Swedish Centre for Impacts of Climate Extremes (climes)](https://www.climes.se/), and am a core team member of the [GEO](https://earthobservations.org/) AI4EO working group.
 
