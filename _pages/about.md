@@ -102,7 +102,7 @@ Below is a description of **past and ongoing doctoral student supervision.** Ple
 
 **October 2025:** Invited presentation on the topic _AI for the Environment_ at the DigiHalland 2025 event (Region Halland).
 
-**October 2025:** Commentary on the use of AI for sustainability in the Swedish magazine [_Hållbart Byggande_](https://www.e-magin.se/paper/25v795n8/paper/1#/paper/5p8t04hs/39)
+**October 2025:** Commentary on the use of AI for sustainability in the Swedish magazine [_Hållbart Byggande_](https://www.e-magin.se/paper/25v795n8/paper/1#/paper/5p8t04hs/39).
 
 **March 2025:** Invited presentation on the topic _AI for the Environment_ to the consultancy company [_Evidente_](https://www.evidente.se/).
 
