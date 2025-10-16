@@ -50,7 +50,7 @@ This page contains information about projects, publications and other things tha
 
 ## Past and ongoing supervision
 
-**Oct 2025 - Oct 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+**Nov 2025 - Nov 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
 **Spring 2024:** Co-main supervisor (jointly with [Martin Willbo](https://www.ri.se/sv/person/martin-willbo)) of the master thesis students Agnes Eriksson and Malte Åhman, Lund University. Academic supervisor: [Assoc. Prof. Mikael Nilsson](https://portal.research.lu.se/en/persons/mikael-nilsson-2). Thesis: [_The Power of Privilege: Enhancing Land Cover Classification with Privileged Information_](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9166511&fileOId=9166513).
 
@@ -70,6 +70,8 @@ geo-localization_](https://drive.google.com/file/d/1pfz6ApZWeQm586MAjSNQct9BRN-Q
 ## Media and public communication
 
 **October 2025:** Invited presentation on the topic _AI for the Environment_ at the DigiHalland 2025 event (Region Halland).
+
+**October 2025:** Commentary on the use of AI for sustainability in the Swedish magazine [_Hållbart Byggande_](https://www.e-magin.se/paper/25v795n8/paper/1#/paper/5p8t04hs/39).
 
 **March 2025:** Invited presentation on the topic _AI for the Environment_ to the consultancy company [_Evidente_](https://www.evidente.se/).
 
