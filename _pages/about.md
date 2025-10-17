@@ -18,10 +18,8 @@ Before joining [RISE](https://www.ri.se/en), I conducted my doctoral studies in 
 I'm an advocate for facing our difficult future (and present, for many), collectively and individually, so that we can try to reduce harm and suffering. I may write more about this under my [personal page](https://aleksispi.github.io/personal/) at some point, but for anyone interested in learning more about what is difficult about our future, I warmly recommend the podcasts [_The Great Simplification_](https://www.thegreatsimplification.com/), [_Breaking Down: Collapse_](https://collapsepod.buzzsprout.com/) (and the follow-up podcast [_Building Up: Resilience_](https://shows.acast.com/building-up-resilience)), [_Planet: Critical_](https://www.planetcritical.com/podcast), and [_Entangled World_](https://player.fm/series/entangled-world). Two other short and self-contained podcasts that I also recommend are [_Power: Limits and Prospects for Human Survival_](https://power.postcarbon.org/podcast/) and [_Tipping Point: The True Story of "The Limits to Growth"_](https://tippingpointstory.podigee.io/). I also try to summarize some reasons why in [this video](https://youtu.be/QXztQfKLiSc?si=zwTjXQ6Fw1t77f6s&t=1614).
 
 ## Publications and preprints
-<!--[_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (arXiv)](todo) -- [Code](https://github.com/aleksispi/pib-ml-grazing)-->
-
+[_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (arXiv)](https://arxiv.org/abs/2510.14493) -- [Code](https://github.com/aleksispi/pib-ml-grazing)
 <!--[_DiffWake: A General Differentiable Wind-Farm Solver in JAX_ (arXiv)](https://github.com/mariabankestad/DiffWake) -- [Code](https://github.com/mariabankestad/DiffWake)-->
-
 <!--[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (arXiv)](TODO) -- [Code](TODO)-->
 
 [_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) -- [arXiv](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo)
