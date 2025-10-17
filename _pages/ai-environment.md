@@ -14,6 +14,8 @@ This page contains information about projects, publications and other things tha
 **Co-founder of [Climate AI Nordics](https://climateainordics.com/) <img src="/images/cain-logo.png" alt="cain-logo" width="20px" style="vertical-align:middle;" /> -- Core team member of the [GEO](https://earthobservations.org/) AI4EO working group -- Affiliated with [CLIMES](https://www.climes.se/)**
 
 ## Publications and preprints
+[_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (arXiv)](https://arxiv.org/abs/2510.14493) -- [Code](https://github.com/aleksispi/pib-ml-grazing)
+<!--[_DiffWake: A General Differentiable Wind-Farm Solver in JAX_ (arXiv)](https://github.com/mariabankestad/DiffWake) -- [Code](https://github.com/mariabankestad/DiffWake)-->
 <!--[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (arXiv)](TODO) -- [Code](TODO)-->
 
 [_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) -- [arXiv](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo)
