@@ -76,7 +76,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **May 2024 - May 2026 (ongoing):** [_AI-based Power Production Models for Increased Wind Farm Efficiency_](https://www.vr.se/english/swecris.html?project%3DP2023-01341_Energi#/) (co-applicant & participating researcher). Funded by the [Swedish Energy Agency](https://www.energimyndigheten.se/en/).
 
-**Jan 2024 - Apr 2025:** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/) (lead researcher). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/).
+**Jan 2024 - Apr 2025:** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/) (lead researcher). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/). See a [preprint here](https://arxiv.org/abs/2510.14493), and [code here](https://github.com/aleksispi/pib-ml-grazing).
 
 <!--**2023 - 2025 (ongoing):** Involved in [Agrifood TEF](https://www.agrifoodtef.eu/) (see also [RISE:s page](https://www.ri.se/en/what-we-do/projects/test-your-innovations-in-ai-and-robotics-for-agriculture) for the project), where I'm exploring datasets and machine learning models for weed and crop detection.-->
 
