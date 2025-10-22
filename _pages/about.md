@@ -18,15 +18,17 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 ## News
 
-**Oct 2025:** We're organizing the [2026 Nordic Workshop on AI for Climate Change](https://climateainordics.com/news/2025-10-22-cain-2026-event-teaser/) in June 2026, the second of an annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)! See you in Copenhagen!
+<!--**Oct 2025:** We're organizing the [2026 Nordic Workshop on AI for Climate Change](https://climateainordics.com/news/2025-10-22-cain-2026-event-teaser/) in June 2026, the second of an annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)! See you in Copenhagen!-->
 
 **Oct 2025:** New [preprint](https://arxiv.org/abs/2510.14493) summarizing our work on SatML for grazing detection, jointly with the [Swedish Board of Agriculture](https://jordbruksverket.se/languages/english/swedish-board-of-agriculture)! Grazing plays a key roll for maintaining important biodiversity hotspots, e.g. semi-natural pastures -- and in this work, we scale up grazing monitoring efforts with SatML! Code and models are [available](https://github.com/aleksispi/pib-ml-grazing).
 
 **Sep 2025:** Thrilled to be in the organizing committee of the [EurIPS 2025](https://eurips.cc/) accepted workshop [_AICC: Workshop on AI for Climate and Conservation_](https://sites.google.com/g.harvard.edu/aicceurips) (Call for Participation deadline Oct 10).
 
-**April 2025:** Funding obtained for the upcoming 4-year doctoral project _ML-Earth: Robust and data-efficient machine learning for Earth observation_ from the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+**April 2025:** Funding obtained for the upcoming 4-year doctoral project _ML-Earth: Robust and data-efficient machine learning for Earth observation_ from the [Swedish Foundation for Strategic Research](https://strategiska.se/en/). I will be PI and main supervisor in this project (starting Dec 2025), and co-supervisor will be [Prof. Yifang Ban](https://www.kth.se/profile/yifang).
 
 **March 2025:** Invited presentation about [_Climate AI Nordics_](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/).
+
+**Feb 2025:** Funding obtained from the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/) for the project [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/). I will be PI in this 2-year project, which starts in April 2025.
 
 **Dec 2024:** We're organizing the [2025 Nordic Workshop on AI for Climate Change](https://climateainordics.com/events/2025-nordic-workshop) in May 2025, the first of a hopefully annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)!
 
@@ -47,7 +49,7 @@ Please refer to [this page](https://aleksispi.github.io/projects/) for a selecti
 ## Past and ongoing doctoral supervision
 Below is a description of **past and ongoing doctoral student supervision.** Please see [this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis and internship supervision.
 
-**Nov 2025 - Nov 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+**Dec 2025 - Dec 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
 <!--**Spring 2024 (ongoing):** Co-supervisor of the master thesis students Oscar Marklund and Richard Lindholm, Lund University. Academic supervisor: [Prof. Maria Sandsten](https://www.maths.lu.se/english/research/staff/mariasandsten/). Other supervisors at RISE: [Dr. Olof Mogren](mogren.one) and [John Martinsson](https://johnmartinsson.github.io/). Thesis (preliminary title): _Active Learning for Bioacoustic Sound Event Detection_. The thesis is within the area of biodiversity monitoring.-->
 **May 2023 - Feb 2025:** Co-supervisor for PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University). Maria successfully defended her thesis in Feb 2025: [_Structured models for scientific machine learning: from graphs to kernels_](https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Structured+models+for+scientific+machine+learning%3A+from+graphs+to+kernels&language=en&pid=diva2%3A1924341&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=3615).
