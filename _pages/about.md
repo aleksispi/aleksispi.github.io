@@ -26,6 +26,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **March 2025:** Invited presentation about [_Climate AI Nordics_](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/).
 
+**Dec 2024:** We're organizing the [2025 Nordic Workshop on AI for Climate Change](https://climateainordics.com/events/2025-nordic-workshop) in May 2025, the first of a hopefully annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)!
+
 **Oct 2024:** Excited and proud to have founded the new Nordic research network [_Climate AI Nordics_](https://climateainordics.com/), together with my amazing colleague [Olof Mogren](https://mogren.ml/)! Welcome to join the network!
 
 ## Publications and preprints
