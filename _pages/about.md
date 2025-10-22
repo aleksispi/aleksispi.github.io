@@ -34,6 +34,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Oct 2024:** Excited and proud to have founded the new Nordic research network [_Climate AI Nordics_](https://climateainordics.com/), together with my amazing colleague [Olof Mogren](https://mogren.ml/)! Welcome to join the network!
 
+**Sept 2024:** Paper accepted at NeurIPS 2024! [Check out our work](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) on aerial exploration across modalities, relevant e.g. for search-and-rescue operations. Code is [available](https://github.com/mvrl/GOMAA-Geo)!
+
 **Aug 2024:** As of this month, I'm affiliated also with the [Swedish Centre for Impacts of Climate Extremes (CLIMES)](https://www.climes.se/) funded by the [Swedish Research Council](https://www.vr.se/english.html).
 
 ## Publications and preprints
