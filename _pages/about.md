@@ -16,6 +16,10 @@ Before joining [RISE](https://www.ri.se/en), I conducted my doctoral studies in 
 
 I'm an advocate for facing our difficult future (and present, for many), collectively and individually, so that we can try to reduce harm and suffering. I may write more about this under my [personal page](https://aleksispi.github.io/personal/) at some point, but for anyone interested in learning more about what is difficult about our future, I warmly recommend the podcasts [_The Great Simplification_](https://www.thegreatsimplification.com/), [_Breaking Down: Collapse_](https://collapsepod.buzzsprout.com/) (and the follow-up podcast [_Building Up: Resilience_](https://shows.acast.com/building-up-resilience)), [_Planet: Critical_](https://www.planetcritical.com/podcast), and [_Entangled World_](https://player.fm/series/entangled-world). Two other short and self-contained podcasts that I also recommend are [_Power: Limits and Prospects for Human Survival_](https://power.postcarbon.org/podcast/) and [_Tipping Point: The True Story of "The Limits to Growth"_](https://tippingpointstory.podigee.io/). I also try to summarize some reasons why in [this video](https://youtu.be/QXztQfKLiSc?si=zwTjXQ6Fw1t77f6s&t=1614).
 
+## News
+
+**Oct 2025:** New [preprint](https://arxiv.org/abs/2510.14493) summarizing our work on SatML for grazing detection, jointly with the [Swedish Board of Agriculture](https://jordbruksverket.se/languages/english/swedish-board-of-agriculture)! Grazing plays a key roll for maintaining important biodiversity hotspots, e.g. semi-natural pastures -- and in this work, we scale up grazing monitoring efforts with SatML! Code and models are [available](https://github.com/aleksispi/pib-ml-grazing).
+
 ## Publications and preprints
 Please refer to [this page](https://aleksispi.github.io/publications/), and/or my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en).
 
