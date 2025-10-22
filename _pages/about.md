@@ -28,6 +28,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Dec 2024:** We're organizing the [2025 Nordic Workshop on AI for Climate Change](https://climateainordics.com/events/2025-nordic-workshop) in May 2025, the first of a hopefully annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)!
 
+**Dec 2024:** I've joined the core team of the [GEO](https://earthobservations.org/) AI4EO working group, led by [Prof. Yifang Ban](https://www.kth.se/profile/yifang).
+
 **Oct 2024:** Excited and proud to have founded the new Nordic research network [_Climate AI Nordics_](https://climateainordics.com/), together with my amazing colleague [Olof Mogren](https://mogren.ml/)! Welcome to join the network!
 
 ## Publications and preprints
