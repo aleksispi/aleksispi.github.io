@@ -32,6 +32,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Oct 2024:** Excited and proud to have founded the new Nordic research network [_Climate AI Nordics_](https://climateainordics.com/), together with my amazing colleague [Olof Mogren](https://mogren.ml/)! Welcome to join the network!
 
+**Aug 2024:** As of this month, I'm affiliated also with the [Swedish Centre for Impacts of Climate Extremes (CLIMES)](https://www.climes.se/) funded by the [Swedish Research Council](https://www.vr.se/english.html).
+
 ## Publications and preprints
 Please refer to [this page](https://aleksispi.github.io/publications/), and/or my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en).
 
