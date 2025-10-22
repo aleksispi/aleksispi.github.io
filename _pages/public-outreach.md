@@ -5,7 +5,7 @@ permalink: /outreach/
 author_profile: true
 ---
 
-**October 2025:** Invited presentation on the topic _AI for the Environment_ at the DigiHalland 2025 event (Region Halland).
+**October 2025:** Invited presentation on the topic _AI for the Environment_ at the [DigiHalland 2025 event](https://www.regionhalland.se/kultur/kulturarrangemang/kulturarrangemang/2025-09-16-digihalland-ai-hallbarhet-och-framtidens-mojligheter) (Region Halland).
 
 **October 2025:** Commentary on the use of AI for sustainability in the Swedish magazine [_Hållbart Byggande_](https://www.e-magin.se/paper/25v795n8/paper/1#/paper/5p8t04hs/39).
 
