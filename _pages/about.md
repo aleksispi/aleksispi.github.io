@@ -26,6 +26,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **March 2025:** Invited presentation about [_Climate AI Nordics_](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/).
 
+**Oct 2024:** Excited and proud to have founded the new Nordic research network [_Climate AI Nordics_](https://climateainordics.com/), together with my amazing colleague [Olof Mogren](https://mogren.ml/)! Welcome to join the network!
+
 ## Publications and preprints
 Please refer to [this page](https://aleksispi.github.io/publications/), and/or my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en).
 
