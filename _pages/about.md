@@ -20,7 +20,9 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Oct 2025:** New [preprint](https://arxiv.org/abs/2510.14493) summarizing our work on SatML for grazing detection, jointly with the [Swedish Board of Agriculture](https://jordbruksverket.se/languages/english/swedish-board-of-agriculture)! Grazing plays a key roll for maintaining important biodiversity hotspots, e.g. semi-natural pastures -- and in this work, we scale up grazing monitoring efforts with SatML! Code and models are [available](https://github.com/aleksispi/pib-ml-grazing).
 
-**April 2025:** Funding obtained for doctoral project _ML-Earth: Robust and data-efficient machine learning for Earth observation_ from the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+**Sep 2025:** Thrilled to be in the organizing committee of the [EurIPS 2025](https://eurips.cc/) accepted workshop [_AICC: Workshop on AI for Climate and Conservation_](https://sites.google.com/g.harvard.edu/aicceurips) (Call for Participation deadline Oct 10).
+
+**April 2025:** Funding obtained for the upcoming 4-year doctoral project _ML-Earth: Robust and data-efficient machine learning for Earth observation_ from the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
 **March 2025:** Invited presentation about [_Climate AI Nordics_](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/).
 
