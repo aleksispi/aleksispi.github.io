@@ -22,8 +22,8 @@ Please refer to [this page](https://aleksispi.github.io/publications/), and/or m
 ## Selection of past and ongoing projects
 Please refer to [this page](https://aleksispi.github.io/projects/) for a selection of my past and ongoing projects.
 
-## Past and ongoing supervision
-Below is a description of **past and ongoing doctoral student supervision.** Please see **[this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis and internship supervision.**
+## Past and ongoing doctoral supervision
+Below is a description of **past and ongoing doctoral student supervision.** Please see [this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis and internship supervision.
 
 **Nov 2025 - Nov 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
@@ -33,7 +33,7 @@ Below is a description of **past and ongoing doctoral student supervision.** Ple
 ## Media and public communication
 Please refer to [this page](https://aleksispi.github.io/outreach/) for a selection of invited talks as well as media and public communication.
 
-## Honors and awards
+## Honors, awards and review work
 
 **March 2024:** [_Top 30 reviewer_](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/news#appreciation-for-the-reviewers-for-the-calendar-year-2023) of the ISPRS Journal of Photogrammetry and Remote Sensing for 2023.
 
@@ -42,8 +42,6 @@ Please refer to [this page](https://aleksispi.github.io/outreach/) for a selecti
 **March 2016:** _Teaching Assistant of the Year_. Announced [teaching assistant of the year 2016](https://www.dropbox.com/scl/fi/dbo5gfkszv4mntvz68zut/20240404_185750.jpg?rlkey=izejybrty430c3vclvcu62yf2&dl=0) for the chemistry students (K-sektionen) at the Faculty of Engineering, Lund University, for my contributions in the basic courses in calculus and linear algebra.
 
 **April 2014:** _SURF Scholarship at California Institute of Technology_. Awarded a SURF scholarship from Caltech to work with Assoc. Prof. Brendan Ames and Prof. Joel Tropp during the summer of 2014.
-
-## Review work
 
 **Machine learning & computer vision.** I regularly review top-tier ML/CV conference and journal papers (ICML 2025; ICLR 2025; ICCV 2025, 2019; NeurIPS 2024, 2017; CVPR 2017 - 2019; ECCV 2018; AAAI 2018, 2021; BMVC 2022; CoRL 2022 - 2024; TPAMI 2024; IJCV 2019 - 2021).
 
