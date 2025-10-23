@@ -40,6 +40,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Aug 2024:** As of this month, I'm affiliated also with the [Swedish Centre for Impacts of Climate Extremes (CLIMES)](https://www.climes.se/) funded by the [Swedish Research Council](https://www.vr.se/english.html).
 
+**Sept 2023:** I was the main organizer of the hackathon [_Walking on Thin Clouds_](https://www.ai.se/en/events/walking-thin-clouds-challenge) in Stockholm, where participants explored our recently developed ML methods for cloud optical thickness estimation in Sentinel-2 imagery. It was a really fun day!
+
 **June 2021:** On June 10th, I successfully defended my doctoral thesis [_Reinforcement Learning for Active Visual Perception_](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) (a video overview can be seen [here](https://youtu.be/sWZ9eRacpAg)). Looking forward to a summer break before starting as an ML researcher at [RISE](https://www.ri.se/en) in September!
 
 ## Publications and preprints
