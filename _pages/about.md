@@ -40,6 +40,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Aug 2024:** As of this month, I'm affiliated also with the [Swedish Centre for Impacts of Climate Extremes (CLIMES)](https://www.climes.se/) funded by the [Swedish Research Council](https://www.vr.se/english.html).
 
+**June 2021:** On June 10th, I successfully defended my doctoral thesis [_Reinforcement Learning for Active Visual Perception_](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) (a video overview can be seen [here](https://youtu.be/sWZ9eRacpAg)). Looking forward to a summer break before starting as an ML researcher at [RISE](https://www.ri.se/en) in September!
+
 ## Publications and preprints
 Please refer to [this page](https://aleksispi.github.io/publications/), and/or my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en).
 
