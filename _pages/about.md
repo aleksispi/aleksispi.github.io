@@ -42,6 +42,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Aug 2024:** As of this month, I'm affiliated also with the [Swedish Centre for Impacts of Climate Extremes (CLIMES)](https://www.climes.se/) funded by the [Swedish Research Council](https://www.vr.se/english.html).
 
+**June 2024:** [ML models for cloud optical thickness estimation](https://github.com/aleksispi/ml-cloud-opt-thick) that I developed have now been [orbiting in space](https://www.ai.se/en/news/ai-sweden-launches-models-space)!
+
 **Apr 2024:** Funding obtained from the [Swedish Energy Agency](https://www.energimyndigheten.se/en/) for the project [_AI-based Power Production Models for Increased Wind Farm Efficiency_](https://www.vr.se/english/swecris.html?project%3DP2023-01341_Energi#/). I will have an advisory role in this 2-year project, which starts in May 2024.
 
 **Oct 2023:** Funding obtained from [Vinnova](https://www.vinnova.se/en) for the project [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/). I will be PI in this 1-year project, which starts in November 2023.
