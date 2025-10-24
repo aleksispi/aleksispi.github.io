@@ -16,7 +16,7 @@ Before joining [RISE](https://www.ri.se/en), I conducted my doctoral studies in 
 
 I'm an advocate for facing our difficult future (and present, for many), collectively and individually, so that we can try to reduce harm and suffering. I may write more about this under my [personal page](https://aleksispi.github.io/personal/) at some point, but for anyone interested in learning more about what is difficult about our future, I warmly recommend the podcasts [_The Great Simplification_](https://www.thegreatsimplification.com/), [_Breaking Down: Collapse_](https://collapsepod.buzzsprout.com/) (and the follow-up podcast [_Building Up: Resilience_](https://shows.acast.com/building-up-resilience)), [_Planet: Critical_](https://www.planetcritical.com/podcast), and [_Entangled World_](https://player.fm/series/entangled-world). Two other short and self-contained podcasts that I also recommend are [_Power: Limits and Prospects for Human Survival_](https://power.postcarbon.org/podcast/) and [_Tipping Point: The True Story of "The Limits to Growth"_](https://tippingpointstory.podigee.io/). I also try to summarize some reasons why in [this video](https://youtu.be/QXztQfKLiSc?si=zwTjXQ6Fw1t77f6s&t=1614).
 
-## News
+# News
 
 <!--**Oct 2025:** We're organizing the [2026 Nordic Workshop on AI for Climate Change](https://climateainordics.com/news/2025-10-22-cain-2026-event-teaser/) in June 2026, the second of an annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)! See you in Copenhagen!-->
 
@@ -56,7 +56,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **June 2021:** On June 10th, I successfully defended my doctoral thesis [_Reinforcement Learning for Active Visual Perception_](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) (a video overview can be seen [here](https://youtu.be/sWZ9eRacpAg)). Looking forward to a summer break before starting as an ML researcher at [RISE](https://www.ri.se/en) in September!
 
-## Past and ongoing doctoral supervision
+# Past and ongoing doctoral supervision
 Below is a description of **past and ongoing doctoral student supervision.** Please see [this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis and internship supervision.
 
 **Dec 2025 - Dec 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
