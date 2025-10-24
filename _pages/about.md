@@ -10,7 +10,7 @@ redirect_from:
 
 **Short version:** _Senior ML researcher at [RISE](https://www.ri.se/en) -- Co-founder of [Climate AI Nordics](https://climateainordics.com/) <img src="/images/cain-logo.png" alt="cain-logo" width="20px" style="vertical-align:middle;" /> -- Core team member of the [GEO](https://earthobservations.org/) AI4EO working group -- Affiliated with [CLIMES](https://www.climes.se/) -- Part of the [Computing within Limits](https://computingwithinlimits.org/2025/) community_
 
-**Long version:** I'm a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen) within the [_deep learning research group_](https://dl-group.se/), where my main research interest is to develop [ML methods for a broad range of environmental applications](https://aleksispi.github.io/ai-environment/) (e.g. climate adaptation and humanitarian aid causes). I'm a co-founder of the research network [_Climate AI Nordics_](https://climateainordics.com/), am affiliated with the [Swedish Centre for Impacts of Climate Extremes (climes)](https://www.climes.se/), and am a core team member of the [GEO](https://earthobservations.org/) AI4EO working group.
+**Long version:** I'm a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen) within the [_deep learning research group_](https://dl-group.se/), where my main research interest is to develop ML methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes). I'm a co-founder of the research network [_Climate AI Nordics_](https://climateainordics.com/), am affiliated with the [Swedish Centre for Impacts of Climate Extremes (climes)](https://www.climes.se/), and am a core team member of the [GEO](https://earthobservations.org/) AI4EO working group.
 
 Before joining [RISE](https://www.ri.se/en), I conducted my doctoral studies in computer vision at the [Faculty of Engineering, Lund University](https://www.lth.se/english/), under the supervision of [Prof. Cristian Sminchisescu](https://research.google/people/cristian-sminchisescu/). In my research, I applied deep reinforcement learning to computer vision tasks such as object detection and active vision, with the aim of making visual recognition systems more flexible and adaptive. I successfully defended my PhD thesis [_Reinforcement Learning for Active Visual Perception_](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) in June, 2021.
 
@@ -48,12 +48,6 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **June 2021:** On June 10th, I successfully defended my doctoral thesis [_Reinforcement Learning for Active Visual Perception_](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) (a video overview can be seen [here](https://youtu.be/sWZ9eRacpAg)). Looking forward to a summer break before starting as an ML researcher at [RISE](https://www.ri.se/en) in September!
 
-## Publications and preprints
-Please refer to [this page](https://aleksispi.github.io/publications/), and/or my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en).
-
-## Selection of past and ongoing projects
-Please refer to [this page](https://aleksispi.github.io/projects/) for a selection of my past and ongoing projects.
-
 ## Past and ongoing doctoral supervision
 Below is a description of **past and ongoing doctoral student supervision.** Please see [this page](https://aleksispi.github.io/master-theses) for past and ongoing master thesis and internship supervision.
 
@@ -61,6 +55,12 @@ Below is a description of **past and ongoing doctoral student supervision.** Ple
 
 <!--**Spring 2024 (ongoing):** Co-supervisor of the master thesis students Oscar Marklund and Richard Lindholm, Lund University. Academic supervisor: [Prof. Maria Sandsten](https://www.maths.lu.se/english/research/staff/mariasandsten/). Other supervisors at RISE: [Dr. Olof Mogren](mogren.one) and [John Martinsson](https://johnmartinsson.github.io/). Thesis (preliminary title): _Active Learning for Bioacoustic Sound Event Detection_. The thesis is within the area of biodiversity monitoring.-->
 **May 2023 - Feb 2025:** Co-supervisor for PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University). Maria successfully defended her thesis in Feb 2025: [_Structured models for scientific machine learning: from graphs to kernels_](https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Structured+models+for+scientific+machine+learning%3A+from+graphs+to+kernels&language=en&pid=diva2%3A1924341&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=3615).
+
+## Publications and preprints
+Please refer to [this page](https://aleksispi.github.io/publications/), and/or my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en).
+
+## Selection of past and ongoing projects
+Please refer to [this page](https://aleksispi.github.io/projects/) for a selection of my past and ongoing projects.
 
 ## Media and public communication
 Please refer to [this page](https://aleksispi.github.io/outreach/) for a selection of invited talks as well as media and public communication.
