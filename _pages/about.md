@@ -40,6 +40,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Aug 2024:** As of this month, I'm affiliated also with the [Swedish Centre for Impacts of Climate Extremes (CLIMES)](https://www.climes.se/) funded by the [Swedish Research Council](https://www.vr.se/english.html).
 
+**Oct 2023:** Funding obtained from [Vinnova](https://www.vinnova.se/en) for the project [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/). I will be PI in this 1-year project, which starts in November 2023.
+
 **Sept 2023:** I was the main organizer of the hackathon [_Walking on Thin Clouds_](https://www.ai.se/en/events/walking-thin-clouds-challenge) in Stockholm, where participants explored our recently developed ML methods for cloud optical thickness estimation in Sentinel-2 imagery. It was a really fun day!
 
 **Oct 2022:** My work on AI-based mapping of Swedish wetlands, for the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/), got covered in the Swedish magazine [_Miljö & utveckling_](https://miljo-utveckling.se/sa-kan-ai-teknik-hjalpa-sverige-att-bevara-vatmarker/).
