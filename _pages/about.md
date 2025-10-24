@@ -34,11 +34,15 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Dec 2024:** I've joined the core team of the [GEO](https://earthobservations.org/) AI4EO working group, led by [Prof. Yifang Ban](https://www.kth.se/profile/yifang).
 
+**Dec 2024:** Funding obtained from [FORMAS](https://formas.se/en) for the project [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds). I will be the AI work package leader in this 2-year project, which starts in January 2025.
+
 **Oct 2024:** Excited and proud to have founded the new Nordic research network [_Climate AI Nordics_](https://climateainordics.com/), together with my amazing colleague [Olof Mogren](https://mogren.ml/)! Welcome to join the network!
 
 **Sept 2024:** Paper accepted at NeurIPS 2024! [Check out our work](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) on aerial exploration across modalities, relevant e.g. for search-and-rescue operations. Code is [available](https://github.com/mvrl/GOMAA-Geo)!
 
 **Aug 2024:** As of this month, I'm affiliated also with the [Swedish Centre for Impacts of Climate Extremes (CLIMES)](https://www.climes.se/) funded by the [Swedish Research Council](https://www.vr.se/english.html).
+
+**Apr 2024:** Funding obtained from the [Swedish Energy Agency](https://www.energimyndigheten.se/en/) for the project [_AI-based Power Production Models for Increased Wind Farm Efficiency_](https://www.vr.se/english/swecris.html?project%3DP2023-01341_Energi#/). I will have an advisory role in this 2-year project, which starts in May 2024.
 
 **Oct 2023:** Funding obtained from [Vinnova](https://www.vinnova.se/en) for the project [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/). I will be PI in this 1-year project, which starts in November 2023.
 
