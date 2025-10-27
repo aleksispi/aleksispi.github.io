@@ -26,11 +26,11 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Sep 2025:** Thrilled to be in the organizing committee of the [EurIPS 2025](https://eurips.cc/) accepted workshop [_AICC: Workshop on AI for Climate and Conservation_](https://sites.google.com/g.harvard.edu/aicceurips) (Call for Participation deadline Oct 10).
 
-**April 2025:** Funding obtained for the upcoming 4-year doctoral project _ML-Earth: Robust and data-efficient machine learning for Earth observation_ from the [Swedish Foundation for Strategic Research](https://strategiska.se/en/). I will be PI and main supervisor in this project (starting Dec 2025), and co-supervisor will be [Prof. Yifang Ban](https://www.kth.se/profile/yifang).
+**April 2025:** Funding obtained for the upcoming 4-year doctoral project [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/forskning/pagaende-forskning/research-institute-phd-2024/projekt/13869/) from the [Swedish Foundation for Strategic Research](https://strategiska.se/en/). I will be PI and main supervisor in this project (starting Dec 2025), and co-supervisor will be [Prof. Yifang Ban](https://www.kth.se/profile/yifang).
 
 **March 2025:** Invited presentation about [_Climate AI Nordics_](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/).
 
-**Feb 2025:** Funding obtained from the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/) for the project [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/). I will be PI in this 2-year project, which starts in April 2025.
+**Feb 2025:** Funding obtained from the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/) for the project [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.ri.se/en/expertise-areas/projects/ai-based-remote-sensing-of-nature-restoration-and-landscape-elements). I will be PI in this 2-year project, which starts in April 2025.
 
 **Dec 2024:** We're organizing the [2025 Nordic Workshop on AI for Climate Change](https://climateainordics.com/events/2025-nordic-workshop) in May 2025, the first of a hopefully annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)!
 
