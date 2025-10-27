@@ -54,6 +54,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Mar 2024:** New [preprint](https://arxiv.org/abs/2403.04385) on the impacts of color and texture distortions on Earth observation data in deep learning setups! This work will be presented in May by Martin Willbo on the [2nd Workshop on Machine Learning for Remote Sensing](https://ml-for-rs.github.io/iclr2024/) at ICLR 2024, in Vienna.
 
+**Mar 2024:** I was recognized as [Top 30 reviewer](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/news#appreciation-for-the-reviewers-for-the-calendar-year-2023) of the ISPRS Journal of Photogrammetry and Remote Sensing for 2023.
+
 **Feb 2024:** I'm one of the authors of the report [_NBS Initiative Position Paper: Embracing Nature-Based Solutions for Sustainable Development_](https://bed.ectp.org/fileadmin/user_upload/documents/BED/ECTP_BED_Committee_NBS_Initiative_Position_paper.pdf), which will be presented at the [ECTP conference 2024](https://www.ectp.org/ectp-conferences/ectp-conference-2024).
 
 **Jan 2024:** Our work on [ML for cloud optical thickness estimation](https://www.mdpi.com/2072-4292/16/4/694) has now been published in _Remote Sensing_! Code and data are [available](https://github.com/aleksispi/ml-cloud-opt-thick)!
