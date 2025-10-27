@@ -54,6 +54,10 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Mar 2024:** New [preprint](https://arxiv.org/abs/2403.04385) on the impacts of color and texture distortions on Earth observation data in deep learning setups! This work will be presented in May by Martin Willbo on the [2nd Workshop on Machine Learning for Remote Sensing](https://ml-for-rs.github.io/iclr2024/) at ICLR 2024, in Vienna.
 
+**Feb 2024:** I'm one of the authors of the report [_NBS Initiative Position Paper: Embracing Nature-Based Solutions for Sustainable Development_](https://bed.ectp.org/fileadmin/user_upload/documents/BED/ECTP_BED_Committee_NBS_Initiative_Position_paper.pdf), which will be presented at the [ECTP conference 2024](https://www.ectp.org/ectp-conferences/ectp-conference-2024).
+
+**Jan 2024:** Our work on [ML for cloud optical thickness estimation](https://www.mdpi.com/2072-4292/16/4/694) has now been published in _Remote Sensing_! Code and data are [available](https://github.com/aleksispi/ml-cloud-opt-thick)!
+
 **Oct 2023:** Funding obtained from [Vinnova](https://www.vinnova.se/en) for the project [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/). I will be PI in this 1-year project, which starts in November 2023.
 
 **Sept 2023:** I was the main organizer of the hackathon [_Walking on Thin Clouds_](https://www.ai.se/en/events/walking-thin-clouds-challenge) in Stockholm, where participants explored our recently developed ML methods for cloud optical thickness estimation in Sentinel-2 imagery. It was a really fun day!
