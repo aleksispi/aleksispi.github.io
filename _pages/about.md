@@ -64,6 +64,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Oct 2022:** My work on AI-based mapping of Swedish wetlands, for the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/), got covered in the Swedish magazine [_Miljö & utveckling_](https://miljo-utveckling.se/sa-kan-ai-teknik-hjalpa-sverige-att-bevara-vatmarker/).
 
+**Sept 2022:** Our work titled ["Few-shot Bioacoustic Event Detection using a Prototypical Network Ensemble with Adaptive Embedding Functions"](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Martinsson_13.pdf) has been accepted at [DCASE 2022](https://dcase.community/challenge2022/index)! The method came in **third place** among the team submissions in the few-shot bioacoustic event detection task during the DCASE 2022 challenge. Code is [available](https://github.com/johnmartinsson/few-shot-learning-bioacoustics).
+
 **Dec 2021:** New [preprint](https://arxiv.org/abs/2112.14084) out, covering our work on embodied learning for lifelong visual perception!
 
 **Sept 2021:** Our work titled ["Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing"](https://proceedings.mlr.press/v164/priisalu22a.html) has been accepted at [CoRL 2021](https://2021.corl.org/)! Code is [available](https://github.com/MariaPriisalu/spl)! A video overview can be seen [here](https://youtu.be/IMLC6njod3E).
