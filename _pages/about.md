@@ -62,6 +62,10 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Sept 2023:** I was the main organizer of the hackathon [_Walking on Thin Clouds_](https://www.ai.se/en/events/walking-thin-clouds-challenge) in Stockholm, where participants explored our recently developed ML methods for cloud optical thickness estimation in Sentinel-2 imagery. It was a really fun day!
 
+**Apr 2023:** Our work on [ML for dense streamflow forecasting](https://arxiv.org/abs/2304.01658) was accepted at [SAIS 2023](https://ecp.ep.liu.se/index.php/sais/issue/view/78)! Code is [available](https://github.com/aleksispi/fcn-water-flow)! A video overview is given [here](https://youtu.be/dnE0AfiqoZo).
+
+**Mar 2023:** Our work titled ["Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue"](https://arxiv.org/abs/2209.03694) was accepted for the [1st Workshop on Machine Learning for Remote Sensing](https://ml-for-rs.github.io/iclr2023/) at ICLR 2023, in Kigali, Rwanda! Code and models are [available](https://github.com/aleksispi/airloc)! A video overview is given [here](https://youtu.be/n01OCLNKxFc).
+
 **Oct 2022:** My work on AI-based mapping of Swedish wetlands, for the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/), got covered in the Swedish magazine [_Miljö & utveckling_](https://miljo-utveckling.se/sa-kan-ai-teknik-hjalpa-sverige-att-bevara-vatmarker/).
 
 **Sept 2022:** Our work titled ["Few-shot Bioacoustic Event Detection using a Prototypical Network Ensemble with Adaptive Embedding Functions"](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Martinsson_13.pdf) has been accepted at [DCASE 2022](https://dcase.community/challenge2022/index)! The method came in **third place** among the team submissions in the few-shot bioacoustic event detection task during the DCASE 2022 challenge. Code is [available](https://github.com/johnmartinsson/few-shot-learning-bioacoustics).
