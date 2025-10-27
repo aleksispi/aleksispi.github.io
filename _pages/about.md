@@ -50,6 +50,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Apr 2024:** Funding obtained from the [Swedish Energy Agency](https://www.energimyndigheten.se/en/) for the project [_AI-based Power Production Models for Increased Wind Farm Efficiency_](https://www.vr.se/english/swecris.html?project%3DP2023-01341_Energi#/). I will have an advisory role in this 2-year project, which starts in May 2024.
 
+**Apr 2024:** Our work on [ML for cloud optical thickness estimation](https://github.com/aleksispi/ml-cloud-opt-thick) will be presented as an oral at the [2nd Workshop on Machine Learning for Remote Sensing](https://ml-for-rs.github.io/iclr2024/) at ICLR 2024, in Vienna!
+
 **Mar 2024:** New [preprint](https://arxiv.org/abs/2403.04385) on the impacts of color and texture distortions on Earth observation data in deep learning setups! This work will be presented in May by Martin Willbo on the [2nd Workshop on Machine Learning for Remote Sensing](https://ml-for-rs.github.io/iclr2024/) at ICLR 2024, in Vienna.
 
 **Oct 2023:** Funding obtained from [Vinnova](https://www.vinnova.se/en) for the project [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/). I will be PI in this 1-year project, which starts in November 2023.
