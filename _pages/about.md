@@ -66,6 +66,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Dec 2021:** New [preprint](https://arxiv.org/abs/2112.14084) out, covering our work on embodied learning for lifelong visual perception!
 
+**Sept 2021:** Our work titled ["Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing"](https://proceedings.mlr.press/v164/priisalu22a.html) has been accepted at [CoRL 2021](https://2021.corl.org/)! Code is [available](https://github.com/MariaPriisalu/spl)! A video overview can be seen [here](https://youtu.be/IMLC6njod3E).
+
 **Sept 2021:** I started working as an ML researcher at [RISE Research Institutes of Sweden](https://www.ri.se/en), in Lund. I'm part of [RISE's deep learning research group (RIDR)](https://ridr.se/).
 
 **June 2021:** On June 10th, I successfully defended my doctoral thesis [_Reinforcement Learning for Active Visual Perception_](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) (a video overview can be seen [here](https://youtu.be/sWZ9eRacpAg)). Looking forward to a summer break before starting as an ML researcher at [RISE](https://www.ri.se/en) in September!
