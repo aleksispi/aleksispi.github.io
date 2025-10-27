@@ -64,6 +64,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Oct 2022:** My work on AI-based mapping of Swedish wetlands, for the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/), got covered in the Swedish magazine [_Miljö & utveckling_](https://miljo-utveckling.se/sa-kan-ai-teknik-hjalpa-sverige-att-bevara-vatmarker/).
 
+**Dec 2021:** New [preprint](https://arxiv.org/abs/2112.14084) out, covering our work on embodied learning for lifelong visual perception!
+
 **Sept 2021:** I started working as an ML researcher at [RISE Research Institutes of Sweden](https://www.ri.se/en), in Lund. I'm part of [RISE's deep learning research group (RIDR)](https://ridr.se/).
 
 **June 2021:** On June 10th, I successfully defended my doctoral thesis [_Reinforcement Learning for Active Visual Perception_](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13) (a video overview can be seen [here](https://youtu.be/sWZ9eRacpAg)). Looking forward to a summer break before starting as an ML researcher at [RISE](https://www.ri.se/en) in September!
