@@ -42,6 +42,10 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Sept 2024:** Paper accepted at NeurIPS 2024! [Check out our work](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) on aerial exploration across modalities, relevant e.g. for search-and-rescue operations. Code is [available](https://github.com/mvrl/GOMAA-Geo)!
 
+**Aug 2024:** Participated in a panel discussion titled [_Science communication and AI – threats, challenges and opportunities_](https://youtu.be/uRVoaiXaeH0?si=Wh9AHkf39RbXKXR_&t=51), at the [_World Water Week_](https://www.worldwaterweek.org/) in Stockholm.
+
+**Aug 2024:** Gave a presentation for [Sally Dobberman](https://sally.doberman.co/) on the topic **_AI considerations under post-growth scenarios_**. Thanks for the invitation!
+
 **Aug 2024:** As of this month, I'm affiliated also with the [Swedish Centre for Impacts of Climate Extremes (CLIMES)](https://www.climes.se/) funded by the [Swedish Research Council](https://www.vr.se/english.html).
 
 **June 2024:** [ML models for cloud optical thickness estimation](https://github.com/aleksispi/ml-cloud-opt-thick) that I developed have now been [orbiting in space](https://www.ai.se/en/news/ai-sweden-launches-models-space)!
@@ -59,6 +63,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 **Feb 2024:** I'm one of the authors of the report [_NBS Initiative Position Paper: Embracing Nature-Based Solutions for Sustainable Development_](https://bed.ectp.org/fileadmin/user_upload/documents/BED/ECTP_BED_Committee_NBS_Initiative_Position_paper.pdf), which will be presented at the [ECTP conference 2024](https://www.ectp.org/ectp-conferences/ectp-conference-2024).
 
 **Jan 2024:** Our work on [ML for cloud optical thickness estimation](https://www.mdpi.com/2072-4292/16/4/694) has now been published in _Remote Sensing_! Code and data are [available](https://github.com/aleksispi/ml-cloud-opt-thick)!
+
+**Jan 2024:** Our abstract [**_High-tech for low-tech: Some thoughts on AI-based mitigation of ecological breakdown in anticipation of post-growth_**](https://aleksispi.github.io/ht4lt/) was accepted at the [International Degrowth Conference 2024](https://esee-degrowth2024.uvigo.gal/en/)!
 
 **Oct 2023:** Funding obtained from [Vinnova](https://www.vinnova.se/en) for the project [_Towards efficient computational fluid dynamics simulations with physics-informed machine learning_](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/). I will be PI in this 1-year project, which starts in November 2023.
 
