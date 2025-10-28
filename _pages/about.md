@@ -38,6 +38,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Dec 2024:** Funding obtained from [FORMAS](https://formas.se/en) for the project [**_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_**](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds). I will be the AI work package leader in this 2-year project, which starts in January 2025.
 
+**Nov 2024:** Gave a presentation and participated in a panel discussion on the theme [**_Is technology our only salvation from climate collapse?_**](https://internetdagarna.se/program-2024/ar-tekniken-var-enda-raddning-fran-en-klimatkollaps/) at [**Internetdagarna 2024**](https://internetdagarna.se/). Thanks for the invite, [Paulina Modlitba](https://pauspling.com/), and nice discussion, [Isabelle McAllister](https://www.isabelle.se/)!
+
 **Oct 2024:** Excited and proud to have **founded the new Nordic research network [_Climate AI Nordics_](https://climateainordics.com/)**, together with my amazing colleague [Olof Mogren](https://mogren.ml/)! Welcome to join the network!
 
 **Sept 2024:** Paper accepted at **NeurIPS 2024! [Check out our work](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html)** on aerial exploration across modalities, relevant e.g. for search-and-rescue operations. **Code is [available](https://github.com/mvrl/GOMAA-Geo)!**
