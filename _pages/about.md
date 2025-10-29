@@ -26,7 +26,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Sep 2025:** Thrilled to be in the **organizing committee** of the [EurIPS 2025](https://eurips.cc/) accepted workshop [**_AICC: Workshop on AI for Climate and Conservation_**](https://sites.google.com/g.harvard.edu/aicceurips) (Call for Participation deadline Oct 10).
 
-**April 2025:** Funding obtained for the upcoming **4-year doctoral project [_ML-Earth: Robust and data-efficient machine learning for Earth observation_]**(https://strategiska.se/forskning/pagaende-forskning/research-institute-phd-2024/projekt/13869/) from the [Swedish Foundation for Strategic Research](https://strategiska.se/en/). I will be PI and main supervisor in this project (starting Dec 2025), and co-supervisor will be [Prof. Yifang Ban](https://www.kth.se/profile/yifang).
+**April 2025:** Funding obtained for the upcoming **4-year doctoral project [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/forskning/pagaende-forskning/research-institute-phd-2024/projekt/13869/)** from the [Swedish Foundation for Strategic Research](https://strategiska.se/en/). I will be PI and main supervisor in this project (starting Dec 2025), and co-supervisor will be [Prof. Yifang Ban](https://www.kth.se/profile/yifang).
 
 **March 2025:** Invited presentation about [**_Climate AI Nordics_**](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/).
 
