@@ -22,7 +22,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 <!--**Oct 2025:** We're organizing the [2026 Nordic Workshop on AI for Climate Change](https://climateainordics.com/news/2025-10-22-cain-2026-event-teaser/) in June 2026, the second of an annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)! See you in Copenhagen!-->
 
-**Oct 2025:** New [**preprint**](https://arxiv.org/abs/2510.14493) summarizing our work on **SatML for grazing detection**, jointly with the [Swedish Board of Agriculture](https://jordbruksverket.se/languages/english/swedish-board-of-agriculture)! Code and models are [available](https://github.com/aleksispi/pib-ml-grazing). Our work will be presented at [ELLIS UnConference Workshop - AI for Earth and Climate Sciences](https://www.ellis-jena.eu/ellis-unconference-2025/).
+**Oct 2025:** New [**preprint**](https://arxiv.org/abs/2510.14493) summarizing our work on **SatML for grazing detection**, jointly with the [Swedish Board of Agriculture](https://jordbruksverket.se/languages/english/swedish-board-of-agriculture)! Code and models are [available](https://github.com/aleksispi/pib-ml-grazing). Our work will be presented at [ELLIS UnConference Workshop - AI for Earth and Climate Sciences](https://www.ellis-jena.eu/ellis-unconference-2025/) and [AICC: Workshop on AI for Climate and Conservation](https://sites.google.com/g.harvard.edu/aicceurips) at [EurIPS 2025](https://eurips.cc/)!
 
 **Oct 2025:** Glad to have joined the [**_Computing within Limits_**](https://computingwithinlimits.org/) community!
 
