@@ -11,7 +11,7 @@ author_profile: true
 <!--[_DiffWake: A General Differentiable Wind-Farm Solver in JAX_ (arXiv)](https://github.com/mariabankestad/DiffWake) -- [Code](https://github.com/mariabankestad/DiffWake)-->
 <!--[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (arXiv)](TODO) -- [Code](TODO)-->
 
-[_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) -- [arXiv](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo)
+[_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) -- [arXiv](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo) -- Also presented at [REO: Advances in Representation Learning for Earth Observation](https://sites.google.com/view/reoeurips) at [EurIPS 2025](https://eurips.cc/)
 
 [_Flexible SE(2) graph neural networks with applications to PDE surrogates_ (arXiv 2024)](https://arxiv.org/abs/2405.20287) -- [Code & visualizations](https://github.com/mariabankestad/SE2-GNN)
 
