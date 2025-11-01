@@ -8,10 +8,10 @@ author_profile: true
 **Please refer also to my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en) for more info.**
 
 [_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (arXiv)](https://arxiv.org/abs/2510.14493) -- [Code](https://github.com/aleksispi/pib-ml-grazing) -- Presented at [ELLIS UnConference Workshop - AI for Earth and Climate Sciences](https://www.ellis-jena.eu/ellis-unconference-2025/) and [AICC: Workshop on AI for Climate and Conservation](https://sites.google.com/g.harvard.edu/aicceurips) at [EurIPS 2025](https://eurips.cc/)
-<!--[_DiffWake: A General Differentiable Wind-Farm Solver in JAX_ (arXiv)](https://github.com/mariabankestad/DiffWake) -- [Code](https://github.com/mariabankestad/DiffWake)-->
+<!--[_DiffWake: A General Differentiable Wind-Farm Solver in JAX_ (arXiv)](https://github.com/mariabankestad/DiffWake) -- [Code](https://github.com/mariabankestad/DiffWake) -- Presented at the [Differentiable Systems and Scientific Machine Learning](https://differentiable-systems.github.io/workshop-eurips-2025/) workshop at [EurIPS 2025](https://eurips.cc/) -->
 <!--[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (arXiv)](TODO) -- [Code](TODO)-->
 
-[_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) -- [arXiv](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo) -- Also presented at [REO: Advances in Representation Learning for Earth Observation](https://sites.google.com/view/reoeurips) at [EurIPS 2025](https://eurips.cc/)
+[_GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (**NeurIPS 2024**)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd8b52c2fefdb37e3b3953a37408e9dc-Abstract-Conference.html) -- [arXiv](https://arxiv.org/abs/2406.01917v1) -- [Code](https://github.com/mvrl/GOMAA-Geo) -- Also presented at the [REO: Advances in Representation Learning for Earth Observation](https://sites.google.com/view/reoeurips) workshop at [EurIPS 2025](https://eurips.cc/)
 
 [_Flexible SE(2) graph neural networks with applications to PDE surrogates_ (arXiv 2024)](https://arxiv.org/abs/2405.20287) -- [Code & visualizations](https://github.com/mariabankestad/SE2-GNN)
 
