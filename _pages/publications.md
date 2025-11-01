@@ -7,7 +7,7 @@ author_profile: true
 
 **Please refer also to my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en) for more info.**
 
-[_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (arXiv)](https://arxiv.org/abs/2510.14493) -- [Code](https://github.com/aleksispi/pib-ml-grazing) -- Presented at [ELLIS UnConference Workshop - AI for Earth and Climate Sciences](https://www.ellis-jena.eu/ellis-unconference-2025/)
+[_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (arXiv)](https://arxiv.org/abs/2510.14493) -- [Code](https://github.com/aleksispi/pib-ml-grazing) -- Presented at [ELLIS UnConference Workshop - AI for Earth and Climate Sciences](https://www.ellis-jena.eu/ellis-unconference-2025/) and [AICC: Workshop on AI for Climate and Conservation](https://sites.google.com/g.harvard.edu/aicceurips) at [EurIPS 2025](https://eurips.cc/)
 <!--[_DiffWake: A General Differentiable Wind-Farm Solver in JAX_ (arXiv)](https://github.com/mariabankestad/DiffWake) -- [Code](https://github.com/mariabankestad/DiffWake)-->
 <!--[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (arXiv)](TODO) -- [Code](TODO)-->
 
