@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Short version:** _Senior ML researcher at [RISE](https://www.ri.se/en) -- Co-founder of [Climate AI Nordics](https://climateainordics.com/) <img src="/images/cain-logo.png" alt="cain-logo" width="20px" style="vertical-align:middle;" /> -- Core team member of the [GEO](https://earthobservations.org/) AI4EO working group -- Affiliated with [CLIMES](https://www.climes.se/) -- Part of the [Computing within Limits](https://computingwithinlimits.org/2025/) community_
+**Short version:** _Senior ML researcher at [RISE](https://www.ri.se/en) -- Co-founder of [Climate AI Nordics](https://climateainordics.com/) <img src="/images/cain-logo.png" alt="cain-logo" width="20px" style="vertical-align:middle;" /> -- Part of the [GEO](https://earthobservations.org/) AI4EO working group -- Affiliated with [CLIMES](https://www.climes.se/) -- Part of the [Computing within Limits](https://computingwithinlimits.org/2025/) community_
 
-**Long version:** I'm a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen) within the [_deep learning research group_](https://dl-group.se/), where my main research interest is to develop ML methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes). I'm a co-founder of the research network [_Climate AI Nordics_](https://climateainordics.com/), am affiliated with the [Swedish Centre for Impacts of Climate Extremes (climes)](https://www.climes.se/), and am a core team member of the [GEO](https://earthobservations.org/) AI4EO working group.
+**Long version:** I'm a senior machine learning researcher at [RISE Research Institutes of Sweden](https://www.ri.se/sv/person/aleksis-pirinen) within the [_deep learning research group_](https://dl-group.se/), where my main research interest is to develop ML methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes). I'm a co-founder of the research network [_Climate AI Nordics_](https://climateainordics.com/), am affiliated with the [Swedish Centre for Impacts of Climate Extremes (climes)](https://www.climes.se/), and am part of the [GEO](https://earthobservations.org/) AI4EO working group.
 
 If interested in my publications, please refer to [**this page**](https://aleksispi.github.io/publications/), and/or my [google scholar](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en). See [**this page**](https://aleksispi.github.io/projects/) for a selection of my past and ongoing projects. [**This page**](https://aleksispi.github.io/outreach/) lists a selection of invited talks as well as media and public communication. [**This page**](https://aleksispi.github.io/reviewing/) summarizes my honors, awards and review work.
 
@@ -38,7 +38,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Dec 2024:** We're **organizing the [2025 Nordic Workshop on AI for Climate Change](https://climateainordics.com/events/2025-nordic-workshop)** in May 2025, the first of a hopefully annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)!
 
-**Dec 2024:** I've joined the **core team of the [GEO](https://earthobservations.org/) AI4EO working group**, led by [Prof. Yifang Ban](https://www.kth.se/profile/yifang).
+**Dec 2024:** I've joined the **[GEO](https://earthobservations.org/) AI4EO working group**, led by [Prof. Yifang Ban](https://www.kth.se/profile/yifang).
 
 **Dec 2024:** Funding obtained from [FORMAS](https://formas.se/en) for the project [**_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_**](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds). I will be the AI work package leader in this 2-year project, which starts in January 2025.
 
