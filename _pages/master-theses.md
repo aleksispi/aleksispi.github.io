@@ -9,7 +9,11 @@ author_profile: true
 
 This page contains information about my past and ongoing master thesis supervision, and also intern supervision. My full professional bio can be found on the [main page](https://aleksispi.github.io).
 
+**Spring 2026 (upcoming):** Internship main supervisor for doctoral student [Jhonny Hueller](https://it.linkedin.com/in/jhonny-hueller/en) within the project [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds).
+
 **Spring 2026 (upcoming):** Co-main supervisor (jointly with [Delia Fano Yela](https://delialia.github.io/) and [Georg Andersson](https://www.ri.se/sv/person/georg-andersson)) of the master thesis students Isak Randahl and Linnea Sartorius, Lund University. Academic supervisor: TBD. Thesis title _Machine learning and Earth observation data for monitoring nature restoration_.
+
+**Spring 2026 (upcoming):** Co-supervisor of the master thesis students Fatemeh Mofid, Stockholm University. Academic supervisor: TBD. Thesis title _TBD_.
 
 **Fall 2025 (4 months):** Internship main supervisor for Rojina Shakya within the project [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/).
 
