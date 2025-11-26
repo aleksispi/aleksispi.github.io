@@ -1,13 +1,22 @@
 ---
 layout: archive
-title: "Master thesis and intern supervision"
-permalink: /master-theses/
+title: "Doctoral, master and intern supervision"
+permalink: /supervision/
 author_profile: true
 ---
 
 {% include base_path %}
 
-This page contains information about my past and ongoing master thesis supervision, and also intern supervision. My full professional bio can be found on the [main page](https://aleksispi.github.io).
+# Doctoral supervision
+Below is a description of **past and ongoing doctoral student supervision.**
+
+**Dec 2025 - Dec 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+
+<!--**Spring 2024 (ongoing):** Co-supervisor of the master thesis students Oscar Marklund and Richard Lindholm, Lund University. Academic supervisor: [Prof. Maria Sandsten](https://www.maths.lu.se/english/research/staff/mariasandsten/). Other supervisors at RISE: [Dr. Olof Mogren](mogren.one) and [John Martinsson](https://johnmartinsson.github.io/). Thesis (preliminary title): _Active Learning for Bioacoustic Sound Event Detection_. The thesis is within the area of biodiversity monitoring.-->
+**May 2023 - Feb 2025:** Co-supervisor for PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University). Maria successfully defended her thesis in Feb 2025: [_Structured models for scientific machine learning: from graphs to kernels_](https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Structured+models+for+scientific+machine+learning%3A+from+graphs+to+kernels&language=en&pid=diva2%3A1924341&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=3615).
+
+# Master and intern supervision
+Below is a description of **past and ongoing master student and intern supervision.**
 
 **Spring 2026 (upcoming):** Internship main supervisor for doctoral student [Jhonny Hueller](https://it.linkedin.com/in/jhonny-hueller/en) within the project [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds).
 
