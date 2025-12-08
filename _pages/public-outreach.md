@@ -5,33 +5,35 @@ permalink: /outreach/
 author_profile: true
 ---
 
-**October 2025:** Invited presentation on the topic _AI for the Environment_ at the [DigiHalland 2025 event](https://www.regionhalland.se/kultur/kulturarrangemang/kulturarrangemang/2025-09-16-digihalland-ai-hallbarhet-och-framtidens-mojligheter) (Region Halland).
+**December 2025:** Invited presentation on the topic _AI during the meta-crisis_ by [Elina Eriksson](https://www.kth.se/profile/elina) at [KTH Royal Institute of Technology](https://www.kth.se/en)
 
-**October 2025:** Commentary on the use of AI for sustainability in the Swedish magazine [_Hållbart Byggande_](https://www.e-magin.se/paper/25v795n8/paper/1#/paper/5p8t04hs/39).
+**October 2025:** Invited presentation on the topic _AI for the Environment_ at the [DigiHalland 2025 event](https://www.regionhalland.se/kultur/kulturarrangemang/kulturarrangemang/2025-09-16-digihalland-ai-hallbarhet-och-framtidens-mojligheter) (Region Halland)
 
-**March 2025:** Invited presentation on the topic _AI for the Environment_ to the consultancy company [_Evidente_](https://www.evidente.se/).
+**October 2025:** Commentary on the use of AI for sustainability in the Swedish magazine [_Hållbart Byggande_](https://www.e-magin.se/paper/25v795n8/paper/1#/paper/5p8t04hs/39)
 
-**March 2025:** Invited presentation about [_Climate AI Nordics_](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/).
+**March 2025:** Invited presentation on the topic _AI for the Environment_ to the consultancy company [_Evidente_](https://www.evidente.se/)
 
-**December 2024:** Half-day introduction to AI for a group of industry and academic actors in the [Soft Microscopy network](https://softmicroscopy.se/).
+**March 2025:** Invited presentation about [_Climate AI Nordics_](https://climateainordics.com/) to the [_Young European Associated Researchers network (YEAR)_](https://www.year-network.com/ourevents/forecasting-with-ai-what-can-modern-machine-learning-tell-us-about-the-future/)
 
-**November 2024:** Gave a presentation and participated in a panel discussion on the theme [_Is technology our only salvation from climate collapse?_](https://internetdagarna.se/program-2024/ar-tekniken-var-enda-raddning-fran-en-klimatkollaps/) at [Internetdagarna 2024](https://internetdagarna.se/).
+**December 2024:** Half-day introduction to AI for a group of industry and academic actors in the [Soft Microscopy network](https://softmicroscopy.se/)
 
-**October 2024:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_.
+**November 2024:** Gave a presentation and participated in a panel discussion on the theme [_Is technology our only salvation from climate collapse?_](https://internetdagarna.se/program-2024/ar-tekniken-var-enda-raddning-fran-en-klimatkollaps/) at [Internetdagarna 2024](https://internetdagarna.se/)
 
-**October 2024:** Invited presentation for [IQ Samhällsbyggnad](https://www.iqs.se/in-english/) about AI and its many applications within the built environment sector.
+**October 2024:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_
 
-**August 2024:** Participated in a panel discussion titled [_Science communication and AI – threats, challenges and opportunities_](https://youtu.be/uRVoaiXaeH0?si=Wh9AHkf39RbXKXR_&t=51), at the [_World Water Week_](https://www.worldwaterweek.org/) in Stockholm.
+**October 2024:** Invited presentation for [IQ Samhällsbyggnad](https://www.iqs.se/in-english/) about AI and its many applications within the built environment sector
 
-**August 2024:** Invited presentation for [Sally Dobberman](https://sally.doberman.co/) on the topic _AI considerations under post-growth scenarios_.
+**August 2024:** Participated in a panel discussion titled [_Science communication and AI – threats, challenges and opportunities_](https://youtu.be/uRVoaiXaeH0?si=Wh9AHkf39RbXKXR_&t=51), at the [_World Water Week_](https://www.worldwaterweek.org/) in Stockholm
 
-**January 2024:** Commentary on AI for tackling climate change ([Naturvetarna](https://www.naturvetarna.se/), in Swedish).
+**August 2024:** Invited presentation for [Sally Dobberman](https://sally.doberman.co/) on the topic _AI considerations under post-growth scenarios_
 
-**December 2023:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_. Similar presentation also for [Digitaliseringskonsulterna](https://digitaliseringskonsulterna.se/).
+**January 2024:** Commentary on AI for tackling climate change ([Naturvetarna](https://www.naturvetarna.se/), in Swedish)
 
-**October 2023:** Presentation for [Lantbrukarnas Riksförbund](https://www.lrf.se/) (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_.
+**December 2023:** Guest lecture for a class of master students at Lund University on the theme _AI for the environment_. Similar presentation also for [Digitaliseringskonsulterna](https://digitaliseringskonsulterna.se/)
 
-**October 2023:** Presentation for a group of industry leaders within the industry sector in Skåne. Title: _AI in practice: How to succeed with your first AI project_.
+**October 2023:** Presentation for [Lantbrukarnas Riksförbund](https://www.lrf.se/) (Federation of Swedish Farmers) about AI within the agricultural sector. Title: _AI within horticulture: Where we are today, and where we may be headed_
+
+**October 2023:** Presentation for a group of industry leaders within the industry sector in Skåne. Title: _AI in practice: How to succeed with your first AI project_
 
 **September 2023:** [Commentary on AI for tackling climate change (Miljö och utveckling, in Swedish)](https://miljo-utveckling.se/ai-potentiell-hjalte-i-klimatkrisen/)
 
@@ -41,7 +43,7 @@ author_profile: true
 
 **September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation](https://youtu.be/p1AT31S37b4)
 
-**May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_.
+**May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_
 
 **January 2022:** [AI and climate change (RISE Learning Machines)](https://youtu.be/QXztQfKLiSc) -- [Article about the talk](https://www.ri.se/en/ai-center/aleksis-pirinen-we-must-dare-to-discuss-pessimistic-scenarios)
 
