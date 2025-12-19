@@ -22,7 +22,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 <!--**Dec 2025:** We're organizing the [2026 Nordic Workshop on AI for Climate Change](https://climateainordics.com/news/2025-10-22-cain-2026-event-teaser/) in June 2026, the second of an annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)! See you in Copenhagen!-->
 
-**Dec 2025:** Paper accepted at AAMAS 2026 (25% acceptance rate): _DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_. Paper and code out soon!
+**Dec 2025:** Paper accepted at AAMAS 2026 (25% acceptance rate): [_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_](https://openreview.net/pdf?id=0SMr5nFzdG). Camera-ready paper and code out soon!
 
 **Dec 2025:** Financing obtained for **5-year PhD project!** Project title (tentative): _Breeder co-pilot - Optimizing plant breeding with AI_. I will lead the AI work in the project, among other things by being the co-supervisor of an industrial PhD student at [Lantmännen](https://www.lantmannen.com/). The project is led by [Aakash Chawade](https://chawadelab.com/) at the [Swedish University of Agricultural Sciences](https://www.slu.se/en). Project start: Spring 2026. Funded by [SLU Grogrund](https://www.slu.se/om-slu/organisation/centrumbildningar/slu-grogrund/).
 
