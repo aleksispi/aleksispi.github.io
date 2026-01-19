@@ -10,19 +10,20 @@ author_profile: true
 ## Doctoral supervision
 Below is a description of **past and ongoing doctoral student supervision.**
 
-**Dec 2025 - Dec 2029 (upcoming):** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+**Feb 2026 - Feb 2030:** Main supervisor for PhD candidate [Isabelle Tingzon](https://issa-tingzon.github.io/), who will also be affiliated with KTH Royal Institute of Technology. Academic supervisor: [Prof. Yifang Ban](https://www.kth.se/profile/yifang) (KTH). The doctoral project is titled _ML-Earth: Robust and data-efficient machine learning for Earth observation_ and is funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
-<!--**Spring 2024 (ongoing):** Co-supervisor of the master thesis students Oscar Marklund and Richard Lindholm, Lund University. Academic supervisor: [Prof. Maria Sandsten](https://www.maths.lu.se/english/research/staff/mariasandsten/). Other supervisors at RISE: [Dr. Olof Mogren](mogren.one) and [John Martinsson](https://johnmartinsson.github.io/). Thesis (preliminary title): _Active Learning for Bioacoustic Sound Event Detection_. The thesis is within the area of biodiversity monitoring.-->
+**Feb 2026 - Feb 2031:** Co-supervisor for industrial PhD candidate _TBD_, who will also be affiliated with the Swedish University of Agricultural Sciences (SLU). Academic supervisor: [Assoc. Prof. Aakash Chawade](https://www.slu.se/en/profilepages/c/aakash-chawade/) (SLU). The industrial doctoral student works at [Lantmännen](https://www.lantmannen.com/). 
+
 **May 2023 - Feb 2025:** Co-supervisor for PhD candidate [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=en) (RISE, Uppsala University). Academic supervisor: [Prof. Thomas Schön](https://www.katalog.uu.se/profile/?id=N13-1742) (Uppsala University). Maria successfully defended her thesis in Feb 2025: [_Structured models for scientific machine learning: from graphs to kernels_](https://www.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Structured+models+for+scientific+machine+learning%3A+from+graphs+to+kernels&language=en&pid=diva2%3A1924341&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=3615).
 
 ## Master and intern supervision
 Below is a description of **past and ongoing master student and intern supervision.**
 
-**Spring 2026 (upcoming):** Internship main supervisor for doctoral student [Jhonny Hueller](https://it.linkedin.com/in/jhonny-hueller/en) within the project [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds).
+**Mar - June 2026:** Internship main supervisor for doctoral student [Jhonny Hueller](https://it.linkedin.com/in/jhonny-hueller/en) within the project [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds).
 
-**Spring 2026 (upcoming):** Co-main supervisor (jointly with [Delia Fano Yela](https://delialia.github.io/) and [Georg Andersson](https://www.ri.se/sv/person/georg-andersson)) of the master thesis students Isak Randahl and Linnea Sartorius, Lund University. Academic supervisor: TBD. Thesis title _Machine learning and Earth observation data for monitoring nature restoration_.
+**Spring 2026:** Co-main supervisor (jointly with [Delia Fano Yela](https://delialia.github.io/) and [Georg Andersson](https://www.ri.se/sv/person/georg-andersson)) of the master thesis students Isak Randahl and Linnea Sartorius, Lund University. Academic supervisor: TBD. Thesis title _Machine learning and Earth observation data for monitoring nature restoration_.
 
-**Spring 2026 (upcoming):** Co-supervisor of the master thesis students Fatemeh Mofid, Stockholm University. Academic supervisor: TBD. Thesis title _TBD_.
+**Spring 2026:** Co-supervisor of the master thesis students Sarah Mofid, Stockholm University. Academic supervisor: TBD. Thesis title _TBD_.
 
 **Fall 2025 (4 months):** Internship main supervisor for Rojina Shakya within the project [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/).
 
