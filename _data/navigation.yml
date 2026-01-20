@@ -2,6 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/ 
+  - title: "Projects"
+    url: /projects/
+  - title: "Supervision"
+    url: /supervision/ 
   - title: "Personal page"
     url: /personal/ 
   - title: "Notes"
