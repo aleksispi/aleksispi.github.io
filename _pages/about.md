@@ -20,7 +20,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
-**Feb 2026:** [Issa Tingzon](https://issa-tingzon.github.io/) joined RISE Lund as my PhD student in the doctoral project [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/forskning/pagaende-forskning/research-institute-phd-2024/projekt/13869/)** funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/)! Issa was previously working at organizations such as [the World Bank](https://www.worldbank.org/en/home) and [Unicef](https://www.unicef.org/), focusing on ML-EO for socioeconomic development, humanitarian assistance, climate resilience, and disaster response.
+**Feb 2026:** [Issa Tingzon](https://issa-tingzon.github.io/) joined RISE Lund as my PhD student in the doctoral project [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/forskning/pagaende-forskning/research-institute-phd-2024/projekt/13869/) funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/)! Issa was previously working at organizations such as [the World Bank](https://www.worldbank.org/en/home) and [Unicef](https://www.unicef.org/), focusing on ML-EO for socioeconomic development, humanitarian assistance, climate resilience, and disaster response.
 
 <!--**Dec 2025:** We're organizing the [2026 Nordic Workshop on AI for Climate Change](https://climateainordics.com/news/2025-10-22-cain-2026-event-teaser/) in June 2026, the second of an annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)! See you in Copenhagen!-->
 
