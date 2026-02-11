@@ -17,6 +17,8 @@ author_profile: true
 
 ## Review work
 
+**Faculty opponent.** I have so far been the facult opponent once, for [Oskar Åström's licentiate defence](https://portal.research.lu.se/en/publications/real-world-applications-of-anomaly-detection-detecting-the-unexpe/) at Lund University, Feb 10th 2026.
+
 **Machine learning & computer vision.** I regularly review top-tier ML/CV conference and journal papers (ICML 2025; ICLR 2025; ICCV 2025, 2019; NeurIPS 2024, 2017; CVPR 2017 - 2019; ECCV 2018; AAAI 2018, 2021; BMVC 2022; CoRL 2022 - 2024; TPAMI 2024; IJCV 2019 - 2021).
 
 **Remote sensing, environment & AI.** I've also served as a reviewer for:
