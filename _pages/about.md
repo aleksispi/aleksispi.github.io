@@ -20,6 +20,10 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
+**Mar 2026:** The doctoral student Jhonny Hueller started his internship with me in the RISE Lund office today. He'll be working on synthetic data and ML for [weed detection in agriculture](https://www.ri.se/en/agriculture/project/practical-wision-automatic-identification-and-mapping-of-weeds).
+
+**Mar 2026:** I will present our work on [SatML for monitoring nature restoration](https://www.ri.se/en/agrictulture/project/ai-based-remote-sensing-of-nature-restoration-and-landscape-elements) at the [Swedish Climate Symposium](https://swedishclimatesymposium.com/) in May!
+
 **Feb 2026:** An academic first for me -- I was the **faculty opponent** for [Oskar Åström's](https://scholar.google.com/citations?user=D864NLwAAAAJ&hl=en) **licentiate thesis defence** at Lund University. His thesis can be [found here](https://portal.research.lu.se/en/publications/real-world-applications-of-anomaly-detection-detecting-the-unexpe/) and is titled _Real-World Applications of Anomaly Detection: Detecting the Unexpected Through Distributional Modelling_.
 
 **Feb 2026:** [Issa Tingzon](https://issa-tingzon.github.io/) joined RISE Lund as **my PhD student in the doctoral project** [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/forskning/pagaende-forskning/research-institute-phd-2024/projekt/13869/) funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/)! Issa was previously working at organizations such as [the World Bank](https://www.worldbank.org/en/home) and [Unicef](https://www.unicef.org/), focusing on ML-EO for socioeconomic development, humanitarian assistance, climate resilience, and disaster response.
