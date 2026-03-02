@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Feb 2026 - Feb 2030:** [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/forskning/pagaende-forskning/research-institute-phd-2024/projekt/13869/) (principal investigator, PhD main supervisor & main applicant). Upcoming doctoral project funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
+**Feb 2026 - Feb 2030:** [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/forskning/pagaende-forskning/research-institute-phd-2024/projekt/13869/) (principal investigator, PhD main supervisor & main applicant). Doctoral project funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/).
 
 **Jan 2026 - Jan 3031:** _Breeder co-pilot - Optimizing plant breeding with AI_ (PhD co-supervisor & co-applicant). Project funded by [SLU Grogrund](https://www.slu.se/om-slu/organisation/centrumbildningar/slu-grogrund/).
 
