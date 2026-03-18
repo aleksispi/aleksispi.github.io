@@ -7,6 +7,8 @@ author_profile: true
 
 **May 2026 (upcoming):** Invited presentation about our work on [SatML for monitoring nature restoration](https://www.ri.se/en/agrictulture/project/ai-based-remote-sensing-of-nature-restoration-and-landscape-elements) at [Sydost-GIS](https://www.sydostgis.se/)
 
+**March 2026:** I was interviewed as an expert for a Swedish government-targeted synthesis report on the state of climate change 
+
 **December 2025:** Invited presentation on the topic _AI during the meta-crisis_ by [Elina Eriksson](https://www.kth.se/profile/elina) at [KTH Royal Institute of Technology](https://www.kth.se/en)
 
 **October 2025:** Invited presentation on the topic _AI for the Environment_ at the [DigiHalland 2025 event](https://www.regionhalland.se/kultur/kulturarrangemang/kulturarrangemang/2025-09-16-digihalland-ai-hallbarhet-och-framtidens-mojligheter) (Region Halland)
