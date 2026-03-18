@@ -21,9 +21,9 @@ Below is a description of **past and ongoing master student and intern supervisi
 
 **Mar - June 2026:** Internship main supervisor for doctoral student [Jhonny Hueller](https://it.linkedin.com/in/jhonny-hueller/en) within the project [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds).
 
-**Spring 2026:** Main supervisor (together with [Delia Fano Yela](https://delialia.github.io/) and [Georg Andersson](https://www.ri.se/sv/person/georg-andersson)) of the master thesis students Isak Randahl and Linnea Sartorius, Lund University. Academic supervisor: TBD. Thesis title _Machine learning and Earth observation data for monitoring nature restoration_.
+**Spring 2026:** Main supervisor (together with [Delia Fano Yela](https://delialia.github.io/) and [Georg Andersson](https://www.ri.se/sv/person/georg-andersson)) of the master thesis students Isak Randahl and Linnea Sartorius, Lund University. Academic supervisor: [Sadegh Jamail](https://scholar.google.com/citations?user=NUn-vzAAAAAJ&hl=en). Thesis topic: _Machine learning and Earth observation data for monitoring nature restoration_.
 
-**Spring 2026:** Co-supervisor (together with [Sebastian Hafner](https://scholar.google.com/citations?user=_-DKm-wAAAAJ&hl=en)) of the master thesis students Sarah Mofid, Stockholm University. Academic supervisor: [Assoc. Prof. Ian Brown](https://www.su.se/english/profiles/b/brown). Thesis title _TBD_.
+**Spring 2026:** Co-supervisor (together with [Sebastian Hafner](https://scholar.google.com/citations?user=_-DKm-wAAAAJ&hl=en)) of the master thesis students Sarah Mofid, Stockholm University. Academic supervisor: [Assoc. Prof. Ian Brown](https://www.su.se/english/profiles/b/brown). Thesis topic: _Geospatial machine learning for erosion risk estimation_.
 
 **Fall 2025 (4 months):** Internship main supervisor for Rojina Shakya within the project [_AI-based remote sensing for monitoring nature restoration and landscape elements at farm level_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2024-3/ai-baserad-fjarranalys-av-naturrestaurering-och-landskapselement-pa-gardsniva/).
 
