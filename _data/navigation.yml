@@ -6,6 +6,8 @@ main:
     url: /projects/
   - title: "Supervision"
     url: /supervision/ 
+  - title: "Outreach"
+    url: /outreach/ 
   - title: "Personal page"
     url: /personal/ 
   - title: "Notes"
