@@ -20,6 +20,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
+**Mar 2026:** We're organizing the [2026 Nordic Workshop on AI for Climate](https://climateainordics.com/events/2026-nordic-workshop) on June 26th 2026, the second of an annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)! See you in Copenhagen!
+
 **Mar 2026:** The doctoral student Jhonny Hueller started his internship with me in the RISE Lund office today. He'll be working on synthetic data and ML for [weed detection in agriculture](https://www.ri.se/en/agriculture/project/practical-wision-automatic-identification-and-mapping-of-weeds).
 
 **Mar 2026:** I will present our work on [SatML for monitoring nature restoration](https://www.ri.se/en/agrictulture/project/ai-based-remote-sensing-of-nature-restoration-and-landscape-elements) at the [Swedish Climate Symposium](https://swedishclimatesymposium.com/) in May!
@@ -27,8 +29,6 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 **Feb 2026:** An academic first for me -- I was the **faculty opponent** for [Oskar Åström's](https://scholar.google.com/citations?user=D864NLwAAAAJ&hl=en) **licentiate thesis defence** at Lund University. His thesis can be [found here](https://portal.research.lu.se/en/publications/real-world-applications-of-anomaly-detection-detecting-the-unexpe/) and is titled _Real-World Applications of Anomaly Detection: Detecting the Unexpected Through Distributional Modelling_.
 
 **Feb 2026:** [Issa Tingzon](https://issa-tingzon.github.io/) joined RISE Lund as **my PhD student in the doctoral project** [_ML-Earth: Robust and data-efficient machine learning for Earth observation_](https://strategiska.se/forskning/pagaende-forskning/research-institute-phd-2024/projekt/13869/) funded by the [Swedish Foundation for Strategic Research](https://strategiska.se/en/)! Issa was previously working at organizations such as [the World Bank](https://www.worldbank.org/en/home) and [Unicef](https://www.unicef.org/), focusing on ML-EO for socioeconomic development, humanitarian assistance, climate resilience, and disaster response.
-
-<!--**Dec 2025:** We're organizing the [2026 Nordic Workshop on AI for Climate Change](https://climateainordics.com/news/2025-10-22-cain-2026-event-teaser/) in June 2026, the second of an annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)! See you in Copenhagen!-->
 
 **Dec 2025:** Paper accepted at AAMAS 2026 (25% acceptance rate): [_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_](https://openreview.net/pdf?id=0SMr5nFzdG). Camera-ready paper and code out soon!
 
