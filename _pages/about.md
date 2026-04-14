@@ -20,6 +20,10 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
+**Apr 2026:** Glad to be a co-main organizer of the [ECCV 2026](https://eccv.ecva.net/) accepted workshop **_CVCC: Workshop on Computer Vision for Climate and Conservation_** (more info incl webpage coming soon)!
+
+**Apr 2026:** Participated in the workshop [_Systemic enablers for climate-aligned artificial intelligence_](https://www.digitalfutures.kth.se/event/systemic-enablers-for-climate-aligned-artificial-intelligence-workshop-14-16-april-2026/) at KTH Digital Futures in Stockholm.
+
 **Mar 2026:** We're organizing the [2026 Nordic Workshop on AI for Climate](https://climateainordics.com/events/2026-nordic-workshop) on June 26th 2026, the second of an annual series of workshops/conferences hosted by [_Climate AI Nordics_](https://climateainordics.com/)! See you in Copenhagen!
 
 **Mar 2026:** The doctoral student Jhonny Hueller started his internship with me in the RISE Lund office today. He'll be working on synthetic data and ML for [weed detection in agriculture](https://www.ri.se/en/agriculture/project/practical-wision-automatic-identification-and-mapping-of-weeds).
