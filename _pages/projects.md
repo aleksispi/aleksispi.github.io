@@ -18,7 +18,7 @@ author_profile: true
 <!--**Dec 2024 - Dec 2026 (starting soon):** _Grey to green: Using AI to detect and prioritize conversion of impervious surfaces to multifunctional nature-based solutions_ (advisor). Funded by FORMAS.-->
 <!--**Aug 2024 - Aug 2027 (ongoing):** [_AI-TOMO: Accelerated materials characterisation by AI and X-ray tomography_](https://www.vinnova.se/en/p/ai-tomo-accelerated-materials-characterisation-by-ai-and-x-ray-tomography/) (participating researcher). Funded by [Vinnova](https://www.vinnova.se/en/).-->
 
-**May 2024 - May 2026 (ongoing):** [_AI-based Power Production Models for Increased Wind Farm Efficiency_](https://www.vr.se/english/swecris.html?project%3DP2023-01341_Energi#/) (co-applicant & participating researcher). Funded by the [Swedish Energy Agency](https://www.energimyndigheten.se/en/).
+**May 2024 - May 2026:** [_AI-based Power Production Models for Increased Wind Farm Efficiency_](https://www.vr.se/english/swecris.html?project%3DP2023-01341_Energi#/) (co-applicant & participating researcher). Funded by the [Swedish Energy Agency](https://www.energimyndigheten.se/en/).
 
 **Jan 2024 - Apr 2025:** [_ML-based grazing detection in satellite imagery_](https://www.rymdstyrelsen.se/innovation/beviljade-bidrag/rymdtillampningsprogrammet-2023-2/precision-i-betesmark-effektiv-markuppfoljning-med-ai/) (lead researcher). Funded by the [Swedish National Space Agency](https://www.rymdstyrelsen.se/en/). See a [preprint here](https://arxiv.org/abs/2510.14493), and [code here](https://github.com/aleksispi/pib-ml-grazing).
 
