@@ -7,7 +7,7 @@ author_profile: true
 
 **Please refer also to my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en) for more info.**
 
-[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (**AAMAS 2026**)](https://arxiv.org/abs/2605.15519) -- Camera-ready paper and code coming soon!
+[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (**AAMAS 2026**)](https://ifaamas.org/Proceedings/aamas2026/pdfs/PUUC3893.pdf) -- [arXiv](https://arxiv.org/abs/2605.15519) -- [Code](https://github.com/mvrl/Multi-objective-active-sampling-for-inpainting)
 
 [_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (**AICC workshop at EurIPS 2025**)](https://arxiv.org/abs/2510.14493) -- [Code](https://github.com/aleksispi/pib-ml-grazing) -- Presented also at [ELLIS UnConference Workshop - AI for Earth and Climate Sciences](https://www.ellis-jena.eu/ellis-unconference-2025/)
 
