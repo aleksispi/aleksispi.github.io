@@ -20,6 +20,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
+**June 2026:** Welcoming [Ashkan C. Haghi](https://www.linkedin.com/in/ashkan-c-haghi-44a9912b0/) as a summer intern at RISE Lund! Ashkan will be working with [Issa](https://issa-tingzon.github.io/) and myself on data-efficient ML for cloud optical thickness estimation.
+
 **Apr 2026:** Glad to be a program chair and main contact of the [ECCV 2026](https://eccv.ecva.net/) accepted workshop [**_AICC-2: 2nd Workshop on AI for Climate and Conservation_**](https://sites.google.com/g.harvard.edu/aicc2eccv26/) -- call for participation is open (deadline Aug 7th)!
 
 **Apr 2026:** Participated in the workshop [_Systemic enablers for climate-aligned artificial intelligence_](https://www.digitalfutures.kth.se/event/systemic-enablers-for-climate-aligned-artificial-intelligence-workshop-14-16-april-2026/) at KTH Digital Futures in Stockholm.
