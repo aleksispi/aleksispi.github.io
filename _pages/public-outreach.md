@@ -45,7 +45,7 @@ author_profile: true
 
 **October 2022:** My work on [AI-based mapping of wetlands in Sweden](https://github.com/aleksispi/ai-swetlands) was covered by the Swedish magazine [Miljö och utveckling](https://miljo-utveckling.se/sa-kan-ai-teknik-hjalpa-sverige-att-bevara-vatmarker/)
 
-**September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://www.naturvetarna.se/om-oss/naturvetarpodden/aleksis-pirinen--kan-ai-losa-klimatkrisen/) -- [Extended conversation](https://youtu.be/p1AT31S37b4)
+**September 2022:** [AI for climate (Naturvetarna podcast, in Swedish)](https://open.spotify.com/episode/3P31TYU0ZlKmadjtC5gJnO?si=dad70b70ee784fff&nd=1&dlsi=f5d578ce917c4d8b) -- [Extended conversation](https://youtu.be/p1AT31S37b4)
 
 **May 2022:** Keynote presentation about AI for tackling the climate challenges at _Stockholm Tech_
 
