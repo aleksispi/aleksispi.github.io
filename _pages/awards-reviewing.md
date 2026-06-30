@@ -28,6 +28,7 @@ author_profile: true
 * _International Degrowth Conference_ (2024)
 * _Tackling Climate Change with Machine Learning_ (ICLR workshop, 2025)
 * _AICC: Workshop on AI for Climate and Conservation_ (EurIPS workshop, 2025)
+* _TerraBytes II — Towards global datasets and models for Earth observation_ (ECCV workshop, 2026)
 
 **Grant proposals.** In addition to reviewing papers, I've also reviewed:
 * Grant proposals and tutorials for [_Climate Change AI_](https://www.climatechange.ai/calls/innovation_grants_2024) (2024, 2025)
