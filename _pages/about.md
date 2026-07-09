@@ -20,8 +20,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
-**July 2025:** We're organizing an [**AI for planetary health after work social**](https://luma.com/t8r226ec) at [ECCV 2026](https://eccv.ecva.net/)!
-
+<!--**July 2025:** We're organizing an [**AI for planetary health after work social**](https://luma.com/t8r226ec) at [ECCV 2026](https://eccv.ecva.net/)!-->
 **June 2026:** Welcoming [Ashkan C. Haghi](https://www.linkedin.com/in/ashkan-c-haghi-44a9912b0/) as a summer intern at RISE Lund! Ashkan will be working with [Issa](https://issa-tingzon.github.io/) and myself on data-efficient ML for cloud optical thickness estimation.
 
 **Apr 2026:** Glad to be a program chair and main contact of the [ECCV 2026](https://eccv.ecva.net/) accepted workshop [**_AICC-2: 2nd Workshop on AI for Climate and Conservation_**](https://sites.google.com/g.harvard.edu/aicc2eccv26/) -- call for participation is open (deadline Aug 7th)!
