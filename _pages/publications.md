@@ -7,7 +7,15 @@ author_profile: true
 
 **Please refer also to my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en) for more info.**
 
-[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (**AAMAS 2026**)](https://ifaamas.org/Proceedings/aamas2026/pdfs/PUUC3893.pdf) -- [arXiv](https://arxiv.org/abs/2605.15519) -- [Code](https://github.com/mvrl/Multi-objective-active-sampling-for-inpainting)
+<!--From Machine Learning to Large-Scale EO Products: Best Practices for Making Maps-->
+
+<!--Assessing SAM3 for Zero-shot Building Footprint Delineation-->
+
+<!--Learning from Privileged Modalities for High-resolution Mapping using Low-resolution Inputs: An Application in Flood Mapping-->
+
+<!--Monitoring Pasture Restoration from Satellite Image Time Series: Caveats and Opportunities (**CV4Ecology workshop at ECCV 2026**)-->
+
+[_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (**AAMAS 2026**)](https://dl.acm.org/doi/10.65109/PUUC3893) -- [arXiv](https://arxiv.org/abs/2605.15519) -- [Code](https://github.com/mvrl/Multi-objective-active-sampling-for-inpainting)
 
 [_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (**AICC workshop at EurIPS 2025**)](https://arxiv.org/abs/2510.14493) -- [Code](https://github.com/aleksispi/pib-ml-grazing) -- Presented also at [ELLIS UnConference Workshop - AI for Earth and Climate Sciences](https://www.ellis-jena.eu/ellis-unconference-2025/)
 
