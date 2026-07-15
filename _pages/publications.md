@@ -17,7 +17,7 @@ author_profile: true
 
 [_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (**AAMAS 2026**)](https://dl.acm.org/doi/10.65109/PUUC3893) -- [arXiv](https://arxiv.org/abs/2605.15519) -- [Code](https://github.com/mvrl/Multi-objective-active-sampling-for-inpainting)
 
-[_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (**AICC workshop at EurIPS 2025**)](https://arxiv.org/abs/2510.14493) -- [Code](https://github.com/aleksispi/pib-ml-grazing) -- Presented also at [ELLIS UnConference Workshop - AI for Earth and Climate Sciences](https://www.ellis-jena.eu/ellis-unconference-2025/)
+[_Grazing Detection using Deep Learning and Sentinel-2 Time Series Data_ (**AICC workshop at EurIPS 2025**)](https://arxiv.org/abs/2510.14493) -- [Journal version (preprint)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119502) -- [Code](https://github.com/aleksispi/pib-ml-grazing) -- Presented also at [ELLIS UnConference Workshop - AI for Earth and Climate Sciences](https://www.ellis-jena.eu/ellis-unconference-2025/)
 
 [_DiffWake: A General Differentiable Wind-Farm Solver in JAX_ (**Differentiable Systems and Scientific Machine Learning workshop at EurIPS 2025**)](https://openreview.net/attachment?id=PNvRJuxzmi&name=pdf) -- [Code](https://github.com/mariabankestad/DiffWake)
 
