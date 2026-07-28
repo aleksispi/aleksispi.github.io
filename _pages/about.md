@@ -20,6 +20,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
+**July 2025:** Two papers accepted at the ECCV 2026 workshop [TerraBytes II](https://terrabytes-workshop.github.io/)!
+
 <!--**July 2025:** We're organizing an [**AI for planetary health after work social**](https://luma.com/t8r226ec) at [ECCV 2026](https://eccv.ecva.net/)!-->
 **June 2026:** Welcoming [Ashkan C. Haghi](https://www.linkedin.com/in/ashkan-c-haghi-44a9912b0/) as a summer intern at RISE Lund! Ashkan will be working with [Issa](https://issa-tingzon.github.io/), [Sebastian](https://scholar.google.com/citations?user=_-DKm-wAAAAJ&hl=en), [Jesper](https://www.linkedin.com/in/jesper-dejby/) and myself on data-efficient ML for cloud optical thickness estimation.
 
