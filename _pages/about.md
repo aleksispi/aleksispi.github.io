@@ -20,6 +20,10 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
+**Aug 2026:** [Climate AI Nordics](https://climateainordics.com/), that I co-founded in late 2024, has now become an [official NGO](https://climateainordics.com/news/2026-08-04-cain-ngo/)!
+
+**Aug 2026:** Paper accepted at the [3rd Workshop on Computer Vision for Ecology](https://cv4e-workshop.github.io/index.html), at ECCV 2026!
+
 **July 2025:** Two papers accepted at the ECCV 2026 workshop [TerraBytes II](https://terrabytes-workshop.github.io/)!
 
 <!--**July 2025:** We're organizing an [**AI for planetary health after work social**](https://luma.com/t8r226ec) at [ECCV 2026](https://eccv.ecva.net/)!-->
