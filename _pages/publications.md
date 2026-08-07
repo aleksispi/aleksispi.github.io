@@ -7,11 +7,11 @@ author_profile: true
 
 **Please refer also to my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en) for more info.**
 
-<!--From Machine Learning to Large-Scale EO Products: Best Practices for Making Maps-->
+[_From Machine Learning to Large-Scale EO Products: Best Practices for Making Maps_(**TerraBytes II workshop at ECCV 2026**)](https://arxiv.org/abs/2607.24532) -- [Interactive online book version](https://ghjuliasialelli.github.io/ML-EO-Maps/)
 
 <!--Assessing SAM3 for Zero-shot Building Footprint Delineation-->
 
-<!--Learning from Privileged Modalities for High-resolution Mapping using Low-resolution Inputs: An Application in Flood Mapping-->
+_Learning from Privileged Modalities for High-resolution Mapping using Low-resolution Inputs: An Application in Flood Mapping_ (**TerraBytes II workshop at ECCV 2026**)
 
 <!--Monitoring Pasture Restoration from Satellite Image Time Series: Caveats and Opportunities (**CV4Ecology workshop at ECCV 2026**)-->
 
