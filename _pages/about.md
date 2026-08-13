@@ -20,7 +20,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
-**Aug 2026:** We're organizing an [**AI for planetary health after work social**](https://luma.com/t8r226ec) at [ECCV 2026](https://eccv.ecva.net/)!
+**Aug 2026:** We're organizing an [**AI for planetary health after work social**](https://luma.com/t8r226ec) at [ECCV 2026](https://eccv.ecva.net/Conferences/2026/SocialEvents)!
 
 **Aug 2026:** [Climate AI Nordics](https://climateainordics.com/), that I co-founded in late 2024, has now become an [official NGO](https://climateainordics.com/news/2026-08-04-cain-ngo/)!
 
