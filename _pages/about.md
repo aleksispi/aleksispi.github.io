@@ -20,13 +20,14 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
+**Aug 2026:** We're organizing an [**AI for planetary health after work social**](https://luma.com/t8r226ec) at [ECCV 2026](https://eccv.ecva.net/)!
+
 **Aug 2026:** [Climate AI Nordics](https://climateainordics.com/), that I co-founded in late 2024, has now become an [official NGO](https://climateainordics.com/news/2026-08-04-cain-ngo/)!
 
 **Aug 2026:** Paper accepted at the [3rd Workshop on Computer Vision for Ecology](https://cv4e-workshop.github.io/index.html), at ECCV 2026!
 
 **July 2025:** Two papers accepted at the ECCV 2026 workshop [TerraBytes II](https://terrabytes-workshop.github.io/)!
 
-<!--**July 2025:** We're organizing an [**AI for planetary health after work social**](https://luma.com/t8r226ec) at [ECCV 2026](https://eccv.ecva.net/)!-->
 **June 2026:** Welcoming [Ashkan C. Haghi](https://www.linkedin.com/in/ashkan-c-haghi-44a9912b0/) as a summer intern at RISE Lund! Ashkan will be working with [Issa](https://issa-tingzon.github.io/), [Sebastian](https://scholar.google.com/citations?user=_-DKm-wAAAAJ&hl=en), [Jesper](https://www.linkedin.com/in/jesper-dejby/) and myself on data-efficient ML for cloud optical thickness estimation.
 
 **Apr 2026:** Glad to be a program chair and main contact of the [ECCV 2026](https://eccv.ecva.net/) accepted workshop [**_AICC-2: 2nd Workshop on AI for Climate and Conservation_**](https://sites.google.com/g.harvard.edu/aicc2eccv26/) -- call for participation is open (deadline Aug 7th)!
