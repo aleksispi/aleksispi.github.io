@@ -7,13 +7,13 @@ author_profile: true
 
 **Please refer also to my [google scholar page](https://scholar.google.com/citations?user=paBGTgsAAAAJ&hl=en) for more info.**
 
-[_From Machine Learning to Large-Scale EO Products: Best Practices for Making Maps_(**TerraBytes II workshop at ECCV 2026**)](https://arxiv.org/abs/2607.24532) -- [Interactive online book version](https://ghjuliasialelli.github.io/ML-EO-Maps/)
-
-<!--Assessing SAM3 for Zero-shot Building Footprint Delineation-->
+[_From Machine Learning to Large-Scale EO Products: Best Practices for Making Maps_ (**TerraBytes II workshop at ECCV 2026**)](https://arxiv.org/abs/2607.24532) -- [Interactive online book version](https://ghjuliasialelli.github.io/ML-EO-Maps/)
 
 _Learning from Privileged Modalities for High-resolution Mapping using Low-resolution Inputs: An Application in Flood Mapping_ (**TerraBytes II workshop at ECCV 2026**)
 
-<!--Monitoring Pasture Restoration from Satellite Image Time Series: Caveats and Opportunities (**CV4Ecology workshop at ECCV 2026**)-->
+_Monitoring Pasture Restoration from Satellite Image Time Series: Caveats and Opportunities_ (**CV4Ecology workshop at ECCV 2026**) -- [Code](https://github.com/aleksispi/ml-nature-resto)
+
+_Assessing SAM3 for Zero-Shot Building Footprint Delineation: A Case Study in Juba, South Sudan_ (**AICC-2 workshop at ECCV 2026**)
 
 [_DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments_ (**AAMAS 2026**)](https://dl.acm.org/doi/10.65109/PUUC3893) -- [arXiv](https://arxiv.org/abs/2605.15519) -- [Code](https://github.com/mvrl/Multi-objective-active-sampling-for-inpainting)
 
