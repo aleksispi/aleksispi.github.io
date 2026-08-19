@@ -11,7 +11,7 @@ author_profile: true
 
 _Learning from Privileged Modalities for High-resolution Mapping using Low-resolution Inputs: An Application in Flood Mapping_ (**TerraBytes II workshop at ECCV 2026**)
 
-_Monitoring Pasture Restoration from Satellite Image Time Series: Caveats and Opportunities_ (**CV4Ecology workshop at ECCV 2026**) -- [Code](https://github.com/aleksispi/ml-nature-resto)
+[_Monitoring Pasture Restoration from Satellite Image Time Series: Caveats and Opportunities_ (**CV4Ecology workshop at ECCV 2026**)](https://arxiv.org/abs/2608.17704) -- [Code](https://github.com/aleksispi/ml-nature-resto)
 
 _Assessing SAM3 for Zero-Shot Building Footprint Delineation: A Case Study in Juba, South Sudan_ (**AICC-2 workshop at ECCV 2026**)
 
