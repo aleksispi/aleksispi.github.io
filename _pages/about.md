@@ -24,7 +24,7 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 **Aug 2026:** [Climate AI Nordics](https://climateainordics.com/), that I co-founded in late 2024, has now become an [official NGO](https://climateainordics.com/news/2026-08-04-cain-ngo/)!
 
-**Aug 2026:** Paper accepted at the [3rd Workshop on Computer Vision for Ecology](https://cv4e-workshop.github.io/index.html), at ECCV 2026!
+**Aug 2026:** Our [paper on SatML for monitoring nature restoration](https://arxiv.org/abs/2608.17704) accepted at the [3rd Workshop on Computer Vision for Ecology](https://cv4e-workshop.github.io/index.html), at ECCV 2026!
 
 **Aug 2026:** I've joined [Researcher's Desk](https://researchersdesk.se/en), a non-profit organisation and platform for dialogue between researchers and civil society, educators and decision-makers regarding the ongoing climate and biodiversity crisis.
 
