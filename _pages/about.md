@@ -20,13 +20,13 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
-**Aug 2026:** We're organizing an [**AI for planetary health after work social**](https://luma.com/t8r226ec) at [ECCV 2026](https://eccv.ecva.net/Conferences/2026/SocialEvents)!
+**Aug 2026:** We're organizing an [**AI for planetary health after work social**](https://climateainordics.com/events/2026-08-13-eccv26-social/) at [ECCV 2026](https://eccv.ecva.net/Conferences/2026/SocialEvents)!
 
 **Aug 2026:** [Climate AI Nordics](https://climateainordics.com/), that I co-founded in late 2024, has now become an [official NGO](https://climateainordics.com/news/2026-08-04-cain-ngo/)!
 
 **Aug 2026:** Our [paper on SatML for monitoring nature restoration](https://arxiv.org/abs/2608.17704) accepted at the [3rd Workshop on Computer Vision for Ecology](https://cv4e-workshop.github.io/index.html), at ECCV 2026!
 
-**Aug 2026:** I've joined [Researcher's Desk](https://researchersdesk.se/en), a non-profit organisation and platform for dialogue between researchers and civil society, educators and decision-makers regarding the ongoing climate and biodiversity crisis.
+**Aug 2026:** I've joined [Researcher's Desk](https://researchersdesk.se/en), a non-profit organisation and platform for dialogue between researchers and civil society, educators and decision-makers regarding the ongoing climate and biodiversity crisis. I'm also joining the [large climate demonstration](https://www.naturskyddsforeningen.se/kampanj/den-stora-klimatdemonstrationen/) in Stockholm on Aug 23rd.
 
 **July 2025:** Two papers accepted at the ECCV 2026 workshop [TerraBytes II](https://terrabytes-workshop.github.io/)!
 
