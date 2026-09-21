@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "Media and public communication"
+title: "Presentations, media and public communication"
 permalink: /outreach/
 author_profile: true
 ---
 
-**May 2026:** Invited presentation about our work on [SatML for monitoring nature restoration](https://www.ri.se/en/agrictulture/project/ai-based-remote-sensing-of-nature-restoration-and-landscape-elements) at [Sydost-GIS](https://www.sydostgis.se/)
+**Jan 2027 (upcoming):** Invited presentation about _AI and the environment_ for [Researchers Desk](https://researchersdesk.se/en)
+
+**May 2026:** Oral presentation about our work on [AI-based satellite remote sensing for monitoring nature restoration](https://arxiv.org/abs/2608.17704) at [the Swedish Climate Symposium 2026](https://swedishclimatesymposium.com/)
+
+**May 2026:** Invited presentation about our work on [AI-based satellite remote sensing for monitoring nature restoration](https://www.ri.se/en/agrictulture/project/ai-based-remote-sensing-of-nature-restoration-and-landscape-elements) at [Sydost-GIS](https://www.sydostgis.se/)
 
 **March 2026:** I was interviewed as an expert for a Swedish government-targeted synthesis report on the state of climate change
 
