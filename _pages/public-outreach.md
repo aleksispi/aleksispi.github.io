@@ -7,6 +7,10 @@ author_profile: true
 
 **Jan 2027 (upcoming):** Invited presentation about _AI and the environment_ for [Researchers Desk](https://researchersdesk.se/en)
 
+**Nov 2027:** Invited presentation about _AI and the environment_ for the Stockholm University master's program [Transdisciplinary Studies of Climate, Environment and Energy](https://www.su.se/english/divisions/department-of-biology-education/news/articles/2025-03-03-tracee---a-transdisciplinary-masters-program-for-a-sustainable-future).
+
+**Nov 2027:** Invited panelist on the topic _Sustainable Preparedness_ at the [Lund University BECC annual meeting](https://www.becc.lu.se/calendar/becc-annual-meeting-2026-sustainable-preparedness).
+
 **May 2026:** Oral presentation about our work on [AI-based satellite remote sensing for monitoring nature restoration](https://arxiv.org/abs/2608.17704) at [the Swedish Climate Symposium 2026](https://swedishclimatesymposium.com/)
 
 **May 2026:** Invited presentation about our work on [AI-based satellite remote sensing for monitoring nature restoration](https://www.ri.se/en/agrictulture/project/ai-based-remote-sensing-of-nature-restoration-and-landscape-elements) at [Sydost-GIS](https://www.sydostgis.se/)
