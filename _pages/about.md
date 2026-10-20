@@ -20,6 +20,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
+**Oct 2026:** I'll be a panelist on the topic _Sustainable Preparedness_ at the [Lund University BECC annual meeting](https://www.becc.lu.se/calendar/becc-annual-meeting-2026-sustainable-preparedness) on Nov 13th.
+
 **Aug 2026:** We're organizing an [**AI for planetary health after work social**](https://climateainordics.com/events/2026-08-13-eccv26-social/) at [ECCV 2026](https://eccv.ecva.net/Conferences/2026/SocialEvents)!
 
 **Aug 2026:** [Climate AI Nordics](https://climateainordics.com/), that I co-founded in late 2024, has now become an [official NGO](https://climateainordics.com/news/2026-08-04-cain-ngo/)!
