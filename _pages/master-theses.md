@@ -19,6 +19,8 @@ Below is a description of **past and ongoing doctoral student supervision.**
 ## Master and intern supervision
 Below is a description of **past and ongoing master student and intern supervision.**
 
+**Spring 2027:** Main supervisor (together with [Issa](https://issa-tingzon.github.io/)) of the master thesis student Darragh Nagle, KTH Royal Institute of Technology. Academic supervisor: [Andrea Nascetti](https://www.kth.se/profile/nascetti). Thesis topic: _SatML for mapping Swedish wetlands_. The project is conducted with the [Swedish Environmental Protection Agency](https://www.naturvardsverket.se/en/) (stakeholder).
+
 **Summer 2026:** Internship main supervisor (jointly with [Issa](https://issa-tingzon.github.io/)) for [Ashkan C. Haghi](https://www.linkedin.com/in/ashkan-c-haghi-44a9912b0/). Internship topic: Data-efficient ML for cloud optical thickness estimation.
 
 **Mar - June 2026:** Internship main supervisor for doctoral student [Jhonny Hueller](https://it.linkedin.com/in/jhonny-hueller/en) within the project [_PRACTICAL WISION – Automatically identifying and mapping different weed species through the practical application of AI-based image analysis models_](https://www.ri.se/en/expertise-areas/projects/practical-wision-automatic-identification-and-mapping-of-weeds).
