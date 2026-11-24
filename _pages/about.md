@@ -20,6 +20,8 @@ I'm an advocate for facing our difficult future (and present, for many), collect
 
 # News
 
+**Nov 2026:** Funding obtained for the 2-year project **_HydroAI: an AI enhanced satellite framework to support future hydrological monitoring_**! I will co-lead the AI work in the project. The project is led by [Yiheng Du](https://www.smhi.se/forskning/om-oss/medarbetare/sok-medarbetare/yiheng-du) at the [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.smhi.se/en). Project start: Spring 2027. Funded by the [Swedish National Space Agency](https://en.rymdstyrelsen.se/).
+
 **Oct 2026:** I'll be a panelist on the topic _Sustainable Preparedness_ at the [Lund University BECC annual meeting](https://www.becc.lu.se/calendar/becc-annual-meeting-2026-sustainable-preparedness) on Nov 13th.
 
 **Aug 2026:** We're organizing an [**AI for planetary health after work social**](https://climateainordics.com/events/2026-08-13-eccv26-social/) at [ECCV 2026](https://eccv.ecva.net/Conferences/2026/SocialEvents)!
